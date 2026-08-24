@@ -1,0 +1,24 @@
+{
+  "name": "conan-exiles-enhanced-player-wiki",
+  "version": "1.0.0",
+  "description": "Player-facing wiki for a 5x rates, full-PvP Conan Exiles Enhanced server.",
+  "type": "module",
+  "private": true,
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "dev": "vitepress dev .",
+    "build": "node scripts/verify-wiki.mjs && vitepress build .",
+    "preview": "vitepress preview .",
+    "verify": "node scripts/verify-wiki.mjs"
+  },
+  "overrides": {
+    "vitepress": {
+      "vite": "6.4.3"
+    }
+  },
+  "devDependencies": {
+    "vitepress": "^1.6.4"
+  }
+}

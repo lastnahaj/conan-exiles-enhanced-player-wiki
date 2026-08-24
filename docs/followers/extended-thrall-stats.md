@@ -1,0 +1,25 @@
+---
+title: Extended Thrall Stats
+description: Additional information available in follower stat panels.
+verification: verified
+---
+
+# Extended Thrall Stats
+
+**Source mod:** Extended Thrall Stats (Enhanced) (`3720737911`)
+
+![Official Workshop image for Extended Thrall Stats](/media/mods/extended-thrall-stats.png)
+
+The expanded follower and pet stats panel includes:
+
+- Melee damage multiplier
+- Ranged damage multiplier
+- Damage percentage per attribute point
+- Health per Vitality point
+- Original follower name
+
+The mod injects the extra fields into the normal follower panel rather than replacing it, which its
+author documents as a compatibility feature. The interface also includes a language toggle between
+localized text and English. A short delay before the additional fields appear can be normal.
+
+[Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3720737911)

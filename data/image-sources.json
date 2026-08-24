@@ -1,0 +1,367 @@
+{
+  "schema_version": 1,
+  "verified_at": "2026-08-24",
+  "local_images": [
+    {
+      "local_path": "public/media/mods/simple-modlist.png",
+      "source_page": "https://steamcommunity.com/sharedfiles/filedetails/?id=3719546290",
+      "source_asset": "https://images.steamusercontent.com/ugc/15602452654298399537/4BCB12B6309391D7D21F6A2C70BBBF24B99B9102/",
+      "mod_id": "3719546290",
+      "mod_name": "Simple Modlist v5.0.6 (by Xevyr)",
+      "credit": "Xevyr via Steam Workshop",
+      "retrieved_at": "2026-08-24",
+      "verified_at": "2026-08-24",
+      "alt": "Official Workshop image for Simple Modlist"
+    },
+    {
+      "local_path": "public/media/mods/damage-meter.png",
+      "source_page": "https://steamcommunity.com/sharedfiles/filedetails/?id=3719585133",
+      "source_asset": "https://images.steamusercontent.com/ugc/17549922331133898367/9D0BD802BBADD924A4AA7BEE4BC8621370E0D76D/",
+      "mod_id": "3719585133",
+      "mod_name": "The Damage Meter (by Xevyr) - v5.0.9",
+      "credit": "Xevyr via Steam Workshop",
+      "retrieved_at": "2026-08-24",
+      "verified_at": "2026-08-24",
+      "alt": "Official Workshop image for The Damage Meter"
+    },
+    {
+      "local_path": "public/media/mods/follower-collision.png",
+      "source_page": "https://steamcommunity.com/sharedfiles/filedetails/?id=3720753923",
+      "source_asset": "https://images.steamusercontent.com/ugc/17337242088373642740/78E4C3205956AD7BE85BE193A78792B9186D61F8/",
+      "mod_id": "3720753923",
+      "mod_name": "[Enhanced] Player Ignores Follower Collision",
+      "credit": "Deadlayn via Steam Workshop",
+      "retrieved_at": "2026-08-24",
+      "verified_at": "2026-08-24",
+      "alt": "Official Workshop image for Player Ignores Follower Collision"
+    },
+    {
+      "local_path": "public/media/mods/unlock-plus.png",
+      "source_page": "https://steamcommunity.com/sharedfiles/filedetails/?id=3720948133",
+      "source_asset": "https://images.steamusercontent.com/ugc/10884946033842070652/3E55806E01972FDE08F34CC4914A8E4A5455F1C7/",
+      "mod_id": "3720948133",
+      "mod_name": "Unlock Plus v2.0.6 (Enhanced)",
+      "credit": "Testerle via Steam Workshop",
+      "retrieved_at": "2026-08-24",
+      "verified_at": "2026-08-24",
+      "alt": "Official Workshop image for Unlock Plus"
+    },
+    {
+      "local_path": "public/media/mods/better-thralls.png",
+      "source_page": "https://steamcommunity.com/sharedfiles/filedetails/?id=3720904511",
+      "source_asset": "https://images.steamusercontent.com/ugc/18119873933489936094/ACEEE54C30ED04A9561D95EEF4A6D6E3B8D2BDCE/",
+      "mod_id": "3720904511",
+      "mod_name": "Better Thralls v3.3.0 (Enhanced)",
+      "credit": "Testerle via Steam Workshop",
+      "retrieved_at": "2026-08-24",
+      "verified_at": "2026-08-24",
+      "alt": "Official Workshop image for Better Thralls"
+    },
+    {
+      "local_path": "public/media/mods/simple-minimap.png",
+      "source_page": "https://steamcommunity.com/sharedfiles/filedetails/?id=3719513784",
+      "source_asset": "https://images.steamusercontent.com/ugc/14945166659794223955/C3F3A166F224DCBC8D139D07541F6C68868E88AD/",
+      "mod_id": "3719513784",
+      "mod_name": "Simple Minimap (by Xevyr) v5.1.9",
+      "credit": "Xevyr via Steam Workshop",
+      "retrieved_at": "2026-08-24",
+      "verified_at": "2026-08-24",
+      "alt": "Official Workshop image for Simple Minimap"
+    },
+    {
+      "local_path": "public/media/mods/stacksize-plus.png",
+      "source_page": "https://steamcommunity.com/sharedfiles/filedetails/?id=3720915336",
+      "source_asset": "https://images.steamusercontent.com/ugc/10918194503833160889/43AC699599BA9897E059AB155D2F4B136C9828EF/",
+      "mod_id": "3720915336",
+      "mod_name": "Stacksize Plus v2.0.3 (Enhanced)",
+      "credit": "Testerle via Steam Workshop",
+      "retrieved_at": "2026-08-24",
+      "verified_at": "2026-08-24",
+      "alt": "Official Workshop image for Stacksize Plus"
+    },
+    {
+      "local_path": "public/media/mods/fashionist.png",
+      "source_page": "https://steamcommunity.com/sharedfiles/filedetails/?id=3720921242",
+      "source_asset": "https://images.steamusercontent.com/ugc/10664834440560984229/BFB3C825657428B9E36B8F6E2C21B8AE7E7725BA/",
+      "mod_id": "3720921242",
+      "mod_name": "Fashionist v5.0.9 (Enhanced)",
+      "credit": "Testerle via Steam Workshop",
+      "retrieved_at": "2026-08-24",
+      "verified_at": "2026-08-24",
+      "alt": "Official Workshop image for Fashionist"
+    },
+    {
+      "local_path": "public/media/mods/proximity-party.png",
+      "source_page": "https://steamcommunity.com/sharedfiles/filedetails/?id=3718878457",
+      "source_asset": "https://images.steamusercontent.com/ugc/14837710917936758442/3CBCAFE7263D61497ADFA41C4C50F5FC3CE47B1C/",
+      "mod_id": "3718878457",
+      "mod_name": "Proximity Party (by Xevyr) - v5.0.7",
+      "credit": "Xevyr via Steam Workshop",
+      "retrieved_at": "2026-08-24",
+      "verified_at": "2026-08-24",
+      "alt": "Official Workshop image for Proximity Party"
+    },
+    {
+      "local_path": "public/media/mods/mystical-travel-shelf.png",
+      "source_page": "https://steamcommunity.com/sharedfiles/filedetails/?id=3718830483",
+      "source_asset": "https://images.steamusercontent.com/ugc/10411864080125792508/F4E9B747E233BF249AA4B507BE9D6678514D8AD6/",
+      "mod_id": "3718830483",
+      "mod_name": "Mystical Travel Shelf (by Xevyr)",
+      "credit": "Xevyr via Steam Workshop",
+      "retrieved_at": "2026-08-24",
+      "verified_at": "2026-08-24",
+      "alt": "Official Workshop image for Mystical Travel Shelf"
+    },
+    {
+      "local_path": "public/media/mods/domains-magic.png",
+      "source_page": "https://steamcommunity.com/sharedfiles/filedetails/?id=3724192567",
+      "source_asset": "https://images.steamusercontent.com/ugc/10048781994329772059/BE3CA622FA6A61132D7951DCE038EACAA39BFAFD/",
+      "mod_id": "3724192567",
+      "mod_name": "Domain's Magic Enhanced",
+      "credit": "Peaceleaf via Steam Workshop",
+      "retrieved_at": "2026-08-24",
+      "verified_at": "2026-08-24",
+      "alt": "Official Workshop image for Domain's Magic Enhanced"
+    },
+    {
+      "local_path": "public/media/mods/lbpr.png",
+      "source_page": "https://steamcommunity.com/sharedfiles/filedetails/?id=3755091710",
+      "source_asset": "https://images.steamusercontent.com/ugc/17713814851431760650/F5547E74BBADD1A65E9E3DB555DD46FABE9E365A/",
+      "mod_id": "3755091710",
+      "mod_name": "Less Building Placement Restrictions (Enhanced) - v1.0.3",
+      "credit": "Multigun, Xevyr, and hades via Steam Workshop",
+      "retrieved_at": "2026-08-24",
+      "verified_at": "2026-08-24",
+      "alt": "Official Workshop image for Less Building Placement Restrictions"
+    },
+    {
+      "local_path": "public/media/mods/exiles-extreme.png",
+      "source_page": "https://steamcommunity.com/sharedfiles/filedetails/?id=3721151274",
+      "source_asset": "https://images.steamusercontent.com/ugc/9539514076026404921/2249D700482C524B2FB6FF2DE0E1F8F7D6ABB683/",
+      "mod_id": "3721151274",
+      "mod_name": "ExilesExtreme - v2.0.7",
+      "credit": "Sibercat via Steam Workshop",
+      "retrieved_at": "2026-08-24",
+      "verified_at": "2026-08-24",
+      "alt": "Official Workshop image for ExilesExtreme"
+    },
+    {
+      "local_path": "public/media/mods/extended-thrall-stats.png",
+      "source_page": "https://steamcommunity.com/sharedfiles/filedetails/?id=3720737911",
+      "source_asset": "https://images.steamusercontent.com/ugc/17666939615325449763/365F0E46ED7B6B5F727795D7FD5934EC79719797/",
+      "mod_id": "3720737911",
+      "mod_name": "Extended Thrall Stats (Enhanced)",
+      "credit": "Grandpa Who via Steam Workshop",
+      "retrieved_at": "2026-08-24",
+      "verified_at": "2026-08-24",
+      "alt": "Official Workshop image for Extended Thrall Stats"
+    },
+    {
+      "local_path": "public/media/mods/armory-and-arsenal.png",
+      "source_page": "https://steamcommunity.com/sharedfiles/filedetails/?id=3718199031",
+      "source_asset": "https://images.steamusercontent.com/ugc/16417602164140027168/0C8DAE6CFE3DDB3AF8025E8CB4D1E540A59DD8A7/",
+      "mod_id": "3718199031",
+      "mod_name": "[Enhanced] Armory and Arsenal v1.2.9",
+      "credit": "Solvita via Steam Workshop",
+      "retrieved_at": "2026-08-24",
+      "verified_at": "2026-08-24",
+      "alt": "Official Workshop image for Armory and Arsenal"
+    },
+    {
+      "local_path": "public/media/mods/eaa-perks-level.png",
+      "source_page": "https://steamcommunity.com/sharedfiles/filedetails/?id=3720326124",
+      "source_asset": "https://images.steamusercontent.com/ugc/13399984636888720609/0C8DAE6CFE3DDB3AF8025E8CB4D1E540A59DD8A7/",
+      "mod_id": "3720326124",
+      "mod_name": "[Enhanced] EAA - Enhanced Perks & Level",
+      "credit": "Solvita via Steam Workshop",
+      "retrieved_at": "2026-08-24",
+      "verified_at": "2026-08-24",
+      "alt": "Official Workshop image for EAA - Enhanced Perks & Level"
+    },
+    {
+      "local_path": "public/media/mods/wings-of-valhalla.png",
+      "source_page": "https://steamcommunity.com/sharedfiles/filedetails/?id=3719965485",
+      "source_asset": "https://images.steamusercontent.com/ugc/9665433445200582151/F5A0117C2D832062E6E0E7E1F5B6A51E6BF2CFE3/",
+      "mod_id": "3719965485",
+      "mod_name": "Wings Of Valhalla (Beta)",
+      "credit": "Winged V Studios via Steam Workshop",
+      "retrieved_at": "2026-08-24",
+      "verified_at": "2026-08-24",
+      "alt": "Official Workshop image for Wings Of Valhalla"
+    },
+    {
+      "local_path": "public/media/mods/wings-of-valhalla-equipment.png",
+      "source_page": "https://steamcommunity.com/sharedfiles/filedetails/?id=3721036709",
+      "source_asset": "https://images.steamusercontent.com/ugc/13958348662059753651/B07B818D7F7CC941461679A50544F9BA89795EE3/",
+      "mod_id": "3721036709",
+      "mod_name": "Wings Of Valhalla Equipment (Beta)",
+      "credit": "Winged V Studios via Steam Workshop",
+      "retrieved_at": "2026-08-24",
+      "verified_at": "2026-08-24",
+      "alt": "Official Workshop image for Wings Of Valhalla Equipment"
+    },
+    {
+      "local_path": "public/media/mods/pippi.png",
+      "source_page": "https://steamcommunity.com/sharedfiles/filedetails/?id=3725018456",
+      "source_asset": "https://images.steamusercontent.com/ugc/16799006376839007649/6ED4EC18E602DCC6288B5A0B91447849B22BFAB2/",
+      "mod_id": "3725018456",
+      "mod_name": "[Enhanced] Pippi - User & Server Management - v4.0.6",
+      "credit": "Joshtech via Steam Workshop",
+      "retrieved_at": "2026-08-24",
+      "verified_at": "2026-08-24",
+      "alt": "Official Workshop image for Pippi Enhanced"
+    },
+    {
+      "local_path": "public/media/mods/highmanes-arsenal.png",
+      "source_page": "https://steamcommunity.com/sharedfiles/filedetails/?id=3721926604",
+      "source_asset": "https://images.steamusercontent.com/ugc/16512592050115279517/69BAA165C790C1D1ACDD21E1AE11A17AC03F2933/",
+      "mod_id": "3721926604",
+      "mod_name": "Highmane's Arsenal: Enhanced",
+      "credit": "Dracula via Steam Workshop",
+      "retrieved_at": "2026-08-24",
+      "verified_at": "2026-08-24",
+      "alt": "Official Workshop gallery image for Highmane's Arsenal"
+    },
+    {
+      "local_path": "public/media/mods/fashionist-legacy-player-settings.png",
+      "source_page": "https://testerle.net/fashionist-configuration/",
+      "source_asset": "https://testerle.net/wp-content/uploads/2020/12/config-main-screen-1.png",
+      "mod_id": "3720921242",
+      "mod_name": "Fashionist v5.0.9 (Enhanced)",
+      "credit": "Testerle",
+      "retrieved_at": "2026-08-24",
+      "verified_at": "2026-08-24",
+      "edition_scope": "legacy-era-interface-reference",
+      "current_feature_source": "https://steamcommunity.com/sharedfiles/filedetails/?id=3720921242",
+      "alt": "Legacy-era Fashionist player settings screen from the author's documentation"
+    },
+    {
+      "local_path": "public/media/mods/fashionist-legacy-attached-equipment.png",
+      "source_page": "https://testerle.net/fashionist-configuration/",
+      "source_asset": "https://testerle.net/wp-content/uploads/2020/12/player-config-aw-weapon-display-options.png",
+      "mod_id": "3720921242",
+      "mod_name": "Fashionist v5.0.9 (Enhanced)",
+      "credit": "Testerle",
+      "retrieved_at": "2026-08-24",
+      "verified_at": "2026-08-24",
+      "edition_scope": "legacy-era-interface-reference",
+      "current_feature_source": "https://steamcommunity.com/sharedfiles/filedetails/?id=3720921242",
+      "alt": "Legacy-era Fashionist attached weapon display choices from the author's documentation"
+    }
+  ],
+  "approved_source_pages": [
+    {
+      "system": "Wings Of Valhalla",
+      "mod_id": "3719965485",
+      "source_pages": [
+        "https://steamcommunity.com/sharedfiles/filedetails/?id=3719965485",
+        "https://wings-of-valhalla.com/"
+      ]
+    },
+    {
+      "system": "Wings Of Valhalla Equipment",
+      "mod_id": "3721036709",
+      "source_pages": ["https://steamcommunity.com/sharedfiles/filedetails/?id=3721036709"]
+    },
+    {
+      "system": "Highmane's Arsenal: Enhanced",
+      "mod_id": "3721926604",
+      "source_pages": ["https://steamcommunity.com/sharedfiles/filedetails/?id=3721926604"]
+    },
+    {
+      "system": "[Enhanced] Armory and Arsenal v1.2.9",
+      "mod_id": "3718199031",
+      "source_pages": ["https://steamcommunity.com/sharedfiles/filedetails/?id=3718199031"]
+    },
+    {
+      "system": "[Enhanced] EAA - Enhanced Perks & Level",
+      "mod_id": "3720326124",
+      "source_pages": ["https://steamcommunity.com/sharedfiles/filedetails/?id=3720326124"]
+    },
+    {
+      "system": "Domain's Magic Enhanced",
+      "mod_id": "3724192567",
+      "source_pages": [
+        "https://steamcommunity.com/sharedfiles/filedetails/?id=3724192567",
+        "https://docs.google.com/document/d/1V55KOwctM_VPTZH7rmVC_n4r_X2sjLlpHI8zAhCiQSQ/edit?usp=sharing"
+      ]
+    },
+    {
+      "system": "ExilesExtreme - v2.0.7",
+      "mod_id": "3721151274",
+      "source_pages": [
+        "https://steamcommunity.com/sharedfiles/filedetails/?id=3721151274",
+        "https://exee.site/",
+        "https://exee.site/listofitems/"
+      ]
+    },
+    {
+      "system": "Better Thralls v3.3.0 (Enhanced)",
+      "mod_id": "3720904511",
+      "source_pages": ["https://steamcommunity.com/sharedfiles/filedetails/?id=3720904511"]
+    },
+    {
+      "system": "Fashionist v5.0.9 (Enhanced)",
+      "mod_id": "3720921242",
+      "source_pages": [
+        "https://steamcommunity.com/sharedfiles/filedetails/?id=3720921242",
+        "https://testerle.net/fashionist-configuration/"
+      ]
+    },
+    {
+      "system": "Unlock Plus v2.0.6 (Enhanced)",
+      "mod_id": "3720948133",
+      "source_pages": ["https://steamcommunity.com/sharedfiles/filedetails/?id=3720948133"]
+    },
+    {
+      "system": "Stacksize Plus v2.0.3 (Enhanced)",
+      "mod_id": "3720915336",
+      "source_pages": ["https://steamcommunity.com/sharedfiles/filedetails/?id=3720915336"]
+    },
+    {
+      "system": "Less Building Placement Restrictions (Enhanced) - v1.0.3",
+      "mod_id": "3755091710",
+      "source_pages": ["https://steamcommunity.com/sharedfiles/filedetails/?id=3755091710"]
+    },
+    {
+      "system": "Extended Thrall Stats (Enhanced)",
+      "mod_id": "3720737911",
+      "source_pages": ["https://steamcommunity.com/sharedfiles/filedetails/?id=3720737911"]
+    },
+    {
+      "system": "[Enhanced] Player Ignores Follower Collision",
+      "mod_id": "3720753923",
+      "source_pages": ["https://steamcommunity.com/sharedfiles/filedetails/?id=3720753923"]
+    },
+    {
+      "system": "Simple Minimap (by Xevyr) v5.1.9",
+      "mod_id": "3719513784",
+      "source_pages": ["https://steamcommunity.com/sharedfiles/filedetails/?id=3719513784"]
+    },
+    {
+      "system": "The Damage Meter (by Xevyr) - v5.0.9",
+      "mod_id": "3719585133",
+      "source_pages": ["https://steamcommunity.com/sharedfiles/filedetails/?id=3719585133"]
+    },
+    {
+      "system": "Proximity Party (by Xevyr) - v5.0.7",
+      "mod_id": "3718878457",
+      "source_pages": ["https://steamcommunity.com/sharedfiles/filedetails/?id=3718878457"]
+    },
+    {
+      "system": "Mystical Travel Shelf (by Xevyr)",
+      "mod_id": "3718830483",
+      "source_pages": ["https://steamcommunity.com/sharedfiles/filedetails/?id=3718830483"]
+    },
+    {
+      "system": "Simple Modlist v5.0.6 (by Xevyr)",
+      "mod_id": "3719546290",
+      "source_pages": ["https://steamcommunity.com/sharedfiles/filedetails/?id=3719546290"]
+    },
+    {
+      "system": "[Enhanced] Pippi - User & Server Management - v4.0.6",
+      "mod_id": "3725018456",
+      "source_pages": ["https://steamcommunity.com/sharedfiles/filedetails/?id=3725018456"]
+    }
+  ]
+}
