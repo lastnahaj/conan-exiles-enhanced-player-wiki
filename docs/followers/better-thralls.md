@@ -14,6 +14,10 @@ Better Thralls expands follower management through several independent, configur
 page incorporates the current Enhanced feature documentation; it does not assume every optional
 system is enabled here.
 
+Open its player settings from the green control beside the character inventory. If that control is
+hidden, run `DataCmd BetterThralls` in the in-game console. The command opens ordinary player
+settings and does not require elevated permissions.
+
 ## Warcry quick start
 
 Press **T** by default to open the Warcry menu for nearby followers and pets.
@@ -30,12 +34,11 @@ hauling—is enabled.
 ## Pickup and follower slots
 
 The pickup feature applies to eligible followers and pets with empty inventories that are not
-companions or restricted DLC content. The server can add requirements such as full health, land
-claim, or a cooldown.
+companions or restricted DLC content. Full health, land claim, and a cooldown can also be required.
 
-The mod can add extra active follower slots and can tie them to the War Party perk. The source's
-supported maximum is not this server's confirmed follower limit, so no active slot count is
-published yet.
+The mod supports up to ten additional follower slots on top of the base-game limit and can require
+the War Party perk. The actual number available is the limit enforced when a follower is asked to
+follow.
 
 ## Teams
 
@@ -47,7 +50,7 @@ still applies.
 ## Base and combat utility
 
 - **Lamplighter:** a dedicated follower type can maintain lights around a base. The source describes
-  three tiers with increasingly large working areas.
+  three tiers. Their approximate working radii are 15 foundations for T1, 25 for T2, and 40 for T3.
 - **Defense experience:** idle followers can earn a configurable share of kill experience while
   defending a base, up to a configurable limit. This does not raise the follower's underlying
   maximum level.
@@ -56,6 +59,10 @@ still applies.
 - **Weapon intent:** optional Warcry commands can switch followers between lethal weapons and an
   attempt to use non-lethal weapons.
 - **Home:** a follower radial menu can expose **Set Home** and **Teleport Home** when enabled.
+- **Extended stats:** the follower panel can show ranged and melee damage multipliers, health per
+  Vitality, damage bonuses per Strength and Agility, and the follower's thrall group.
+- **Fall damage:** follower fall damage can range from none to the full player-equivalent amount;
+  the base-game reference is 40%.
 
 All thresholds, areas, experience shares, cooldowns, and enabled states require live verification.
 
@@ -72,7 +79,22 @@ The source limits hauling to thralls, mounts, and some larger pets. Teleporting 
 attached target temporarily appear missing; take the target back from the follower before placing
 it in a wheel.
 
-## Sources
+## Troubleshooting
+
+- The old green follow action no longer exists. Use the normal white **Follow** action for every
+  follower.
+- Only compatible follower groups can travel together. Human thralls and most pets use the Warrior
+  group; zombies, undead, some summoned followers, and some modded followers may use incompatible
+  groups.
+- Only one mount can follow because mounts use their own base-game follower group.
+- A **Refuses to follow** message commonly means the follower was not assigned a current follower
+  group by the mod that added it.
+- Better Thralls does not alter follower combat statistics or the follower's underlying maximum
+  level.
+- Additional followers receive experience through the game's normal follower experience system.
+- A Better Thralls Lamplighter has a small **BT** mark on its icon. A similar-looking thrall without
+  that mark is not a Lamplighter from this mod.
+
+## Workshop
 
 - [Current Enhanced Workshop page](https://steamcommunity.com/sharedfiles/filedetails/?id=3720904511)
-- [Author Q&A](https://testerle.net/better-thralls-qa/)

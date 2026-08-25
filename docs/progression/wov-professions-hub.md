@@ -15,7 +15,7 @@ WoV has five profession categories tied to the five core character attributes. P
 experience comes from gameplay. The Profession tab shows each category, its progress, and the
 recipes it can unlock.
 
-The earlier author-linked guide describes this recipe flow:
+The Legacy-era guide describes this recipe flow:
 
 1. Perform the activity associated with the profession to gain profession experience.
 2. Meet both the listed **character level** and **profession level** requirements.
@@ -59,7 +59,6 @@ see [Storage and resources](../crafting/wov-storage-resources.md).
 The **Currency** tab displays WoV currency information. The **Settings** tab contains the ordinary
 player choices for the hub and its interface.
 
-## Sources
+## Workshop
 
 - [Current Enhanced Workshop page](https://steamcommunity.com/sharedfiles/filedetails/?id=3719965485)
-- [Kaali's profession guide tab](https://docs.google.com/spreadsheets/d/1dvqwQ7ar5BcZGWfdgrbsOomqIjHo-60d1fAXEFloe2k/edit#gid=455765381)

@@ -1,6 +1,6 @@
 # Conan Exiles Enhanced Player Wiki
 
-This repository contains the player-facing wiki for a 5x rates, full-PvP Conan Exiles Enhanced
+This repository contains the player-facing wiki for a 5x rates, hardcore full-PvP Conan Exiles Enhanced
 server. It combines the required mod stack into task-oriented guides while keeping configurable or
 server-specific behavior clearly separated from verified facts.
 

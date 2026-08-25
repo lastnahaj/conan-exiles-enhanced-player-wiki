@@ -23,7 +23,7 @@ The current build also enables dual wielding for base-game swords.
 
 ### Legacy-era weapon-type reference
 
-Kaali's older guide cataloged bows, arrows, claws, daggers, great-axes, hammers, maces, spears,
+The Legacy-era guide cataloged bows, arrows, claws, daggers, great-axes, hammers, maces, spears,
 swords, two-handed swords, war-axes, dual variants, and three shield sizes across the arsenals. The
 Enhanced Workshop page confirms the arsenal count and family names, but the current crafting menu
 is the authority for which of those older item types remain in each family.
@@ -44,9 +44,7 @@ Wings Of Valhalla Equipment supplies custom weapons and Mythical Crystal armor f
 Older VAM armor-stat tables are not reused for Enhanced values; read the current item panel for
 armor, attributes, temperature resistance, and effects.
 
-## Sources
+## Workshop
 
 - [Current Enhanced Workshop page](https://steamcommunity.com/sharedfiles/filedetails/?id=3719965485)
 - [Wings Of Valhalla Equipment](https://steamcommunity.com/sharedfiles/filedetails/?id=3721036709)
-- [Kaali's weapons guide tab](https://docs.google.com/spreadsheets/d/1dvqwQ7ar5BcZGWfdgrbsOomqIjHo-60d1fAXEFloe2k/edit#gid=834501197)
-- [Kaali's armor guide tab](https://docs.google.com/spreadsheets/d/1dvqwQ7ar5BcZGWfdgrbsOomqIjHo-60d1fAXEFloe2k/edit#gid=1220221425)

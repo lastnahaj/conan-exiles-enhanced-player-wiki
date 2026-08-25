@@ -1,26 +1,38 @@
 ---
 title: Highmane Crafting, Building & Decor
 description:
-  Verification-ready catalog for Highmane benches, recipe expansions, building sets, and
-  decorations.
+  Local guide to Highmane benches, recipe expansions, building sets, conversions, and decorations.
 verification: server-verification-required
 ---
 
 # Highmane Crafting, Building & Decor
 
-The current Enhanced source documents four universal crafting benches, recipes designed largely
+The current Enhanced release documents four universal crafting benches, recipes designed largely
 around base-game resources, more than 500 decorations, customizable and pre-decorated clusters,
-foliage, and building additions including Woodglass and Crypt-themed pieces. It also describes
-optional resource conversions such as craftable Eldarium and converting Keystone pieces into
-Fragments of Power.
+foliage, and building additions including Woodglass and Crypt-themed pieces.
 
-This catalog separates benches and recipe expansions from building sets and decorations. Entries
-identify the verified player acquisition path, station or placement requirement, cost, and any
-server restriction. Source examples remain system descriptions until their knowledge and recipes
-are visible here.
+## Crafting flow
 
-No individual entry is published yet because its availability on this server has not been verified.
+1. Learn the Highmane knowledge group for the category you want.
+2. Use one of the four universal benches for the recipe category shown in the crafting panel.
+3. Gather the displayed ingredients. Most ordinary recipes use base-game resources, with cost
+   scaling according to item rarity.
+4. Read the finished item or building-piece panel before committing rare materials.
 
-[Current Enhanced source](https://steamcommunity.com/sharedfiles/filedetails/?id=3721926604)
+## Building and decoration coverage
+
+- More than 500 decoration entries
+- Customizable decoration options and pre-decorated clusters
+- Base-game foliage made available for building use
+- Woodglass building additions
+- Crypt-themed building pieces
+
+The mod also documents optional resource conversions, including craftable Eldarium and a conversion
+from Keystone pieces to Fragments of Power. Use only recipes visible to an ordinary player in the
+installed build; the wiki does not assume a conversion has been enabled.
+
+## Workshop
+
+- [Current Enhanced Workshop page](https://steamcommunity.com/sharedfiles/filedetails/?id=3721926604)
 
 [Back to Highmane's Arsenal](../highmanes-arsenal.md)

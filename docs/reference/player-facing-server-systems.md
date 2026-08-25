@@ -1,6 +1,6 @@
 ---
 title: Player-Facing Server Systems
-description: Publication status for ordinary-player features provided through the server framework.
+description: Local guide to ordinary-player interfaces that the server framework can present.
 verification: server-verification-required
 ---
 
@@ -10,11 +10,26 @@ verification: server-verification-required
 
 ![Official Workshop image for Pippi Enhanced](/media/mods/pippi.png)
 
-The required stack includes a server framework that can power player-visible features. No public
-command, kit, travel route, announcement behavior, rule display, quest, contract, NPC interaction,
-merchant, or event has been supplied for this server.
+The required stack includes Pippi, a framework that can present server information and interactions
+directly to ordinary players. This page covers only that public surface. Management panels,
+development systems, hidden conditions, and internal logic are intentionally excluded.
 
-When confirmed, those features will appear under the player concept they serve — such as Travel,
-Quests, Economy, or Server Rules — instead of as framework documentation.
+## What players may encounter
 
-[Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3725018456)
+| Player-facing system | How it appears in play |
+| --- | --- |
+| Chat | Extended chat channels and player communication features. |
+| Announcements and message of the day | Server messages presented when joining or during play. |
+| Rules display | A player-readable rules interface when the server publishes one. |
+| Kits and rewards | Claimable packages or rewards when a public kit has been configured. |
+| Player commands | Public text commands explicitly exposed by the server. |
+| Travel points | Public warp destinations when the server has configured them. |
+| Ranks and checkpoints | Visible progression or access gates used by a public server feature. |
+| Clan tools | Additional ordinary-player clan interactions when enabled. |
+
+Only options actually shown in game are active here. The wiki does not invent command names,
+destinations, kit contents, timers, ranks, rewards, rules, or access requirements.
+
+## Workshop
+
+- [Current Enhanced Workshop page](https://steamcommunity.com/sharedfiles/filedetails/?id=3725018456)

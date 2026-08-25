@@ -33,7 +33,7 @@ The current Enhanced build documents **14 breedable Dragons**.
 4. Place the hatchling in its breeding station.
 5. Feed it meat or fish and collect the resulting Dragon when breeding finishes.
 
-Kaali's older guide lists color probabilities for individual meat and fish types. Those tables are
+The Legacy-era guide lists color probabilities for individual meat and fish types. Those tables are
 Legacy-era references; use the Enhanced station preview for the current result.
 
 ## Follower leveling
@@ -41,7 +41,6 @@ Legacy-era references; use the Enhanced station preview for the current result.
 WoV extends follower progression to level 100 and awards an additional perk every ten levels in its
 published system. The follower's current stat panel shows its active level and perks.
 
-## Sources
+## Workshop
 
 - [Current Enhanced Workshop page](https://steamcommunity.com/sharedfiles/filedetails/?id=3719965485)
-- [Kaali's Legacy-era pet guide tab](https://docs.google.com/spreadsheets/d/1dvqwQ7ar5BcZGWfdgrbsOomqIjHo-60d1fAXEFloe2k/edit#gid=379834417)

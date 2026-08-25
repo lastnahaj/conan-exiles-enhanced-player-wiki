@@ -53,17 +53,17 @@ contain the fifteen documented WoV resource types. Use the local
 [storage and resources guide](../crafting/wov-storage-resources.md) for the associated tool and
 sorting workflows.
 
-## Guide edition note
+## Edition and roadmap boundary
 
-Kaali's linked VAM guide documents the mod's earlier Legacy-era systems. Its still-relevant player
-workflows have been migrated into the local pages above and are explicitly labeled where the
-current Enhanced Workshop page does not independently confirm an old detail. Old item statistics,
-locations, probabilities, and unavailable acquisition routes are not treated as current Enhanced
-facts.
+The older VAM guide documents the mod's Legacy-era systems. Its still-relevant player workflows
+are included in the local pages above and explicitly labeled where the current Enhanced Workshop
+page does not independently confirm an old detail. Old item statistics, locations, probabilities,
+and unavailable acquisition routes are not treated as current Enhanced facts.
 
-## Sources
+The public roadmap describes future development, not current server content. Planned systems are
+therefore excluded from player instructions until a current Enhanced release documents them.
+
+## Workshop
 
 - [Current Enhanced Workshop page](https://steamcommunity.com/sharedfiles/filedetails/?id=3719965485)
 - [Wings Of Valhalla Equipment](https://steamcommunity.com/sharedfiles/filedetails/?id=3721036709)
-- [Kaali's author-linked guide](https://docs.google.com/spreadsheets/d/1dvqwQ7ar5BcZGWfdgrbsOomqIjHo-60d1fAXEFloe2k/edit#gid=0)
-- [Public roadmap](https://wings-of-valhalla.com/)

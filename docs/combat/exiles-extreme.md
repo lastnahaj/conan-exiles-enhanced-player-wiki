@@ -1,7 +1,7 @@
 ---
 title: ExilesExtreme
-description: Player-safe guide to the documented ExilesExtreme equipment, companions, structures, cosmetics, and decorations.
-verification: server-verification-required
+description: Searchable local player catalog for ExilesExtreme equipment, appearance items, companions, structures, weapons, and utilities.
+verification: verified
 ---
 
 # ExilesExtreme
@@ -10,36 +10,30 @@ verification: server-verification-required
 
 ![Official Workshop image for ExilesExtreme](/media/mods/exiles-extreme.png)
 
-ExilesExtreme combines many types of content in one mod. The current Enhanced source and official
-catalog organize it into pets, mounts, placeables, structures, weapons, armor, cosmetics,
-accessories, and decorations.
+ExilesExtreme combines armor, accessories, appearance options, weapons, companions, placeables,
+structures, decorations, and utility items. The complete player-safe catalog is stored and searched
+inside this wiki.
 
-## What this wiki incorporates
+## Catalog coverage
 
-| Player category | Local coverage rule |
+| Section | Included locally |
 | --- | --- |
-| Weapons and armor | Add an entry only with a confirmed ordinary-player acquisition route and server-relevant stats. |
-| Pets and mounts | Record the acquisition method, companion type, and restrictions once observed. |
-| Structures and placeables | Record the recipe or placement route and any confirmed PvP/building restriction. |
-| Accessories and cosmetics | Include only general player-safe categories that are actually available here. |
-| Decorations | Include player-obtainable entries without exposing internal or restricted catalog data. |
+| **Accessories** | Horns, wings, crowns, tails, masks, hats, eyewear, ears, beards, collars, halos, backpacks, particles, light sources, trinkets, and body effects. |
+| **Appearance** | Warpaints and player-usable shapeshifting items. |
+| **Armor** | Light, medium, and heavy pieces from the public craftable catalog. |
+| **Companions** | Publicly craftable companion equipment, including saddles. |
+| **Placeables** | Structures, furniture, statues, lighting, decorations, and other building items. |
+| **Weapons** | Publicly craftable weapons and combat items. |
+| **Utility** | Remaining player-craftable items that do not fit the categories above. |
 
-The official catalog provides searchable armor, accessory, and placeable sections. Some catalog
-entries are not ordinary-player content, and the server's enabled acquisition routes have not been
-supplied. For that reason, this wiki does not copy item IDs or turn the complete upstream catalog
-into a claim that every entry is obtainable.
+The catalog intentionally omits hidden entries, administrator-only content, adult-only content,
+and internal identifiers. Being in this catalog means the official catalog marks the entry as
+craftable; its recipe panel in game shows the current cost and station.
 
-## Server verification needed
+## Search the local catalog
 
-Before an item-level guide can be published, a normal player must be able to obtain or use the item
-through a supplied recipe, merchant, drop, reward, or other public route. This page contains only
-content with an ordinary-player acquisition or use path.
+<ExilesExtremeCatalog />
 
-## Sources
+## Workshop
 
 - [Current Enhanced Workshop page](https://steamcommunity.com/sharedfiles/filedetails/?id=3721151274)
-- [Official ExilesExtreme site](https://exee.site/)
-- [Full catalog](https://exee.site/listofitems/)
-- [Armor](https://exee.site/armor/)
-- [Accessories](https://exee.site/accessories/)
-- [Placeables](https://exee.site/placeables/)

@@ -1,23 +1,29 @@
 ---
 title: Highmane Weapons & Armor
-description: Verification-ready catalog for player-obtainable Highmane weapons and armor.
+description: Local guide to Highmane weapons, movesets, effects, functional armor, and cosmetic clothing.
 verification: server-verification-required
 ---
 
 # Highmane Weapons & Armor
 
-The current Enhanced source establishes that the mod contains hundreds of weapons, dozens of new
-movesets, supporting item effects, functional armor sets, and cosmetic clothing. Its documented
-balance target is close to the base maps, but that is not a substitute for this server's effective
-item values.
+The current Enhanced release contains hundreds of weapons, dozens of new movesets, supporting item
+effects, functional armor sets, and cosmetic clothing. Its documented balance target is close to
+the base maps.
 
-This catalog groups verified weapons by weapon type and records the moveset, effect, acquisition
-route, and PvP restriction. Armor and clothing are organized by set and slot. A catalog count from
-the mod description is never treated as proof that an individual recipe is enabled.
+## Choosing equipment
 
-No individual weapon or armor entry is published yet because ordinary-player acquisition on this
-server has not been verified.
+| Equipment group | What to check in game |
+| --- | --- |
+| Weapons | Weapon type, displayed damage, penetration, moveset, scaling, durability, and any listed effect. |
+| Functional armor | Armor class, protection, attribute bonuses, temperature values, and set effects. |
+| Cosmetic clothing | Appearance and compatible slots; do not assume a cosmetic piece has the protection of functional armor. |
 
-[Current Enhanced source](https://steamcommunity.com/sharedfiles/filedetails/?id=3721926604)
+Recipes are organized through the mod's knowledge groups and universal benches. Learn the relevant
+knowledge, then use the recipe and finished-item panels for the current cost and values. This matters
+in PvP because similarly styled items can have different functional properties.
+
+## Workshop
+
+- [Current Enhanced Workshop page](https://steamcommunity.com/sharedfiles/filedetails/?id=3721926604)
 
 [Back to Highmane's Arsenal](../highmanes-arsenal.md)

@@ -1,19 +1,27 @@
 ---
 title: Highmane Accessories
-description: Verification-ready catalog for player-obtainable standard and infused accessories.
+description: Local guide to standard and infused Highmane accessories.
 verification: server-verification-required
 ---
 
 # Highmane Accessories
 
-The current Enhanced source separates a large standard accessory catalog from **Infused
-Accessories**, which can provide combat-relevant effects. Standard and infused accessories are
-therefore listed separately. A verified entry explains its ordinary-player acquisition,
-requirements, visible or combat effect, and any confirmed PvP restriction.
+The current Enhanced release separates hundreds of standard appearance accessories from **Infused
+Accessories**, which can provide combat-relevant effects.
 
-No individual accessory entry is published yet because server availability and effects have not been
-verified.
+## Standard or infused?
 
-[Current Enhanced source](https://steamcommunity.com/sharedfiles/filedetails/?id=3721926604)
+| Group | Player use |
+| --- | --- |
+| Standard accessories | Appearance customization without assuming a combat effect. |
+| Infused accessories | Accessories whose item panel can list a functional effect or bonus. |
+
+Read the item panel before entering PvP with an accessory. Similar appearances do not prove that two
+items have the same effect, and the word **Infused** is the important signal that the accessory may
+be functional. Crafting knowledge and the relevant universal bench show the current recipe.
+
+## Workshop
+
+- [Current Enhanced Workshop page](https://steamcommunity.com/sharedfiles/filedetails/?id=3721926604)
 
 [Back to Highmane's Arsenal](../highmanes-arsenal.md)

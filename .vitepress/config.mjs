@@ -10,7 +10,7 @@ export default defineConfig({
   cacheDir: ".vitepress/cache",
   base: isProjectPages ? `/${repositoryName}/` : "/",
   title: "Conan Exiles Enhanced — Player Wiki",
-  description: "Player guide for a 5x rates, full-PvP Conan Exiles Enhanced server.",
+  description: "Player guide for a 5x rates, hardcore full-PvP Conan Exiles Enhanced server.",
   cleanUrls: true,
   lastUpdated: true,
   appearance: "dark",
@@ -68,11 +68,12 @@ export default defineConfig({
           { text: "Server Status", link: "/server-status/" },
           { text: "Server Overview", link: "/getting-started/server-overview" },
           { text: "Required Mods", link: "/getting-started/required-mods" },
+          { text: "Mod Troubleshooting", link: "/getting-started/mod-troubleshooting" },
         ],
       },
       {
         text: "Server Rules",
-        items: [{ text: "Rules Status", link: "/server-rules/" }],
+        items: [{ text: "Hardcore PvP Rules", link: "/server-rules/" }],
       },
       {
         text: "Progression",
@@ -90,6 +91,10 @@ export default defineConfig({
           { text: "Combat Overview", link: "/combat/" },
           { text: "WoV Arsenals & Armor", link: "/combat/wov-arsenals-armor" },
           { text: "Highmane's Arsenal", link: "/combat/highmanes-arsenal" },
+          { text: "Highmane Weapons & Armor", link: "/combat/highmanes/equipment" },
+          { text: "Highmane Accessories", link: "/combat/highmanes/accessories" },
+          { text: "Highmane Crafting & Building", link: "/combat/highmanes/crafting-building" },
+          { text: "Highmane Pets & Mounts", link: "/combat/highmanes/companions" },
           { text: "ExilesExtreme", link: "/combat/exiles-extreme" },
         ],
       },
@@ -134,11 +139,11 @@ export default defineConfig({
       },
       {
         text: "Quests & World Content",
-        items: [{ text: "World Content Status", link: "/quests/" }],
+        items: [{ text: "World Content Guide", link: "/quests/" }],
       },
       {
         text: "Economy",
-        items: [{ text: "Economy Status", link: "/economy/" }],
+        items: [{ text: "Economy Guide", link: "/economy/" }],
       },
       {
         text: "Quality of Life",
@@ -154,13 +159,14 @@ export default defineConfig({
       },
       {
         text: "Creatures & Bosses",
-        items: [{ text: "Creature Guide Status", link: "/creatures/" }],
+        items: [{ text: "Creature Guide", link: "/creatures/" }],
       },
       {
         text: "Reference",
         items: [
           { text: "Reference Home", link: "/reference/" },
           { text: "Player Controls", link: "/reference/player-controls" },
+          { text: "Player-Facing Systems", link: "/reference/player-facing-server-systems" },
           { text: "Mod Directory", link: "/reference/mod-directory" },
           { text: "Source Library", link: "/reference/source-library" },
           { text: "Verification", link: "/reference/verification" },
@@ -174,7 +180,7 @@ export default defineConfig({
       text: "Suggest a correction",
     },
     footer: {
-      message: "5x rates • Full PvP",
+      message: "5x rates • Hardcore Full PvP",
     },
     docFooter: {
       prev: "Previous page",

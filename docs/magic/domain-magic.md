@@ -149,7 +149,6 @@ changes only the caster's visual aura.
 - If the character becomes stuck in an incorrect animation state, relogging or removing the
   bracelet can clear the temporary state.
 
-## Sources
+## Workshop
 
 - [Current Enhanced Workshop page](https://steamcommunity.com/sharedfiles/filedetails/?id=3724192567)
-- [Author's Domain's Magic guide](https://docs.google.com/document/d/1V55KOwctM_VPTZH7rmVC_n4r_X2sjLlpHI8zAhCiQSQ/edit?usp=sharing)

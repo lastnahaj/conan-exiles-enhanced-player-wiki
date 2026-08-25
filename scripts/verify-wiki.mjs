@@ -61,8 +61,12 @@ function resolvedMarkdownTarget(sourcePath, rawTarget) {
 const modsRegistry = readJson(join(repositoryRoot, "data", "mods.json"));
 const imageRegistry = readJson(join(repositoryRoot, "data", "image-sources.json"));
 const sourcesRegistry = readJson(join(repositoryRoot, "data", "sources.json"));
+const sourceCoverageRegistry = readJson(join(repositoryRoot, "data", "source-coverage.json"));
 const verificationRegistry = readJson(join(repositoryRoot, "data", "verification.json"));
 const catalog = readJson(join(repositoryRoot, "data", "catalogs", "highmanes-arsenal.json"));
+const exilesExtremeCatalog = readJson(
+  join(repositoryRoot, "data", "catalogs", "exiles-extreme.json"),
+);
 
 if (modsRegistry) {
   const ids = new Set();
@@ -153,6 +157,38 @@ if (!sourcesRegistry || !Array.isArray(sourcesRegistry.sources)) {
 const markdownFiles = walkFiles(docsRoot).filter((path) => extname(path) === ".md");
 const markdownRoutes = new Set(markdownFiles.map(routeForMarkdown));
 
+if (!sourceCoverageRegistry || !Array.isArray(sourceCoverageRegistry.coverage)) {
+  errors.push("data/source-coverage.json must contain a coverage array.");
+} else {
+  const registeredKeys = new Set(sourcesRegistry?.sources?.map((source) => source.key) ?? []);
+  const coveredKeys = new Set();
+
+  for (const record of sourceCoverageRegistry.coverage) {
+    if (!record.source_key || coveredKeys.has(record.source_key)) {
+      errors.push(`Source coverage key ${record.source_key ?? "missing"} is missing or duplicated.`);
+    }
+    coveredKeys.add(record.source_key);
+    if (!registeredKeys.has(record.source_key)) {
+      errors.push(`Source coverage references unknown key ${record.source_key}.`);
+    }
+    if (record.coverage_status !== "incorporated") {
+      errors.push(`Source ${record.source_key ?? "unknown"} is not incorporated locally.`);
+    }
+    if (!Array.isArray(record.local_pages) || record.local_pages.length === 0) {
+      errors.push(`Source ${record.source_key ?? "unknown"} has no local coverage page.`);
+    }
+    for (const route of record.local_pages ?? []) {
+      if (!markdownRoutes.has(route)) {
+        errors.push(`Source ${record.source_key ?? "unknown"} maps to missing route ${route}.`);
+      }
+    }
+  }
+
+  for (const sourceKey of registeredKeys) {
+    if (!coveredKeys.has(sourceKey)) errors.push(`Source ${sourceKey} has no local coverage record.`);
+  }
+}
+
 if (verificationRegistry?.pages) {
   for (const markdownPath of markdownFiles) {
     const route = routeForMarkdown(markdownPath);
@@ -201,6 +237,18 @@ if (verificationRegistry?.pages) {
     if (/\.(?:pak)\b/i.test(markdown)) {
       errors.push(`${relative(repositoryRoot, markdownPath)} exposes a package filename.`);
     }
+
+    const sourceAuditPage = join(docsRoot, "reference", "source-library.md");
+    if (
+      markdownPath !== sourceAuditPage &&
+      /https?:\/\/(?:docs\.google\.com|testerle\.net|(?:www\.)?wings-of-valhalla\.com|exee\.site)\b/i.test(
+        markdown,
+      )
+    ) {
+      errors.push(
+        `${relative(repositoryRoot, markdownPath)} sends players to an external guide or catalog.`,
+      );
+    }
     const authorshipPattern = new RegExp(
       `\\b(?:${joined("Open", "A", "I")}|${joined("Chat", "G", "P", "T")}|${joined("Code", "x")}|${joined("artificial", " intelligence")})\\b`,
       "i",
@@ -245,6 +293,43 @@ if (catalog) {
       }
       if (entry.verification_status === "verified" && entry.obtainable !== true) {
         errors.push(`Verified catalog entry ${entry.name ?? "unnamed"} is not player-obtainable.`);
+      }
+    }
+  }
+}
+
+if (exilesExtremeCatalog) {
+  const items = exilesExtremeCatalog.items;
+  if (!Array.isArray(items) || items.length === 0) {
+    errors.push("The local ExilesExtreme catalog has no player entries.");
+  } else {
+    if (exilesExtremeCatalog.item_count !== items.length) {
+      errors.push("The ExilesExtreme item count does not match its local catalog.");
+    }
+    const allowedFields = new Set([
+      "name",
+      "category",
+      "subcategory",
+      "rarity",
+      "summary",
+      "details",
+    ]);
+    const unsafeCatalogPattern =
+      /\b(?:futanari|futas?|genitali\w*|nipple\w*|penis|vagina|dildo|sex toy|nude|naked|bondage|bdsm|butt plug|golden shower|ball gag|womb|no underwear|obedience bench|wooden pony|wall shackles|torture chair|torture wheel|pillory|orgy|orgies|necrophilia|bestiality|pleasure hanging)\b/i;
+
+    for (const item of items) {
+      if (!item.name || !item.category || !item.subcategory || !item.rarity) {
+        errors.push("An ExilesExtreme catalog entry lacks required player-facing fields.");
+        continue;
+      }
+      for (const field of Object.keys(item)) {
+        if (!allowedFields.has(field)) {
+          errors.push(`ExilesExtreme entry ${item.name} exposes disallowed field ${field}.`);
+        }
+      }
+      const searchableText = `${item.name} ${item.summary ?? ""} ${item.details ?? ""}`;
+      if (unsafeCatalogPattern.test(searchableText)) {
+        errors.push(`ExilesExtreme entry ${item.name} is outside the player-safe catalog scope.`);
       }
     }
   }
@@ -316,6 +401,6 @@ if (errors.length > 0) {
   process.exitCode = 1;
 } else {
   console.log(
-    `Wiki verification passed: ${markdownFiles.length} pages, ${modsRegistry?.mods?.length ?? 0} mods, ${sourcesRegistry?.sources?.length ?? 0} sources, ${localImages?.length ?? 0} local images.`,
+    `Wiki verification passed: ${markdownFiles.length} pages, ${modsRegistry?.mods?.length ?? 0} mods, ${sourcesRegistry?.sources?.length ?? 0} incorporated sources, ${exilesExtremeCatalog?.item_count ?? 0} local catalog entries, ${localImages?.length ?? 0} local images.`,
   );
 }

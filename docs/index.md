@@ -4,7 +4,7 @@ layout: home
 hero:
   name: "Conan Exiles Enhanced"
   text: "Player Wiki"
-  tagline: "Player guide for a 5x rates, full-PvP server."
+  tagline: "Player guide for a 5x rates, hardcore full-PvP server."
   actions:
     - theme: brand
       text: Start here
@@ -16,8 +16,8 @@ hero:
 features:
   - title: 5x rates
     details: The server's published rate setting.
-  - title: Full PvP
-    details: The server's published PvP setting.
+  - title: Hardcore Full PvP
+    details: The server's published PvP ruleset style.
   - title: Local guides
     details: Mod instructions, controls, systems, and reference material live inside this wiki.
 ---

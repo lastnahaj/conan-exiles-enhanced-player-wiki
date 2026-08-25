@@ -1,11 +1,12 @@
 ---
 title: Server Rules
 description: Published server rules and competitive settings.
-verification: server-verification-required
+verification: verified
 ---
 
 # Server Rules
 
-| Setting | Value    |
-| ------- | -------- |
-| PvP     | Full PvP |
+| Setting       | Value        |
+| ------------- | ------------ |
+| PvP           | Full PvP     |
+| Ruleset style | Hardcore PvP |

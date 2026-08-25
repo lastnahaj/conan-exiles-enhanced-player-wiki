@@ -6,10 +6,9 @@ verification: verified
 
 # Source Library
 
-The external pages below are the evidence behind this wiki, not a substitute for it. Player-usable
-instructions and feature summaries have been incorporated into the relevant local guides and the
-[Player Controls](./player-controls.md) quick reference. These links remain available for identity,
-author credit, provenance, and source audits.
+The external pages below are an audit trail, not part of the player reading path. Player-usable
+instructions, catalogs, controls, workflows, and troubleshooting have been incorporated into local
+guides. These links remain only for identity, author credit, provenance, and source audits.
 
 Every source below was rechecked on **August 24, 2026**. An author page can establish what a mod
 documents; it does not establish which configurable features or values are active on this server.
@@ -47,12 +46,12 @@ The exact Enhanced Workshop page is the canonical source for a mod's public name
 | [Wings Of Valhalla public roadmap](https://wings-of-valhalla.com/)                                                                              | Development context. Planned work is never presented as live.                                                                  |
 | [Wings Of Valhalla guide](https://docs.google.com/spreadsheets/d/1dvqwQ7ar5BcZGWfdgrbsOomqIjHo-60d1fAXEFloe2k/edit#gid=0)                       | Its player workflows are incorporated into the [local WoV guides](../progression/wings-of-valhalla.md); historical details are labeled. |
 | [Domain's Magic guide](https://docs.google.com/document/d/1V55KOwctM_VPTZH7rmVC_n4r_X2sjLlpHI8zAhCiQSQ/edit?usp=sharing)                        | Its spell, casting, progression, controls, and troubleshooting content is incorporated into the [local Domain's Magic guide](../magic/domain-magic.md). |
-| [ExilesExtreme site](https://exee.site/) and [full item list](https://exee.site/listofitems/)                                                   | Official catalog. Entries are not copied into this wiki until ordinary-player availability is confirmed.                       |
-| [ExilesExtreme armor](https://exee.site/armor/), [accessories](https://exee.site/accessories/), and [placeables](https://exee.site/placeables/) | First-party category references. Adult-only and non-player entries are excluded.                                               |
+| [ExilesExtreme site](https://exee.site/) and [full item list](https://exee.site/listofitems/)                                                   | The filtered player-safe catalog is incorporated into the [local ExilesExtreme guide](../combat/exiles-extreme.md).              |
+| [ExilesExtreme armor](https://exee.site/armor/), [accessories](https://exee.site/accessories/), and [placeables](https://exee.site/placeables/) | Category data is searchable locally; adult-only, hidden, and non-craftable entries are excluded.                                |
 | [Testerle's mod site](https://testerle.net/)                                                                                                    | Author index covering Enhanced downloads and older support articles.                                                           |
-| [Unlock Plus Q&A](https://testerle.net/unlock-plus-qa/)                                                                                         | Supporting interface reference. The current Enhanced Workshop page controls feature scope.                                     |
-| [Better Thralls Q&A](https://testerle.net/better-thralls-qa/)                                                                                   | Older supporting reference; used only where the current Enhanced page agrees.                                                  |
-| [Fashionist Q&A](https://testerle.net/fashionist-qa/) and [configuration guide](https://testerle.net/fashionist-configuration/)                 | Older supporting references; current Enhanced documentation and server restrictions take precedence.                           |
+| [Unlock Plus Q&A](https://testerle.net/unlock-plus-qa/)                                                                                         | Player controls, workflows, and troubleshooting are incorporated into the [local Unlock Plus guide](../building/unlock-plus.md). |
+| [Better Thralls Q&A](https://testerle.net/better-thralls-qa/)                                                                                   | Current-compatible follower troubleshooting is incorporated into the [local Better Thralls guide](../followers/better-thralls.md). |
+| [Fashionist Q&A](https://testerle.net/fashionist-qa/) and [configuration guide](https://testerle.net/fashionist-configuration/)                 | Current-compatible player controls and troubleshooting are incorporated into the [local Fashionist guide](../qol/fashionist.md). |
 
 ## Deliberate exclusions
 

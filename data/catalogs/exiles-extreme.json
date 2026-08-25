@@ -1,0 +1,4806 @@
+{
+  "schema_version": 1,
+  "source_mod": "ExilesExtreme - v2.0.7",
+  "edition_scope": "enhanced-current-catalog",
+  "imported_at": "2026-08-24",
+  "scope": "Publicly craftable, non-hidden, player-safe entries from the official catalog. Internal identifiers and adult-only content are excluded.",
+  "categories": [
+    "Accessories",
+    "Appearance",
+    "Armor",
+    "Companions",
+    "Placeables",
+    "Utility",
+    "Weapons"
+  ],
+  "item_count": 659,
+  "items": [
+    {
+      "name": "Aloe Plant 1",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Aloe Plant 2",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Ambient Petals [Deco - Particle]",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Angel Wings (Attached)",
+      "category": "Accessories",
+      "subcategory": "Wings",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Wings to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Angel Wings Black (Attached)",
+      "category": "Accessories",
+      "subcategory": "Wings",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Wings to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Angel Wings Folded (Attached)",
+      "category": "Accessories",
+      "subcategory": "Wings",
+      "rarity": "Common",
+      "summary": "Angel white wings that are folded.",
+      "details": "Use Unequip Attached Wings to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Angel Wings Folded Black (Attached)",
+      "category": "Accessories",
+      "subcategory": "Wings",
+      "rarity": "Common",
+      "summary": "Angel black wings that are folded.",
+      "details": "Use Unequip Attached Wings to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Angel Wings Folded Brown (Attached)",
+      "category": "Accessories",
+      "subcategory": "Wings",
+      "rarity": "Common",
+      "summary": "Angel brown wings that are Folded.",
+      "details": "Use Unequip Attached Wings to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Angelic Wings",
+      "category": "Utility",
+      "subcategory": "Other craftable items",
+      "rarity": "Common",
+      "summary": "Used for Thralls or Players",
+      "details": "Angels are often depicted as benevolent celestial beings who act as intermediaries between God or Heaven and Earth."
+    },
+    {
+      "name": "Angelic Wings (Attached)",
+      "category": "Accessories",
+      "subcategory": "Wings",
+      "rarity": "Common",
+      "summary": "If used on thralls use Unequip Attached Wings to detach",
+      "details": "Use Unequip Attached Wings to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Animal Guts",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "Guts of an Animal"
+    },
+    {
+      "name": "Animal Trap [Deco]",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Anvil [Exile & Thrall]",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "Used for players",
+      "details": "Craft your self Leather Apron and Leather Workgloves to be a real Blacksmith - Armorer`s Bench/Armorer 2"
+    },
+    {
+      "name": "Archangel Wings",
+      "category": "Utility",
+      "subcategory": "Other craftable items",
+      "rarity": "Common",
+      "summary": "Used for Thralls or Players",
+      "details": "Angels can display their wings as a sign of their status as an angel. When Angels die as a result of being stabbed by an Angel Blade, shadows of their wings are burned into the surface on which their vessel is lying."
+    },
+    {
+      "name": "Archangel Wings (Attached)",
+      "category": "Accessories",
+      "subcategory": "Wings",
+      "rarity": "Common",
+      "summary": "If used on thralls use Unequip Attached Wings to detach",
+      "details": "Use Unequip Attached Wings to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Archangel Wings Black (Attached)",
+      "category": "Accessories",
+      "subcategory": "Wings",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Wings to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Autumn Fey Wings (Attached)",
+      "category": "Accessories",
+      "subcategory": "Wings",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Wings to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Awning Stall",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "A small awning",
+      "details": "Among the great bazaars of Khemi, merchants use awnings such as this to protect their wares from the harsh Stygian sun. By their nature, these awnings are made to be taken up and down quickly. They are not particularly robust, but they do offer shade when needed."
+    },
+    {
+      "name": "Azalea",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "Azaleas are flowering shrubs in the genus Rhododendron.",
+      "details": "Azaleas bloom in the spring, their flowers often lasting several weeks. Shade tolerant, they prefer living near or under trees. They are part of the family Ericaceae."
+    },
+    {
+      "name": "Baby Buddha Statue",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "details": "Buddha Statue comes alive when no one's watching"
+    },
+    {
+      "name": "Bald Eagle Perched [Deco]",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "Bald eagles are not actually bald; the name derives from an older meaning of the word, \"white headed\".",
+      "details": "Bald Eagle"
+    },
+    {
+      "name": "Baroque Mirror",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Beard 1 Vanilla (Attached)",
+      "category": "Accessories",
+      "subcategory": "Beards",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Beard to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Beard 2 Vanilla (Attached)",
+      "category": "Accessories",
+      "subcategory": "Beards",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Beard to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Beard 3 Vanilla (Attached)",
+      "category": "Accessories",
+      "subcategory": "Beards",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Beard to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Belly (Attached)",
+      "category": "Accessories",
+      "subcategory": "Extras",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Extras to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Belly (Small)",
+      "category": "Armor",
+      "subcategory": "Light armor",
+      "rarity": "Common",
+      "summary": "For thralls or players"
+    },
+    {
+      "name": "Big Bell",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "A bell is a directly struck idiophone percussion instrument.",
+      "details": "Most bells have the shape of a hollow cup that when struck vibrates in a single strong strike tone, with its sides forming an efficient resonator."
+    },
+    {
+      "name": "Big Buddha Statue",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Black Halo (Attached)",
+      "category": "Accessories",
+      "subcategory": "Halos",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Halo to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Black Maneki-Neko [Deco]",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "Black maneki-neko which is often believed to bring good luck to the owner.",
+      "details": "Maneki-neko come in different colors and styles and vary in degrees of detail. Common colors are white, black, red, and gold. In addition to statues, maneki-neko can be found in the form of keychains, piggy banks, air fresheners, pots, and numerous other."
+    },
+    {
+      "name": "Black Pussy Cat [Deco]",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "Pussycat is a common term for a pet domestic cat.",
+      "details": "Black cat is a domestic cat with black fur that may be a mixed or specific breed."
+    },
+    {
+      "name": "Blacksmith Forge [Exile & Thrall]",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "Used for players",
+      "details": "Craft your self Leather Apron and Leather Workgloves to be a real Blacksmith - Armorer`s Bench/Armorer 2"
+    },
+    {
+      "name": "Blacksmith Hammer",
+      "category": "Weapons",
+      "subcategory": "Weapons and combat items",
+      "rarity": "Common",
+      "summary": "Your own blacksmith hammer",
+      "details": "Your own blacksmith hammer, and a metal rod"
+    },
+    {
+      "name": "Blacksmith Hammer [Singal]",
+      "category": "Weapons",
+      "subcategory": "Weapons and combat items",
+      "rarity": "Common",
+      "summary": "Your own blacksmith hammer"
+    },
+    {
+      "name": "Blacksmith Iron bar [Singal]",
+      "category": "Weapons",
+      "subcategory": "Weapons and combat items",
+      "rarity": "Common"
+    },
+    {
+      "name": "Blindfold",
+      "category": "Armor",
+      "subcategory": "Light armor",
+      "rarity": "Common",
+      "summary": "Sually of cloth, tied to one's head to cover the eyes to disable the wearer's sight.",
+      "details": "A blindfold is a garment, usually of cloth, tied to one's head to cover the eyes to disable the wearer's sight. While a properly fitted blindfold prevents sight even if the eyes are open, a poorly tied or trick blindfold may let the wearer see around or even through the blindfold."
+    },
+    {
+      "name": "Blindfold (Attached)",
+      "category": "Accessories",
+      "subcategory": "Eyewear",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Extras to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Blue Flag (Attached)",
+      "category": "Accessories",
+      "subcategory": "Extras",
+      "rarity": "Common",
+      "summary": "Use Unequip Attached Extras to detach - or drag on to your HotBar for fast Equip Unequip",
+      "details": "A war flag, also known as a military flag, battle flag, or standard, is a variant of a national flag for use by a country's military forces when on land."
+    },
+    {
+      "name": "Bone Bench",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "A crude bone bench",
+      "details": "Benches like this are Uncommon."
+    },
+    {
+      "name": "Bone Brazier",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "A brazier that is made of bones"
+    },
+    {
+      "name": "Bone Ceiling T2",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "A ceiling piece of Bones",
+      "details": "It is said that nobody is truly home until they have a roof over their head. Across the civilizations of Hyboria, rooves are made from a diverse number of materials - from clay-fired tiles warmed in the kilns of Agarapar to the roughly thatched rooves of the Nordheimers. In the Exiled Lands, however, materials are limited. Something to keep the sandstorms at bay and the bat demons from swooping down and snatching people while they sleep is probably good enough. Built of close fitting bricks of cut Stonebrick, reinforced by wooden slats that have been shaped to fit, this will provide a safe haven from the weather and strong front to any foes who come knocking."
+    },
+    {
+      "name": "Bone Chair",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "A crude bone Chair",
+      "details": "Benches like this are Uncommon."
+    },
+    {
+      "name": "Bone Door T2",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "A door of reinforced bone",
+      "details": "Shaped bone planks reinforced with iron bands are used to create this solid door. While providing access, this door also provides significant protection against intruders."
+    },
+    {
+      "name": "Bone Doorframe T2",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "A doorframe of Bones",
+      "details": "Every structure that has ever fallen to an enemy has been breached somewhere. And the breach point, more often than not, is the door. A door is only as strong as the place where it is anchored and many a would-be warlord has come to grief when their solidly constructed door was torn off at the anchor point. The difference between a king and a pauper might just be the entrance to his kingdom. Built of close fitting bricks of cut Stonebrick, reinforced by wooden slats that have been shaped to fit, this will provide a safe haven from the weather and strong front to any foes who come knocking."
+    },
+    {
+      "name": "Bone Gate T3",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "Sturdy bone doors to keep enemies at bay",
+      "details": "These large doors are designed to allow access for large groups of people in and out of safe areas. Raiders and bandits make walls a must have in the Exiled Lands and the protection afforded by gates such as these should not be taken for granted. Black Ice-Reinforced Wood is one of the hardest building materials that can be created in the Exiled Lands. Weapons barely chip it and even explosive powder is not enough to weaken it in a single blow. Siege weapons or divine intervention are really the only way to bring down walls this strong."
+    },
+    {
+      "name": "Bone Gateway T3",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "Framework for a large bone gate",
+      "details": "The best battle, they say, is the one you never have to fight. With formidable enough gates, the enemies will think twice about attacking any fortress. Not simply because the scale of the gates has them concerned about getting inside, but because large gates imply large inhabitants and armies get nervous when they think they might be outnumbered. Reinforced Stone is one of the hardest building materials that can be created in the Exiled Lands. Weapons barely chip it and even explosive powder is not enough to weaken it in a single blow. Siege weapons or divine intervention are really the only way to bring down walls this strong."
+    },
+    {
+      "name": "Bone Table",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "A crude bone bench",
+      "details": "Benches like this are Uncommon."
+    },
+    {
+      "name": "Bone Wall T2",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "A wall of Bones",
+      "details": "Walls are a comfort for the timid, a strength to the strategist and a trap for the unwary. A barrier against the savage world, walls can be built as high as the stability of the foundations will allow. The strength of the materials used in their construction will determine how long they stay up. Just remember to add a door. Built of close fitting bricks of cut Stonebrick, reinforced by wooden slats that have been shaped to fit, this will provide a safe haven from the weather and strong front to any foes who come knocking."
+    },
+    {
+      "name": "Bone Wall Torch",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "BookShelf",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "A bookcase, or bookshelf,",
+      "details": "bookshelf, is a piece of furniture with horizontal shelves, often in a cabinet, used to store books or other printed materials."
+    },
+    {
+      "name": "Brass Censer",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "Censer is a vessel made for burning incense or perfume in some solid form.",
+      "details": "These vessels vary greatly in size, form, and material of construction, and have been in use since ancient times in many cultures."
+    },
+    {
+      "name": "Brick Wall [EE]",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Bronze Naval Cannon [Deco]",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "A cannon is a type of gun classified as artillery that launches a projectile using propellant.",
+      "details": "Cannon could also be used for more than simply killing men and scaring horses."
+    },
+    {
+      "name": "Buddha Wall Medallion",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Bull Tail (Attached)",
+      "category": "Accessories",
+      "subcategory": "Tails",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Tail to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Bull Tail Small (Attached)",
+      "category": "Accessories",
+      "subcategory": "Tails",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Tail to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Butterflies [Deco]",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "Butterflies are insects",
+      "details": "Butterflies are insects in the macrolepidopteran clade Rhopalocera from the order Lepidoptera, which also includes moths"
+    },
+    {
+      "name": "Butterflies Particle (Attached)",
+      "category": "Accessories",
+      "subcategory": "Particles",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Particles to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "ButterFly Saddle",
+      "category": "Companions",
+      "subcategory": "Saddles",
+      "rarity": "Common",
+      "summary": "A heavy saddle designed for war",
+      "details": "The Exiled Lands has no tradition in riding. The terrain is downright unfriendly to horses and the beasts themselves have no natural presence here. However, due to sheer-minded persistence and strong will, horses have been tamed and brought to the Exiled Lands. A testament and a congratulations to all who suffered to make this happen. Some types of cavalry rely on their speed and mobility to perform flanking manouveres, while others are all about the charge. This saddle is designed for the latter - allowing attackers to stay in the stirrups taking repeated blows while they use the momentum of their mounts to force a break in enemy lines. For anyone who wishes to ride a mount into battle and stay there for a while, this is the saddle of choice."
+    },
+    {
+      "name": "Butterfly Wings Blue",
+      "category": "Utility",
+      "subcategory": "Other craftable items",
+      "rarity": "Common",
+      "summary": "Used for Thralls or Players",
+      "details": "Fabulously Flappy"
+    },
+    {
+      "name": "Butterfly Wings Blue (Attached)",
+      "category": "Accessories",
+      "subcategory": "Wings",
+      "rarity": "Common",
+      "summary": "If used on thralls use Unequip Attached Wings to detach",
+      "details": "Use Unequip Attached Wings to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Butterfly Wings Blue Glowing",
+      "category": "Utility",
+      "subcategory": "Other craftable items",
+      "rarity": "Common",
+      "summary": "Used for Thralls or Players",
+      "details": "Fabulously Flappy and glowy"
+    },
+    {
+      "name": "Camel [Deco]",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "details": "The wealth of Hyborian nations is built upon the backs of their beasts of burden and those who know how to handle an animal. And the mark of a man can be weighed by the manner in which he treats the least of his animals. Feed them and give them a place to live and they can be the greatest allies in the world. Neglect them and reap the consequences."
+    },
+    {
+      "name": "CannonBalls [Deco]",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "A round shot is a solid spherical projectile without explosive charge launched from a gun."
+    },
+    {
+      "name": "Captains Hat",
+      "category": "Armor",
+      "subcategory": "Light armor",
+      "rarity": "Common"
+    },
+    {
+      "name": "Carved Wooden Cat",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Carved Wooden Deer",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Carved Wooden Fawn",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Cat Ears (Attached)",
+      "category": "Accessories",
+      "subcategory": "Ears",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Ears to detach, Note: Attached items cant be dyed - drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Chandelier (Witchfire)",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "A chandelier with hanging crystals",
+      "details": "A chandelier also known as girandole, candelabra lamp, or least commonly suspended lights is a branched ornamental light fixture designed to be mounted on ceilings."
+    },
+    {
+      "name": "Chandelier [EE]",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "A chandelier with hanging crystals",
+      "details": "A chandelier also known as girandole, candelabra lamp, or least commonly suspended lights is a branched ornamental light fixture designed to be mounted on ceilings."
+    },
+    {
+      "name": "Cherry Blossom Tree",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "A cherry blossom is the flower of any of several trees of genus Prunus",
+      "details": "Many of the varieties that have been cultivated for ornamental use do not produce fruit. Edible cherries generally come from cultivars of the related species Prunus avium and Prunus cerasus. Cherry blossom are also closely related to other Prunus trees such as the almond, peach, plum and apricot, and more distantly to apples, pears and roses."
+    },
+    {
+      "name": "Cherry Blossom Tree II",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "A cherry blossom is the flower of any of several trees of genus Prunus",
+      "details": "Many of the varieties that have been cultivated for ornamental use do not produce fruit. Edible cherries generally come from cultivars of the related species Prunus avium and Prunus cerasus. Cherry blossom are also closely related to other Prunus trees such as the almond, peach, plum and apricot, and more distantly to apples, pears and roses."
+    },
+    {
+      "name": "Choas mouth altar",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Christmas Reindeer Horns (Attached)",
+      "category": "Accessories",
+      "subcategory": "Extras",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Extras to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Christmas Tree",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "A Christmas tree is a decorated tree"
+    },
+    {
+      "name": "Christmas Wreath",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "A wreath is an assortment of flowers",
+      "details": "A wreath is an assortment of flowers, leaves, fruits, twigs, or various materials that is constructed to form a ringen it approaches its melting point and becomes moist and compact. Making a snowman of powdered snow is difficult since it will not stick to itself, and if the temperature of packing snow drops, it will form an unusable denser form of powdered snow called crust."
+    },
+    {
+      "name": "Cloth Top Stool",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Coffin [Deco]",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "The iron maiden is a putative torture and execution device,",
+      "details": "Consisting of an iron cabinet with a hinged front and spike-covered interior, sufficiently tall to enclose a human being."
+    },
+    {
+      "name": "Coffin [Exile & Thrall]",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "The iron maiden is a putative torture and execution device,",
+      "details": "Consisting of an iron cabinet with a hinged front and spike-covered interior, sufficiently tall to enclose a human being."
+    },
+    {
+      "name": "Corpse Baby Rhino",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "This is a Corpse of a Baby Rhino",
+      "details": "In the Exiled Lands, the dead rise to fight once again. Perhaps they rise due to the long forgotten command of a necromancer. Perhaps they rise to the singing of a song that the living cannot hear. Whatever wakes them, they must still be put to sleep once more."
+    },
+    {
+      "name": "Corpse Boar",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "This is a Corpse of a Boar",
+      "details": "In the Exiled Lands, the dead rise to fight once again. Perhaps they rise due to the long forgotten command of a necromancer. Perhaps they rise to the singing of a song that the living cannot hear. Whatever wakes them, they must still be put to sleep once more."
+    },
+    {
+      "name": "Corpse Gazelle",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "This is a Corpse of a Gazelle",
+      "details": "In the Exiled Lands, the dead rise to fight once again. Perhaps they rise due to the long forgotten command of a necromancer. Perhaps they rise to the singing of a song that the living cannot hear. Whatever wakes them, they must still be put to sleep once more."
+    },
+    {
+      "name": "Cowbell Collar (Attached)",
+      "category": "Accessories",
+      "subcategory": "Collars",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Collars to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Crimson Halo (Attached)",
+      "category": "Accessories",
+      "subcategory": "Halos",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Halo to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Crocodile Mask",
+      "category": "Armor",
+      "subcategory": "Light armor",
+      "rarity": "Common",
+      "summary": "A mask that allows you to stay longer underwater.",
+      "details": "A mask that allows you to stay longer underwater, by using the crocodiles bladder."
+    },
+    {
+      "name": "Crucified [Decretive]",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "A Crucified Thrall with no lags",
+      "details": "Crucifixion is a method of capital punishment in which the victim is tied, nailed, or otherwise attached to a large wooden beam and left to hang for several days until eventual death from exhaustion and asphyxiation"
+    },
+    {
+      "name": "Crucifix [Exile & Thrall]",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "Used for players and Thralls",
+      "details": "Crucifixion is a method of capital punishment in which the victim is tied, nailed, or otherwise attached to a large wooden beam and left to hang for several days until eventual death from exhaustion and asphyxiation"
+    },
+    {
+      "name": "Cthulhu Rock Head",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Cthulhu Statue",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Cute Collar (Attached)",
+      "category": "Accessories",
+      "subcategory": "Collars",
+      "rarity": "Common",
+      "summary": "Will not work on thralls",
+      "details": "Use Unequip Attached Collars to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Daruma Doll [Deco]",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "Modeled after Bodhidharma",
+      "details": "Daruma dolls are seen as a symbol of perseverance and good luck, making them a popular gift of encouragement."
+    },
+    {
+      "name": "Daughter of the Dragon [PVP-Stable]",
+      "category": "Weapons",
+      "subcategory": "Weapons and combat items",
+      "rarity": "Legendary",
+      "summary": "An ancient vampiric sword forged by RosÃ¡lia when she charged against a dragonâ€™s breath.",
+      "details": "â€œAs the ancient dragon advanced on her sister, so too did the vampire RosÃ¡lia. Her war cry pierced the red dragonâ€™s ears and forced him into battle. He coiled and withered and with one savage breath he threw a torrent of flame at her, but today was not the day she would die, no, today RosÃ¡lia would defy the depths of hell and charge through the dragonâ€™s fire. In one frenzied blow, the Great Dohrgar was defeated, and with it the forging of a new blade.â€After a perilous battle with the ancient known as Dohrgar, the old black steel blade was forged again, reborn from the dragonâ€™s breath as an unbreakable diamond. The Daughter carries many tales of violence and blood, itâ€™s very presence mustering fear in the heart, and freezing dread. With the sinister addition of small funnels along itâ€™s sides, The Daughter drinks itâ€™s victims, nurturing its wielder. It is said, through the webbed echoes of time, that itâ€™s wielder, RosÃ¡lia, had bestowed the blade upon the most prestigious of warriors, those that could feed the swordâ€™s hunger for blood."
+    },
+    {
+      "name": "Dead White Tree",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Death Knight [Deco]",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "The Kinscourge"
+    },
+    {
+      "name": "Death's Resolve",
+      "category": "Weapons",
+      "subcategory": "Weapons and combat items",
+      "rarity": "Legendary",
+      "summary": "A two-handed War scythe forged from mysterious star metal"
+    },
+    {
+      "name": "Death's Scythe",
+      "category": "Weapons",
+      "subcategory": "Weapons and combat items",
+      "rarity": "Legendary",
+      "summary": "A two-handed War scythe forged from mysterious star metal"
+    },
+    {
+      "name": "Deaths Scale",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "details": "Death`s Scale"
+    },
+    {
+      "name": "Deaths Throne",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "A throne made of Bones and flesh"
+    },
+    {
+      "name": "Decapitated Feet",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "Decapitated Feet of a human"
+    },
+    {
+      "name": "Decapitated Female Torso",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "This is a Decapitated Female Torso",
+      "details": "This is a Decapitated Torso of a Human Female"
+    },
+    {
+      "name": "Decapitated Male Head",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "This is a Decapitated Head of a Human Male"
+    },
+    {
+      "name": "Decapitated Male lower body",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "This is a Decapitated lower body of a Human Male"
+    },
+    {
+      "name": "Demon Fox Ears",
+      "category": "Armor",
+      "subcategory": "Light armor",
+      "rarity": "Common"
+    },
+    {
+      "name": "Demons Horns (Attached)",
+      "category": "Accessories",
+      "subcategory": "Horns",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Horns to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Demons Wings",
+      "category": "Utility",
+      "subcategory": "Other craftable items",
+      "rarity": "Common",
+      "summary": "Used for Thralls or Players"
+    },
+    {
+      "name": "Demons Wings (Attached)",
+      "category": "Accessories",
+      "subcategory": "Wings",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Wings to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Derketo cat statue",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "A carved statue of Derketo Cat",
+      "details": "Derketo cat statue"
+    },
+    {
+      "name": "Devil Horns (Attached)",
+      "category": "Accessories",
+      "subcategory": "Horns",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Horns to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Dewdrop Dapperling [Giant]",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "Dewdrop Dapperling is placed on the Ceilling"
+    },
+    {
+      "name": "Dewdrop Dapperling [Med]",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "Dewdrop Dapperling is placed on the Ceilling"
+    },
+    {
+      "name": "Dewdrop Dapperling [Small]",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "Dewdrop Dapperling is placed on the Ceilling"
+    },
+    {
+      "name": "Dionaea Trap [Deco]",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Dire Wolf Mask",
+      "category": "Armor",
+      "subcategory": "Light armor",
+      "rarity": "Common",
+      "summary": "A mask that filters out the sandstorm debris",
+      "details": "When the sandstorm wails across the Exiled Lands, the choices are to take cover from the scouring sands, or be blinded and eventually, killed.This breather mask, crafted with very small slits for the eyes that keep out most of the debris while allowing visibility and a cloth mouthpiece that filters the air, allows free movement within the sandstorm.What lies at the heart of the storm is one of the many mysteries of the Exiled Lands."
+    },
+    {
+      "name": "Divine Glow (Attached)",
+      "category": "Accessories",
+      "subcategory": "Extras",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Extras to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Double Bed [Deco]",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "A comfortable, double sized bed",
+      "details": "Few of the inhabitants of the Exiled Lands are lucky enough to sleep in a bed at night. Some disdain the comfort of a full bed, imagining that the softness of the mattress will cause a softening of their bodies and minds. But some see the bed as a place of lovemaking, sleeping and dreaming. They consider it an important part of civilization and sneer at those who sleep on the ground as uncouth savages. When somebody dies in the Exiled Lands, they awaken in the last place that they slept, unaware of how or why they got there. Using a bed will set it as your spawn point."
+    },
+    {
+      "name": "Double Pegleg",
+      "category": "Armor",
+      "subcategory": "Light armor",
+      "rarity": "Common",
+      "summary": "A wooden prosthetic legs",
+      "details": "The pirates of the Black Hand are the most dangerous kind of pirates - shipless, aimless and destitute. They search desperately for a way to leave the Exiled Lands and they form strange alliances and quirky plans to help them achieve that goal. So far, nothing has come to fruition.Somehow, this peg leg allows the temporary removal of your own - where it is stored is anyones guess."
+    },
+    {
+      "name": "Dragon Blade",
+      "category": "Weapons",
+      "subcategory": "Weapons and combat items",
+      "rarity": "Legendary",
+      "summary": "A blade thats engulfed in flames.",
+      "details": "Fire swords are magical blades which have been imbued with the properties of flame, such as that they always appear to be burning. In addition to delivering additional damage through their searing heat, such swords may also serve as torches in darkened areas, or provide heat in cold climates."
+    },
+    {
+      "name": "Drunkard's Cloak",
+      "category": "Utility",
+      "subcategory": "Other craftable items",
+      "rarity": "Common",
+      "summary": "Used in various jurisdictions to punish miscreants.",
+      "details": "Meant to be used By Players and Thralls"
+    },
+    {
+      "name": "Drunkard's Cloak (Slip and Slide)",
+      "category": "Utility",
+      "subcategory": "Other craftable items",
+      "rarity": "Common",
+      "summary": "Used in various jurisdictions to punish miscreants.",
+      "details": "Meant to be used By Players and Thralls"
+    },
+    {
+      "name": "Drunkard's Stash",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "No one knows what happened to the owner of this chest.",
+      "details": "Everyone knows that Dwarves are attracted to something shiny, the case being worse so when they are drunk, which is all the time. This particular Dwarf found his happy place and the more you put in his container, the more content he appears to want to remain there. Coining the new phrase.. \"Happier than a drunken Dwarf in a chest full of loot\"."
+    },
+    {
+      "name": "DuckWeed",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Dumbledors - Pupitre",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "Turn On/Off Candles by pressing E",
+      "details": "Dumbledors - Pupitre"
+    },
+    {
+      "name": "Dwarven Beard",
+      "category": "Utility",
+      "subcategory": "Other craftable items",
+      "rarity": "Common",
+      "summary": "Meant to be used By Players and Thralls"
+    },
+    {
+      "name": "Dwarven Beard (Attached)",
+      "category": "Accessories",
+      "subcategory": "Beards",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Beard to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Dwarven Beard Black (Attached)",
+      "category": "Accessories",
+      "subcategory": "Beards",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Beard to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Dwarven Beard Fiery Red (Attached)",
+      "category": "Accessories",
+      "subcategory": "Beards",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Beard to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Dwarven Beard Goldenrod (Attached)",
+      "category": "Accessories",
+      "subcategory": "Beards",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Beard to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Dwarven Statue",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Earth Arcane Staff",
+      "category": "Weapons",
+      "subcategory": "Weapons and combat items",
+      "rarity": "Common",
+      "summary": "A one-handed staff used by sorcerers as a focus to cast spells.",
+      "details": "In ordinary hands, an arcane staff is a commonplace length of wood with little to distinguish it beyond its capacity for blunt force trauma. But in the hands of an adept sorcerer, this same length of wood becomes a powerful focus object capable of channeling raw magic into complex spells and invocations."
+    },
+    {
+      "name": "Elven Flower Arrangement",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "Handcrafted by elven artisans.",
+      "details": "Handcrafted by elven artisans this stand from precious elven metal is adorned with wild flowers only found around Rivendell valley."
+    },
+    {
+      "name": "Elven Tribal Tattoo 1 [Face]",
+      "category": "Appearance",
+      "subcategory": "Warpaints",
+      "rarity": "Common"
+    },
+    {
+      "name": "Elven Tribal Tattoo 2 [Face]",
+      "category": "Appearance",
+      "subcategory": "Warpaints",
+      "rarity": "Common"
+    },
+    {
+      "name": "Elvish Bed Of Rivendell",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Elvish Bed Of Rivendell [Deco]",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Elvish Bow",
+      "category": "Weapons",
+      "subcategory": "Weapons and combat items",
+      "rarity": "Legendary",
+      "summary": "This bow was made by an elf.",
+      "details": "The curves of its design are made with such a precision that even a novice archer could shoot a rabbit from eye distance."
+    },
+    {
+      "name": "Elvish Quiver (Attached)",
+      "category": "Accessories",
+      "subcategory": "Extras",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Extras to Detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Elvish Statue I",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Elvish Statue II",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Evil Fey Wings",
+      "category": "Utility",
+      "subcategory": "Other craftable items",
+      "rarity": "Common",
+      "summary": "Used for Thralls or Players",
+      "details": "Fairies are generally described as human in appearance and having magical powers"
+    },
+    {
+      "name": "Evil Fey Wings (Attached)",
+      "category": "Accessories",
+      "subcategory": "Wings",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Wings to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Exiles Extreme Chest",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "For crafting Exiles Extreme things."
+    },
+    {
+      "name": "Eyes Of Darkness (Attached)",
+      "category": "Accessories",
+      "subcategory": "Eyes",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Eyes to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Eyes Of Hybrid Werewolf (Attached)",
+      "category": "Accessories",
+      "subcategory": "Eyes",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Eyes to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Eyes Of lightning (Attached)",
+      "category": "Accessories",
+      "subcategory": "Eyes",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Eyes to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Eyes Of Lilith (Attached)",
+      "category": "Accessories",
+      "subcategory": "Eyes",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Eyes to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Eyes Of Sharingan (Attached)",
+      "category": "Accessories",
+      "subcategory": "Eyes",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Eyes to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Eyes Of Succubus (Attached)",
+      "category": "Accessories",
+      "subcategory": "Eyes",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Eyes to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Eyes Of The Beast (Attached)",
+      "category": "Accessories",
+      "subcategory": "Eyes",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Eyes to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Eyes Of The Blind (Attached)",
+      "category": "Accessories",
+      "subcategory": "Eyes",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Eyes to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Eyes of the Tiger - No Nightwatch (Attached)",
+      "category": "Accessories",
+      "subcategory": "Eyes",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Eyes to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Eyes of the Tiger (Attached)",
+      "category": "Accessories",
+      "subcategory": "Eyes",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Eyes to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Eyes Of The Universe (Attached)",
+      "category": "Accessories",
+      "subcategory": "Eyes",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Eyes to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Eyes Of Werehyena (Attached)",
+      "category": "Accessories",
+      "subcategory": "Eyes",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Eyes to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Eyes Of Ymir (Attached)",
+      "category": "Accessories",
+      "subcategory": "Eyes",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Eyes to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Eyes Of Ymir Dodger Blue (Attached)",
+      "category": "Accessories",
+      "subcategory": "Eyes",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Eyes to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Eyes Of Ymir Green (Attached)",
+      "category": "Accessories",
+      "subcategory": "Eyes",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Eyes to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Eyes Of Ymir Teal (Attached)",
+      "category": "Accessories",
+      "subcategory": "Eyes",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Eyes to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Eyes Of Ymir White (Attached)",
+      "category": "Accessories",
+      "subcategory": "Eyes",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Eyes to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Eyes Of Ymir Yellow (Attached)",
+      "category": "Accessories",
+      "subcategory": "Eyes",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Eyes to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Eyes Of Yog (Attached)",
+      "category": "Accessories",
+      "subcategory": "Eyes",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Eyes to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Fancy Casket [Deco]",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "The iron maiden is a putative torture and execution device,",
+      "details": "Consisting of an iron cabinet with a hinged front and spike-covered interior, sufficiently tall to enclose a human being."
+    },
+    {
+      "name": "Fancy Magic Mirror",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Fancy Mirror",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Fancy Piano",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Fancy Piano Bench",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Fangs (Attached)",
+      "category": "Accessories",
+      "subcategory": "Extras",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Extras to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Fangs Inside (Attached)",
+      "category": "Accessories",
+      "subcategory": "Extras",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Extras to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Female Corpse",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Fey Bracers",
+      "category": "Armor",
+      "subcategory": "Light armor",
+      "rarity": "Common"
+    },
+    {
+      "name": "Fey Leaf Skirt",
+      "category": "Armor",
+      "subcategory": "Light armor",
+      "rarity": "Common"
+    },
+    {
+      "name": "Fey Leg Greaves",
+      "category": "Armor",
+      "subcategory": "Light armor",
+      "rarity": "Common"
+    },
+    {
+      "name": "Fey Wings",
+      "category": "Utility",
+      "subcategory": "Other craftable items",
+      "rarity": "Common",
+      "summary": "Used for Thralls or Players",
+      "details": "Fairies are generally described as human in appearance and having magical powers"
+    },
+    {
+      "name": "Fey Wings (Attached)",
+      "category": "Accessories",
+      "subcategory": "Wings",
+      "rarity": "Common",
+      "summary": "If used on thralls use Unequip Attached Wings to detach",
+      "details": "Use Unequip Attached Wings to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Fiber Bedroll - (Decoration)",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "A mattress of leaves, twigs and grass.",
+      "details": "A hastily gathered bundle of fibers stripped from the plants and vegetation that dot the Exiled Lands, this bedroll offers very little in the way warmth or protection. It's probably better than lying on the hard ground though. Slightly. When somebody dies in the Exiled Lands, they awaken in the last place that they slept, unaware of how or why they got there. Placing a bedroll will set it as your spawn point, until you place a new one or it is destroyed. Placing a new bedroll will destroy the old one."
+    },
+    {
+      "name": "Fireflies [Deco]",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "Fireflies are insects",
+      "details": "Fireflies are insects in the macrolepidopteran clade Rhopalocera from the order Lepidoptera, which also includes moths"
+    },
+    {
+      "name": "Fireflies Light Particle (Attached)",
+      "category": "Accessories",
+      "subcategory": "Light Sources",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Partiles to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Fireflies Particle (Attached)",
+      "category": "Accessories",
+      "subcategory": "Particles",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Partiles to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Fireflies Red Particle (Attached)",
+      "category": "Accessories",
+      "subcategory": "Particles",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Extras to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Fireplace",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "A crackling place of warmth and welcoming",
+      "details": "'Logs flamed in the wide fireplace, for there was a frosty edge to the air, and a great meat pasty in a stone platter stood smoking on a broad mahogany board.' - The Hour of the Dragon Few things warm the body and the soul, as a proper fireplace and the welcoming spirit of the hearth. How civilized."
+    },
+    {
+      "name": "Fish Mask",
+      "category": "Armor",
+      "subcategory": "Light armor",
+      "rarity": "Common",
+      "summary": "A mask that allows you to stay longer underwater.",
+      "details": "A mask that allows you to stay longer underwater, by using the crocodiles bladder."
+    },
+    {
+      "name": "Fish Pond",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "A fish pond, or fishpond, is a controlled pond, artificial lake.",
+      "details": "A fish pond, or fishpond, is a controlled pond, artificial lake, or reservoir that is stocked with fish and is used in aquaculture for fish farming, or is used for recreational fishing."
+    },
+    {
+      "name": "Fish Pond Small",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "A fish pond, or fishpond, is a controlled pond, artificial lake.",
+      "details": "A fish pond, or fishpond, is a controlled pond, artificial lake, or reservoir that is stocked with fish and is used in aquaculture for fish farming, or is used for recreational fishing."
+    },
+    {
+      "name": "Fishing Chair",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "Must be placed near water",
+      "details": "You can fish while sitting in the chair."
+    },
+    {
+      "name": "Flawless Vanir Elk",
+      "category": "Armor",
+      "subcategory": "Medium armor",
+      "rarity": "Common",
+      "summary": "A riveted elk cap of Vanir make",
+      "details": "Conan opened his eyes and stared into the bearded faces that bent over him. He was surrounded by tall golden-haired warriors in mail and furs. - The Frost-Giant's Daughter A medium cap of fur and rivets to keep one safe and warm. Offering significantly more protection than light armor, this medium armor incorporates many elements - metal rivets, articulated leather, and fur-trimmed cloth - to balance protection and agility. This middle of the road approach brings compromises of its own because this armor is neither as strong as heavy armor, nor as flexible as light armor. With fur and pelts, man takes the protection wild beasts enjoy against the elements. Fur is used in making both practical and decadent things. Both the savage and the civilized prize fur."
+    },
+    {
+      "name": "Flawless Vanir King",
+      "category": "Armor",
+      "subcategory": "Medium armor",
+      "rarity": "Common",
+      "summary": "A riveted king cap of Vanir make",
+      "details": "Conan opened his eyes and stared into the bearded faces that bent over him. He was surrounded by tall golden-haired warriors in mail and furs. - The Frost-Giant's Daughter A medium cap of fur and rivets to keep one safe and warm. Offering significantly more protection than light armor, this medium armor incorporates many elements - metal rivets, articulated leather, and fur-trimmed cloth - to balance protection and agility. This middle of the road approach brings compromises of its own because this armor is neither as strong as heavy armor, nor as flexible as light armor. With fur and pelts, man takes the protection wild beasts enjoy against the elements. Fur is used in making both practical and decadent things. Both the savage and the civilized prize fur."
+    },
+    {
+      "name": "Flower Crown (Attached)",
+      "category": "Accessories",
+      "subcategory": "Crowns",
+      "rarity": "Common",
+      "summary": "Will not work on thralls",
+      "details": "Use Unequip Attached Crowns to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Flower Crown 2 (Attached)",
+      "category": "Accessories",
+      "subcategory": "Crowns",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Crowns to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Flower Crown 3",
+      "category": "Utility",
+      "subcategory": "Other craftable items",
+      "rarity": "Common",
+      "summary": "Used for Thralls or Players"
+    },
+    {
+      "name": "Flower Crown 3 (Attached)",
+      "category": "Accessories",
+      "subcategory": "Crowns",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Crowns to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Flower Skull [Wall]",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Flowering Shrubs",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "details": "When this shrub blooms, you'll be certain that warmer weather is on the way."
+    },
+    {
+      "name": "FlowerPot With Flowers",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Fluffy Ears (Attached)",
+      "category": "Accessories",
+      "subcategory": "Ears",
+      "rarity": "Common",
+      "summary": "Will not work on thralls",
+      "details": "Use Unequip Attached Ears to detach, Note: Attached items cant be dyed - drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Fluffy Ears Black (Attached)",
+      "category": "Accessories",
+      "subcategory": "Ears",
+      "rarity": "Common",
+      "summary": "Will not work on thralls",
+      "details": "Use Unequip Attached Ears to detach, Note: Attached items cant be dyed - drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Fool Mask",
+      "category": "Armor",
+      "subcategory": "Light armor",
+      "rarity": "Common"
+    },
+    {
+      "name": "Fool Mask (Attached)",
+      "category": "Accessories",
+      "subcategory": "Masks",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Mask to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Forest Throne",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Fountain",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "Fountain is a piece of architecture which pours water into a basin or jets it into the air"
+    },
+    {
+      "name": "Fountain Elvish Statue",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "Interact with the statue to activate water.",
+      "details": "Fountain Elvish Statue"
+    },
+    {
+      "name": "Fox Ears",
+      "category": "Armor",
+      "subcategory": "Light armor",
+      "rarity": "Common"
+    },
+    {
+      "name": "Fox Ears (Attached)",
+      "category": "Accessories",
+      "subcategory": "Ears",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Ears to detach, Note: Attached items cant be dyed - drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Fox Tail (Attached-Animated)",
+      "category": "Accessories",
+      "subcategory": "Tails",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Tail to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Fox Tail Black (Attached-Animated)",
+      "category": "Accessories",
+      "subcategory": "Tails",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Tail to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Fox Tail Silver (Attached-Animated)",
+      "category": "Accessories",
+      "subcategory": "Tails",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Tail to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Frostbloom Fey Wings (Attached)",
+      "category": "Accessories",
+      "subcategory": "Wings",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Wings to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Full Body - Cow Pattern Tattoo",
+      "category": "Appearance",
+      "subcategory": "Warpaints",
+      "rarity": "Common"
+    },
+    {
+      "name": "Full Body - Scales Tattoo",
+      "category": "Appearance",
+      "subcategory": "Warpaints",
+      "rarity": "Common",
+      "summary": "A decorative tattoo depicting Scales",
+      "details": "Resets to default skin color upon death"
+    },
+    {
+      "name": "Fungal Dye [Blue-Gray]",
+      "category": "Utility",
+      "subcategory": "Other craftable items",
+      "rarity": "Common",
+      "summary": "A flask of Blue-gray Fungus",
+      "details": "This Fungus can be applied to Glowing Fungus to change it`s Color"
+    },
+    {
+      "name": "Fungal Dye [Blue]",
+      "category": "Utility",
+      "subcategory": "Other craftable items",
+      "rarity": "Common",
+      "summary": "A flask of blue Fungus",
+      "details": "This Fungus can be applied to Glowing Fungus to change it`s Color"
+    },
+    {
+      "name": "Fungal Dye [ForestGreen]",
+      "category": "Utility",
+      "subcategory": "Other craftable items",
+      "rarity": "Common",
+      "summary": "A flask of red Fungus",
+      "details": "This Fungus can be applied to Glowing Fungus to change it`s Color"
+    },
+    {
+      "name": "Fungal Dye [Magenta]",
+      "category": "Utility",
+      "subcategory": "Other craftable items",
+      "rarity": "Common",
+      "summary": "A flask of magenta Fungus",
+      "details": "This Fungus can be applied to Glowing Fungus to change it`s Color"
+    },
+    {
+      "name": "Fungal Dye [Purple]",
+      "category": "Utility",
+      "subcategory": "Other craftable items",
+      "rarity": "Common",
+      "summary": "A flask of Purple Fungus",
+      "details": "This Fungus can be applied to Glowing Fungus to change it`s Color"
+    },
+    {
+      "name": "Fungal Dye [Red]",
+      "category": "Utility",
+      "subcategory": "Other craftable items",
+      "rarity": "Common",
+      "summary": "A flask of red Fungus",
+      "details": "This Fungus can be applied to Glowing Fungus to change it`s Color"
+    },
+    {
+      "name": "Fungal Dye [Warm-Gold]",
+      "category": "Utility",
+      "subcategory": "Other craftable items",
+      "rarity": "Common",
+      "summary": "A flask of Warm-Gold Fungus",
+      "details": "This Fungus can be applied to Glowing Fungus to change it`s Color"
+    },
+    {
+      "name": "Galadriel Statue",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "This statue depicts Galadriel, an Elf-queen from a legendary forest beyond Gondor.",
+      "details": "Her name means ''tree-maiden,\" and she`s said to have hair of gold and silver. She was an Elven monarch of the First Age -- what wonders she must have seen, when the world was so young!"
+    },
+    {
+      "name": "Gallows [Exiles]",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "Designed for efficiently carrying out executions by hanging",
+      "details": "A Gallows is an apparatus designed for efficiently carrying out executions by hanging."
+    },
+    {
+      "name": "Gallows [Thrall]",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "Designed for efficiently carrying out executions by hanging",
+      "details": "A Gallows is an apparatus designed for efficiently carrying out executions by hanging."
+    },
+    {
+      "name": "Giant Rock",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Giant Stone Pillar [EE]",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Giant Tusks (Attached)",
+      "category": "Accessories",
+      "subcategory": "Extras",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Extras to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Giants Bone Bed",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "A bed made of Giant Bones and Skulls."
+    },
+    {
+      "name": "Glasses (Attached)",
+      "category": "Accessories",
+      "subcategory": "Eyewear",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Extras to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Gloomshroom [Giant]",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Gloomshroom [Med]",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Glowing Fungus [Wall]",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "Glowing wall Fungus topped with radium"
+    },
+    {
+      "name": "Glowing Fungus Ceiling",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "Glowing Ceiling Fungus topped with radium"
+    },
+    {
+      "name": "Glowing Fungus Floor",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "Glowing Fungus topped with radium"
+    },
+    {
+      "name": "Glowing Skull Stick",
+      "category": "Weapons",
+      "subcategory": "Weapons and combat items",
+      "rarity": "Common",
+      "summary": "A makeshift torch made from glowing goo and bone",
+      "details": "The tunnel debouched into a wide room before the moonlight played out, an empty cavern of no great dimensions, but with a lofty, vaulted roof, glowing with a phosphorescent encrustation, which, as Conan knew, was a common phenomenon in that part of the world. - Jewels of GwahlurScholars and adventurers have long known of the properties of certain glowing plants that can be found in subterranean caves and hollows. Though some barbaric tribes swear that such places are demon-tainted and ghost-haunted and avoid them at all costs, others swear that they provide healing or other medicinal properties.This smokeless torch, created from the bones of some unfortunate creature and a bundle of glowing plants can be used underwater without losing any of its efficiency. However, the glowing properties of the plant are drawn from the soil in which it is rooted. Once uprooted it loses its glow over time."
+    },
+    {
+      "name": "Goat Spear",
+      "category": "Weapons",
+      "subcategory": "Weapons and combat items",
+      "rarity": "Common",
+      "summary": "A short spear of a Goat head"
+    },
+    {
+      "name": "Gold Bar -[Deco]",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "An ingot of mostly pure gold",
+      "details": "On the brink, under his very hand as he crouched, he found it, a thin vein of sparkling gold running from an outcropping of ore to the edge and down across the silvery floor. - People of the Black CircleMerchants and Kings alike will tell you that gold is more powerful than any sorcery. It is gold that keeps bellies full, armies equipped, and the commoners entertained. A pauper may be free, but gold offers an entirely different type of freedom.Gold is too soft to be used in the forging of weapons, but it is a highly sought after alchemical ingredient. It can be ground into a fine dust and ingested or melted down and used to create jewelry and other trinkets.Some sages argue that gold has properties that ward against creatures of the Outer Dark, but other, wiser sages have pointed out that wearing gold to ward off such creatures will attract the attention of a complete different class of unsavory being."
+    },
+    {
+      "name": "Gold Dye",
+      "category": "Utility",
+      "subcategory": "Other craftable items",
+      "rarity": "Common",
+      "summary": "A flask of gold dye",
+      "details": "This dye can be applied to textiles in order to color them. Different types of material will be affected differently by the dye, so the coloring of leather will appear differently to metals."
+    },
+    {
+      "name": "Gondorian Women Statue",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Goods Carriage",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "A common Goods Carriage",
+      "details": "Used for long haul transportation of goods, the sturdy carriage can be found in towns."
+    },
+    {
+      "name": "Grand Piano",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Grandfather Clock",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "Also a longcase clock, tall-case clock, grandfather's clock, or floor clock",
+      "details": "Grandfather Clock"
+    },
+    {
+      "name": "Grass 1 [Deco]",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Grass 2 [Deco]",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Great Fanged Emperor Mask (Attached)",
+      "category": "Accessories",
+      "subcategory": "Masks",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Mask to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Greystone Tiger Helmet",
+      "category": "Armor",
+      "subcategory": "Heavy armor",
+      "rarity": "Common"
+    },
+    {
+      "name": "Grindstone",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "A grindstone is a round sharpening stone used for grinding or sharpening ferrous tools.",
+      "details": "Grindstone machines usually have pedals for speeding up and slowing down the stone to control the sharpening process."
+    },
+    {
+      "name": "Guillotine [Exile]",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "Designed for efficiently carrying out executions by beheading.",
+      "details": "A guillotine is an apparatus designed for efficiently carrying out executions by beheading. The device consists of a tall, upright frame in which a weighted and angled blade is raised to the top and suspended."
+    },
+    {
+      "name": "Guillotine [Thrall]",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "Designed for efficiently carrying out executions by beheading.",
+      "details": "A guillotine is an apparatus designed for efficiently carrying out executions by beheading. The device consists of a tall, upright frame in which a weighted and angled blade is raised to the top and suspended."
+    },
+    {
+      "name": "Guillotine T2 [Exile]",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "Designed for efficiently carrying out executions by beheading.",
+      "details": "A guillotine is an apparatus designed for efficiently carrying out executions by beheading. The device consists of a tall, upright frame in which a weighted and angled blade is raised to the top and suspended."
+    },
+    {
+      "name": "Guillotine T2 [Thrall]",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "Designed for efficiently carrying out executions by beheading.",
+      "details": "A guillotine is an apparatus designed for efficiently carrying out executions by beheading. The device consists of a tall, upright frame in which a weighted and angled blade is raised to the top and suspended."
+    },
+    {
+      "name": "Halo (Attached)",
+      "category": "Accessories",
+      "subcategory": "Halos",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Halo to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Hand Cart",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Hannya Back Tattoo",
+      "category": "Appearance",
+      "subcategory": "Warpaints",
+      "rarity": "Common"
+    },
+    {
+      "name": "Head Bow (Attached)",
+      "category": "Accessories",
+      "subcategory": "Hats",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Hats to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Heart [Deco]",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "Stolen from a chest somewhere",
+      "details": "One of the most important facets of the worship of Set is ritual sacrifice. With consecrated blades, the worshippers of Set will cut the hearts from their enemies and offer them as sacrifice on the altar of their demonic god.For the snakes who gather at the dark altars of the serpent god, human hearts provide a rare delicacy."
+    },
+    {
+      "name": "Heart of a Giant [Deco]",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "Stolen from a chest somewhere",
+      "details": "One of the most important facets of the worship of Set is ritual sacrifice. With consecrated blades, the worshippers of Set will cut the hearts from their enemies and offer them as sacrifice on the altar of their demonic god.For the snakes who gather at the dark altars of the serpent god, human hearts provide a rare delicacy."
+    },
+    {
+      "name": "Hell's Slice",
+      "category": "Weapons",
+      "subcategory": "Weapons and combat items",
+      "rarity": "Legendary",
+      "summary": "A two-handed War scythe forged from mysterious star metal"
+    },
+    {
+      "name": "Hexagonal Bath",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Higo Koshirae - Blue Fluorescent-",
+      "category": "Weapons",
+      "subcategory": "Weapons and combat items",
+      "rarity": "Legendary",
+      "summary": "The katana is characterized by its distinctive appearance.",
+      "details": "The katana is generally defined as the standard sized, moderately curved (as opposed to the older tachi featuring more curvature)."
+    },
+    {
+      "name": "Higo Koshirae -Katana-",
+      "category": "Weapons",
+      "subcategory": "Weapons and combat items",
+      "rarity": "Legendary",
+      "summary": "The katana is characterized by its distinctive appearance.",
+      "details": "The katana is generally defined as the standard sized, moderately curved (as opposed to the older tachi featuring more curvature)."
+    },
+    {
+      "name": "Hippogriff Chair",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "The hippogriff, or sometimes spelled hippogryph",
+      "details": "The hippogriff is a legendary creature which has the front half of an eagle and the hind half of a horse."
+    },
+    {
+      "name": "Hood (Attached)",
+      "category": "Accessories",
+      "subcategory": "Hats",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Hats to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Hoofed feet",
+      "category": "Utility",
+      "subcategory": "Other craftable items",
+      "rarity": "Common"
+    },
+    {
+      "name": "Horns Of Dragon",
+      "category": "Armor",
+      "subcategory": "Light armor",
+      "rarity": "Common",
+      "summary": "Used for Thralls or Players"
+    },
+    {
+      "name": "Horns Of Dragon (Attached)",
+      "category": "Accessories",
+      "subcategory": "Horns",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Horns to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Horns of Infernal (Attached)",
+      "category": "Accessories",
+      "subcategory": "Horns",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Horns to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Horns Of Minotaur",
+      "category": "Armor",
+      "subcategory": "Light armor",
+      "rarity": "Common",
+      "summary": "Used for Thralls or Players"
+    },
+    {
+      "name": "Horns Of Minotaur (Attached)",
+      "category": "Accessories",
+      "subcategory": "Horns",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Horns to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Horns Of Minotaur Small (Attached)",
+      "category": "Accessories",
+      "subcategory": "Horns",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Horns to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Horns of Morigesh",
+      "category": "Armor",
+      "subcategory": "Light armor",
+      "rarity": "Common",
+      "summary": "Meant to be used By Players and Thralls"
+    },
+    {
+      "name": "Horns of Morigesh (Attached)",
+      "category": "Accessories",
+      "subcategory": "Horns",
+      "rarity": "Common",
+      "summary": "If used on thralls use Unequip Attached Horns to detach",
+      "details": "Use Unequip Attached Horns to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Horns Of Puthar",
+      "category": "Armor",
+      "subcategory": "Light armor",
+      "rarity": "Common"
+    },
+    {
+      "name": "Horns Of Puthar (Attached)",
+      "category": "Accessories",
+      "subcategory": "Horns",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Horns to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Horns of Qilin (Attached)",
+      "category": "Accessories",
+      "subcategory": "Horns",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Horns to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Horns of Silver (Attached)",
+      "category": "Accessories",
+      "subcategory": "Horns",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Horns to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Horns Of Succubus",
+      "category": "Armor",
+      "subcategory": "Light armor",
+      "rarity": "Common"
+    },
+    {
+      "name": "Horns Of Succubus (Attached)",
+      "category": "Accessories",
+      "subcategory": "Horns",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Horns to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Horns Of Yog",
+      "category": "Armor",
+      "subcategory": "Light armor",
+      "rarity": "Common"
+    },
+    {
+      "name": "Horns Of Yog (Attached)",
+      "category": "Accessories",
+      "subcategory": "Horns",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Horns to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Horse Hitching Post",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "A hitching post is a post to which a horse (or other animal) may be tethered to prevent it from straying.",
+      "details": "Horse Hitching Post"
+    },
+    {
+      "name": "Human Bonfire",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "A large human bonfire",
+      "details": "They camped that night on the northern slopes of those hills, and hook-nosed, fiery-eyed men of the hill tribes came in scores to squat about the fires and repeat news that had come up out of the mysterious desert. - Black Colossus Built of large pieces of wood, the bonfire is a blazing beacon in the night. Bonfires give off more light and heat than their lesser relative, the campfire, which can be an advantage if the priority is to remain warm, or a disadvantage if the priority is to remain hidden."
+    },
+    {
+      "name": "Human Head (Physics)",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "Destroyed from the world after 5 Minutes",
+      "details": "Uses Physics, so don't overdo it"
+    },
+    {
+      "name": "Human Toilet",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Hyena Mask",
+      "category": "Armor",
+      "subcategory": "Light armor",
+      "rarity": "Common",
+      "summary": "A mask that filters out the sandstorm debris",
+      "details": "When the sandstorm wails across the Exiled Lands, the choices are to take cover from the scouring sands, or be blinded and eventually, killed.This breather mask, crafted with very small slits for the eyes that keep out most of the debris while allowing visibility and a cloth mouthpiece that filters the air, allows free movement within the sandstorm.What lies at the heart of the storm is one of the many mysteries of the Exiled Lands."
+    },
+    {
+      "name": "Hyper Thumper (Attached)",
+      "category": "Accessories",
+      "subcategory": "Extras",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Extras to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Ichimatsu Doll [Deco]",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "Ichimatsu dolls are an Edo era invention.",
+      "details": "They portray little Yamatai girls and boys in their holiday silk kimonos and are sometimes commissioned by the rich as portraits of their children."
+    },
+    {
+      "name": "Impaled Noble",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Impaled Skinned Full Female",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Impaled Skinned Full Male",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Impaled Skinned Half Female",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Impaled Skinned Half Male",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Intendant`s Hair Ornament",
+      "category": "Armor",
+      "subcategory": "Light armor",
+      "rarity": "Common"
+    },
+    {
+      "name": "Invisible Saddle",
+      "category": "Companions",
+      "subcategory": "Saddles",
+      "rarity": "Common",
+      "summary": "A scout saddle in the Aquilonian style",
+      "details": "Aquilonia has a long tradition with horse-riding and cavalry. With the province of Poitain in the south is well known for its armored cavalry. Bored nobles often amuse themselves with jousting tournaments where knights hurl themselves at one another time and again in the lists.This saddle is specially designed for scouting. It is light, easy to fit, and allows the horse good freedom of movement. This means that the horse can run further without becoming tired, can turn quickly when danger approaches and has a good amount of speed. It won't win any races and it is definitely not a saddle designed to withstand any kind of battle."
+    },
+    {
+      "name": "Iron Collar",
+      "category": "Armor",
+      "subcategory": "Light armor",
+      "rarity": "Common",
+      "summary": "Used for Thralls or Players"
+    },
+    {
+      "name": "Iron Collar (Attached)",
+      "category": "Accessories",
+      "subcategory": "Collars",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Collars to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Iron Maiden",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "The iron maiden is a putative torture and execution device",
+      "details": "Consisting of an iron cabinet with a hinged front and spike-covered interior, sufficiently tall to enclose a human being."
+    },
+    {
+      "name": "Iron Maiden [Exile & Thrall]",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "The iron maiden is a putative torture and execution device,",
+      "details": "Consisting of an iron cabinet with a hinged front and spike-covered interior, sufficiently tall to enclose a human being."
+    },
+    {
+      "name": "Iron Muzzle",
+      "category": "Armor",
+      "subcategory": "Light armor",
+      "rarity": "Common",
+      "summary": "A muzzle is a device that is placed over the mouth of an animal to keep it from biting or otherwise opening its mouth.",
+      "details": "Muzzles can be primarily solid, with air holes to allow the animal to breathe, or formed from a set of straps that provides better air circulation and allow the animal to drink,"
+    },
+    {
+      "name": "Jack o'lantern",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "A jack-o'-lantern is a carved pumpkin, turnip, or other root vegetable lantern associated with Halloween."
+    },
+    {
+      "name": "Jade Toad",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Jaguar Tail (Attached-Animated)",
+      "category": "Accessories",
+      "subcategory": "Tails",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Tail to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Katana Black Oak stand",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Katana Decoration",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Katana Oak Stand Full Set",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "khitan Chair",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Khitan Stone Lantern",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Khitan Umbrella",
+      "category": "Weapons",
+      "subcategory": "Weapons and combat items",
+      "rarity": "Common"
+    },
+    {
+      "name": "Khitan Writing Desk",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "A writing desk or bureau",
+      "details": "A writing desk or bureau acts as a kind of compact office."
+    },
+    {
+      "name": "Kitsune Mask (Attached)",
+      "category": "Accessories",
+      "subcategory": "Masks",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Mask to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Kitsune Mask Head (Attached)",
+      "category": "Accessories",
+      "subcategory": "Masks",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Mask to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Kitsune Mask II (Attached)",
+      "category": "Accessories",
+      "subcategory": "Masks",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Mask to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Kitsune mask III (Attached)",
+      "category": "Accessories",
+      "subcategory": "Masks",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Mask to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Kitsune mask IV (Attached)",
+      "category": "Accessories",
+      "subcategory": "Masks",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Mask to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Kitty Ears (Attached)",
+      "category": "Accessories",
+      "subcategory": "Ears",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Ears to detach, Note: drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Kitty Mask",
+      "category": "Utility",
+      "subcategory": "Other craftable items",
+      "rarity": "Common",
+      "summary": "Used for Thralls or Players",
+      "details": "Kitty Mask"
+    },
+    {
+      "name": "Kitty Mask (Attached)",
+      "category": "Accessories",
+      "subcategory": "Masks",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Mask to detach, Note: drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Kitty Mask No Ears (Attached)",
+      "category": "Accessories",
+      "subcategory": "Masks",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Mask to detach, Note: drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Large Wooden Chest",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "A large chest for storing items",
+      "details": "Somewhere to place excess items and materials, this chest is made from sturdy materials. It can be locked against strangers, and all but the most determined thief will be deterred. No system is perfect, however."
+    },
+    {
+      "name": "Lava Eyes (Attached)",
+      "category": "Accessories",
+      "subcategory": "Eyes",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Eyes to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Lava Halo (Attached)",
+      "category": "Accessories",
+      "subcategory": "Halos",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Halo to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Lava Slab",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Lava Wings (Attached)",
+      "category": "Accessories",
+      "subcategory": "Wings",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Wings to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Leather Collar (Attached)",
+      "category": "Accessories",
+      "subcategory": "Collars",
+      "rarity": "Common",
+      "summary": "Will not work on thralls",
+      "details": "Use Unequip Attached Collars to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Leather Quiver (Attached)",
+      "category": "Accessories",
+      "subcategory": "Extras",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Extras to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Lemon Tree",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "The lemon, Citrus limon, is a species of small evergreen tree in the flowering plant family Rutaceae",
+      "details": "Lemon juice, rind, and peel are used in a wide variety of foods and drinks. The whole lemon is used to make marmalade, lemon curd and lemon liqueur. Lemon slices and lemon rind are used as a garnish for food and drinks. Lemon zest, the grated outer rind of the fruit, is used to add flavor to baked goods, puddings, rice, and other dishes."
+    },
+    {
+      "name": "Lemuria Throne",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "A throne made of stone",
+      "details": "Unlike other chairs, a throne gives the one who sits in it authority above and beyond that of an ordinary man. Battles have always been fought for this kind of power, and they always will be. Sitting on a throne of any kind will increase confidence and prowess for a period."
+    },
+    {
+      "name": "Lemurian Statue",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "Lemurian Sacrifice statue"
+    },
+    {
+      "name": "Lemurian Two-Handed Axe",
+      "category": "Weapons",
+      "subcategory": "Weapons and combat items",
+      "rarity": "Legendary",
+      "summary": "A two-handed Axe of Lemurian make"
+    },
+    {
+      "name": "Lesser Levitating Broomstick",
+      "category": "Utility",
+      "subcategory": "Other craftable items",
+      "rarity": "Common",
+      "summary": "\"As every school-age wizard knows, the fact that we fly on broomsticks\"",
+      "details": "Broomsticks, also known as brooms, are one of the means employed by wizards and witches to transport themselves between locations. Wizarding broomsticks, unlike non-magical brooms, are enchanted to fly, allowing for a witch or wizard to travel to their destination through the air, as well as for playing broom games."
+    },
+    {
+      "name": "Lip Septum Piercing (Attached)",
+      "category": "Utility",
+      "subcategory": "Other craftable items",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Lip Septum to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Liquid splatter",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Little Cat Ears Black (Attached)",
+      "category": "Accessories",
+      "subcategory": "Ears",
+      "rarity": "Common",
+      "summary": "Will not work on thralls",
+      "details": "Use Unequip Attached Ears to detach, Note: Attached items cant be dyed - drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Lower-back Tattoo",
+      "category": "Appearance",
+      "subcategory": "Warpaints",
+      "rarity": "Common"
+    },
+    {
+      "name": "Male Corpse I",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Male Corpse II",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Meat hook Lower body Male",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "A Male lower body on a meat hook"
+    },
+    {
+      "name": "Meat hook Upper body Female",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "A Female upper body on a meat hook"
+    },
+    {
+      "name": "Meat Shield",
+      "category": "Weapons",
+      "subcategory": "Weapons and combat items",
+      "rarity": "Common",
+      "summary": "A whispering shield forged from an human torso",
+      "details": "This shield was created from human torso."
+    },
+    {
+      "name": "Medieval Wall Torch",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Mermaid Fountain",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "A Mermaid Fountain",
+      "details": "A mermaid fountain crafted out of fine Quartzite"
+    },
+    {
+      "name": "Mi-Go Head Armor",
+      "category": "Armor",
+      "subcategory": "Light armor",
+      "rarity": "Common",
+      "summary": "Conan is a Cimmerian",
+      "details": "Conan is a Cimmerian, a barbarian of the far north; he was born on a battlefield and is the son of the village blacksmith Corin. During the battle in Cimmeria, his mother Greshan was fatally wounded by an enemy while attempting to save Corin. The weakened Greshan uses the last of her strength to give birth to her son and names him Conan before she dies."
+    },
+    {
+      "name": "Morning Glory Floor",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "Most morning glory flowers unravel into full bloom in the early morning.",
+      "details": "The flowers usually start to fade a few hours before the \"petals\" start showing visible curling. They prefer full solar exposure throughout the day, and mesic soils. Some morning glories, such as Ipomoea muricata, are night-blooming flowers."
+    },
+    {
+      "name": "Morning Glory Wall",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "Most morning glory flowers unravel into full bloom in the early morning.",
+      "details": "The flowers usually start to fade a few hours before the \"petals\" start showing visible curling. They prefer full solar exposure throughout the day, and mesic soils. Some morning glories, such as Ipomoea muricata, are night-blooming flowers."
+    },
+    {
+      "name": "Morrigan Head Wings (Attached)",
+      "category": "Accessories",
+      "subcategory": "Hats",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Hats to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Morrigan Wings (Attached-NCP)",
+      "category": "Accessories",
+      "subcategory": "Wings",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls - no clothes physics",
+      "details": "Use Unequip Attached Wings to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Morrigan Wings (Attached)",
+      "category": "Accessories",
+      "subcategory": "Wings",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Wings to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Multi Flower Pot",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "A flowerpot, flower pot, or plant pot is a container in which flowers and other plants",
+      "details": "Flowerpots have a number of uses such as transporting plants to new locations, starting seeds, patio and indoor cultivation."
+    },
+    {
+      "name": "Mushroom Patch",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Neck Snake Pet (Attached)",
+      "category": "Accessories",
+      "subcategory": "Extras",
+      "rarity": "Common",
+      "summary": "A Pet Snake",
+      "details": "Use Unequip Attached Extras to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Nightshade Fey Wings (Attached)",
+      "category": "Accessories",
+      "subcategory": "Wings",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Wings to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Nine Tail Fox (Attached)",
+      "category": "Accessories",
+      "subcategory": "Tails",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Tail to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Nose Septum Piercing (Attached)",
+      "category": "Utility",
+      "subcategory": "Other craftable items",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Nose Septum to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Nose Septum Piercing Small (Attached)",
+      "category": "Utility",
+      "subcategory": "Other craftable items",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Nose Septum to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Octopus Candelabra",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Octopus Candelabra [Ceilling]",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Octopus Candelabra Medium [Ceilling]",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Ornate Wall Mirror",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Outhouse T1",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "A smelly outhouse",
+      "details": "Ask not a man what goes into his Outhouse. That is his business alone. It is what a man removes from his Outhouse that matters."
+    },
+    {
+      "name": "Outhouse T2",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "A smelly outhouse",
+      "details": "Ask not a man what goes into his Outhouse. That is his business alone. It is what a man removes from his Outhouse that matters."
+    },
+    {
+      "name": "Outhouse With Compost Box",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "A Viking Outhouse",
+      "details": "Though not as exciting as the life of the adventurer, the life of the farmer is still considered a vital and noble pursuit. Without food, after all, how can any hope to survive the rigors of the wilderness? Carrying around piles of stinking decomposing matter, however, is probably not the most exciting part of farming. This compost and Toilet can be used in planters to encourage planted seeds to grow strong and healthy."
+    },
+    {
+      "name": "Painting I",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "A Painting with frame",
+      "details": "The frame along with its mounts protects and often makes the art look better. Art work framed well will stay in good condition for a long period of time."
+    },
+    {
+      "name": "Painting II",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "A Painting with frame",
+      "details": "The frame along with its mounts protects and often makes the art look better. Art work framed well will stay in good condition for a long period of time."
+    },
+    {
+      "name": "Painting III",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "A Painting with frame",
+      "details": "The frame along with its mounts protects and often makes the art look better. Art work framed well will stay in good condition for a long period of time."
+    },
+    {
+      "name": "Painting IV",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "A Painting with frame",
+      "details": "The frame along with its mounts protects and often makes the art look better. Art work framed well will stay in good condition for a long period of time."
+    },
+    {
+      "name": "Painting IX",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "A Painting with frame",
+      "details": "The frame along with its mounts protects and often makes the art look better. Art work framed well will stay in good condition for a long period of time."
+    },
+    {
+      "name": "Painting Novigrad Port",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "A Painting with frame",
+      "details": "The frame along with its mounts protects and often makes the art look better. Art work framed well will stay in good condition for a long period of time."
+    },
+    {
+      "name": "Painting V",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "A Painting with frame",
+      "details": "The frame along with its mounts protects and often makes the art look better. Art work framed well will stay in good condition for a long period of time."
+    },
+    {
+      "name": "Painting VI",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "A Painting with frame",
+      "details": "The frame along with its mounts protects and often makes the art look better. Art work framed well will stay in good condition for a long period of time."
+    },
+    {
+      "name": "Painting VII",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "A Painting with frame",
+      "details": "The frame along with its mounts protects and often makes the art look better. Art work framed well will stay in good condition for a long period of time."
+    },
+    {
+      "name": "Painting VIII",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "A Painting with frame",
+      "details": "The frame along with its mounts protects and often makes the art look better. Art work framed well will stay in good condition for a long period of time."
+    },
+    {
+      "name": "Panther Mask",
+      "category": "Armor",
+      "subcategory": "Light armor",
+      "rarity": "Common",
+      "summary": "A mask that filters out the sandstorm debris",
+      "details": "When the sandstorm wails across the Exiled Lands, the choices are to take cover from the scouring sands, or be blinded and eventually, killed.This breather mask, crafted with very small slits for the eyes that keep out most of the debris while allowing visibility and a cloth mouthpiece that filters the air, allows free movement within the sandstorm.What lies at the heart of the storm is one of the many mysteries of the Exiled Lands."
+    },
+    {
+      "name": "Panther Tail (Attached)",
+      "category": "Accessories",
+      "subcategory": "Tails",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Tail to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Parked Boat",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "A Parked Boat on wooden support"
+    },
+    {
+      "name": "Peg Arms",
+      "category": "Armor",
+      "subcategory": "Light armor",
+      "rarity": "Common",
+      "summary": "A wooden prosthetic Arms",
+      "details": "The pirates of the Black Hand are the most dangerous kind of pirates - shipless, aimless and destitute. They search desperately for a way to leave the Exiled Lands and they form strange alliances and quirky plans to help them achieve that goal. So far, nothing has come to fruition.Somehow, this peg Arms allows the temporary removal of your own - where it is stored is anyones guess."
+    },
+    {
+      "name": "Pegasus Saddle",
+      "category": "Companions",
+      "subcategory": "Saddles",
+      "rarity": "Common",
+      "summary": "A heavy saddle designed for war",
+      "details": "The Exiled Lands has no tradition in riding. The terrain is downright unfriendly to horses and the beasts themselves have no natural presence here. However, due to sheer-minded persistence and strong will, horses have been tamed and brought to the Exiled Lands. A testament and a congratulations to all who suffered to make this happen. Some types of cavalry rely on their speed and mobility to perform flanking manouveres, while others are all about the charge. This saddle is designed for the latter - allowing attackers to stay in the stirrups taking repeated blows while they use the momentum of their mounts to force a break in enemy lines. For anyone who wishes to ride a mount into battle and stay there for a while, this is the saddle of choice."
+    },
+    {
+      "name": "Petals Surface",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Piano Bench",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Pierrot Mask",
+      "category": "Armor",
+      "subcategory": "Light armor",
+      "rarity": "Common"
+    },
+    {
+      "name": "Pierrot Mask (Attached)",
+      "category": "Accessories",
+      "subcategory": "Masks",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Mask to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Pile Of Bodies",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Pink Halo (Attached)",
+      "category": "Accessories",
+      "subcategory": "Halos",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Halo to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Plant Althaea Officinalis",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Plant Amaryllis",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Plant Cornus Alba",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Plant Dahlia 1",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Plant Dahlia 2",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Plant Hosta 1",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Plant Hosta 2",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Plant Lilium 1",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Plant Lilium 2",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Plant Pelargonium 1",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Plant Pelargonium 2",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Plant Petunia 1",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Plant Petunia 1 Bundle",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Plant Petunia 2",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Plant Phlox 1",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Plant Phlox 2",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Plant Rosa Rugosa",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Plant Rudbeckia Laciniata",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Plant Spiraea",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Plasma Ball [Deco]",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "A plasma Ball that shimmers with plasma"
+    },
+    {
+      "name": "Plasma Bomb II",
+      "category": "Weapons",
+      "subcategory": "Weapons and combat items",
+      "rarity": "Common",
+      "summary": "A plasma Ball Bomb that shimmers with plasma",
+      "details": "'With sudden suspicion he thrust his head over the threshold, into the bluish mist that filled the inner cavern. And he screamed, chokingly: 'There is death in the smoke!' - The Black Stranger This ball of plasma, filled with plasma, explodes into ball of plasma and lightning when thrown."
+    },
+    {
+      "name": "Plasma Bomb III",
+      "category": "Weapons",
+      "subcategory": "Weapons and combat items",
+      "rarity": "Common",
+      "summary": "A plasma Ball Bomb that shimmers with plasma",
+      "details": "'With sudden suspicion he thrust his head over the threshold, into the bluish mist that filled the inner cavern. And he screamed, chokingly: 'There is death in the smoke!' - The Black Stranger This ball of plasma, filled with plasma, explodes into ball of plasma and lightning when thrown."
+    },
+    {
+      "name": "Pole Dancer",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "Name: Cherry Popz",
+      "details": "Cherry moves with grace through a world that sorely needs it. She sees unending good in a world that has offered her almost none of it."
+    },
+    {
+      "name": "Pole Dancer [No Bows]",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "Name: Cherry Popz",
+      "details": "Cherry moves with grace through a world that sorely needs it. She sees unending good in a world that has offered her almost none of it."
+    },
+    {
+      "name": "Pole Dancer [No Bows/Heels]",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "Name: Cherry Popz",
+      "details": "Cherry moves with grace through a world that sorely needs it. She sees unending good in a world that has offered her almost none of it."
+    },
+    {
+      "name": "Pole of the dancer [Deco]",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Praying Dead Statue",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Prison Cart",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Rabbit Ears",
+      "category": "Armor",
+      "subcategory": "Light armor",
+      "rarity": "Common"
+    },
+    {
+      "name": "Rabbit Ears (Attached)",
+      "category": "Accessories",
+      "subcategory": "Ears",
+      "rarity": "Common",
+      "summary": "Will not work on thralls",
+      "details": "Use Unequip Attached Ears to detach, Note: Attached items cant be dyed - drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Rack, Meat",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "For hanging your meat",
+      "details": "A rack meat for hanging all your meat"
+    },
+    {
+      "name": "Radium Fire Chandelier",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "A chandelier with hanging crystals",
+      "details": "A chandelier also known as girandole, candelabra lamp, or least commonly suspended lights is a branched ornamental light fixture designed to be mounted on ceilings."
+    },
+    {
+      "name": "Radium Fire Wall Torch",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "An ornate fire wall torch topped with radium",
+      "details": "They are jewels, fused with radium. You rub them with your thumb to make them glow, and rub them again, the opposite way, to extinguish them. - Xuthal of the DuskThe product of a science long vanished in the ancient past, these gems seem to glow indefinitely when activated. There is a cost, however, as those who use the Radium Gems seem to slowly lose their grip on sanity, whispering to themselves of green stoned cities and the nameless horrors that stalk them.This wall torch can be attached to a building. Adding dye to the radium torch will change the color of its glow."
+    },
+    {
+      "name": "Radium Galaxy Sphere Standing Torch",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "An ornate standing torch topped with radium",
+      "details": "They are jewels, fused with radium. You rub them with your thumb to make them glow, and rub them again, the opposite way, to extinguish them. - Xuthal of the Dusk The product of a science long vanished in the ancient past, these gems seem to glow indefinitely when activated. There is a cost, however, as those who use the Radium Gems seem to slowly lose their grip on sanity, whispering to themselves of green stoned cities and the nameless horrors that stalk them. This standing torch can be placed in the ground to light an area or show the path home. Adding dye to the radium torch, will change the color of its glow."
+    },
+    {
+      "name": "Ragged Bench",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "A crude bench",
+      "details": "Benches like this are common in the taverns and alehouses of the world."
+    },
+    {
+      "name": "Raven [Deco]",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Reaper's Claw",
+      "category": "Weapons",
+      "subcategory": "Weapons and combat items",
+      "rarity": "Legendary",
+      "summary": "A two-handed War scythe forged from mysterious star metal"
+    },
+    {
+      "name": "Red Candle",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "Red Candle With Candleholder"
+    },
+    {
+      "name": "Red Flag (Attached)",
+      "category": "Accessories",
+      "subcategory": "Extras",
+      "rarity": "Common",
+      "summary": "Use Unequip Attached Extras to detach - or drag on to your HotBar for fast Equip Unequip",
+      "details": "A war flag, also known as a military flag, battle flag, or standard, is a variant of a national flag for use by a country's military forces when on land."
+    },
+    {
+      "name": "Rock Entrance Gate [Deco]",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Rock Entrance Gateway",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "details": "Every structure that has ever fallen to an enemy has been breached somewhere. And the breach point, more often than not, is the door. A door is only as strong as the place where it is anchored and many a would-be warlord has come to grief when their solidly constructed door was torn off at the anchor point. The difference between a king and a pauper might just be the entrance to his kingdom. Built of close fitting bricks of cut Stonebrick, reinforced by wooden slats that have been shaped to fit, this will provide a safe haven from the weather and strong front to any foes who come knocking."
+    },
+    {
+      "name": "Rum Barrels",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "Barrels full of Rum",
+      "details": "A barrel, cask, or tun is a hollow cylindrical container, traditionally made of wooden staves bound by wooden or metal hoops."
+    },
+    {
+      "name": "Rustic Chest",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "A large chest for storing items",
+      "details": "Somewhere to place excess items and materials, this chest is made from sturdy materials. It can be locked against strangers, and all but the most determined thief will be deterred. No system is perfect, however."
+    },
+    {
+      "name": "Sabertooth Mask",
+      "category": "Armor",
+      "subcategory": "Light armor",
+      "rarity": "Common",
+      "summary": "A mask that filters out the sandstorm debris",
+      "details": "When the sandstorm wails across the Exiled Lands, the choices are to take cover from the scouring sands, or be blinded and eventually, killed.This breather mask, crafted with very small slits for the eyes that keep out most of the debris while allowing visibility and a cloth mouthpiece that filters the air, allows free movement within the sandstorm.What lies at the heart of the storm is one of the many mysteries of the Exiled Lands."
+    },
+    {
+      "name": "Saguaro Long Sword",
+      "category": "Weapons",
+      "subcategory": "Weapons and combat items",
+      "rarity": "Legendary",
+      "summary": "A Sword made from Saguaro.",
+      "details": "Saguaro Long Sword, The spines on a saguaro, less than two meters in height, rapidly grow up to a millimeter per day."
+    },
+    {
+      "name": "Sandstorm Creature [Deco]",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "Creature that resides in the sandstorm."
+    },
+    {
+      "name": "Sarcophagus",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Scarecrow",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "A scarecrow is a scarecrow decoy or mannequin, often in the shape of a human.",
+      "details": "The common form of a scarecrow is a humanoid figure dressed in old clothes and placed in open fields to discourage birds such as crows or sparrows from disturbing and feeding on recently cast seed and growing crops"
+    },
+    {
+      "name": "Serpentmen Throne",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "A throne made of stone",
+      "details": "Unlike other chairs, a throne gives the one who sits in it authority above and beyond that of an ordinary man. Battles have always been fought for this kind of power, and they always will be. Sitting on a throne of any kind will increase confidence and prowess for a period."
+    },
+    {
+      "name": "Shallow Grave",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Shapeshifting (Anubis)",
+      "category": "Utility",
+      "subcategory": "Other craftable items",
+      "rarity": "Common",
+      "summary": "Tomb Dust can be find in Outhouse With Compost Box",
+      "details": "Shapeshifting is the ability of a being or creature to transform its physical form or shape."
+    },
+    {
+      "name": "Shapeshifting (Avatar of Mitra)",
+      "category": "Utility",
+      "subcategory": "Other craftable items",
+      "rarity": "Common",
+      "summary": "Shapeshifting is the ability of a being or creature to transform its physical form or shape."
+    },
+    {
+      "name": "Shapeshifting (Bambi)",
+      "category": "Appearance",
+      "subcategory": "Shapeshifting",
+      "rarity": "Common",
+      "summary": "Shapeshifting is the ability of a being or creature to transform its physical form or shape."
+    },
+    {
+      "name": "Shapeshifting (Bat Demon)",
+      "category": "Appearance",
+      "subcategory": "Shapeshifting",
+      "rarity": "Common",
+      "summary": "Shapeshifting is the ability of a being or creature to transform its physical form or shape."
+    },
+    {
+      "name": "Shapeshifting (Bear)",
+      "category": "Accessories",
+      "subcategory": "Shapeshifting",
+      "rarity": "Common",
+      "summary": "Shapeshifting is the ability of a being or creature to transform its physical form or shape."
+    },
+    {
+      "name": "Shapeshifting (Beauty Incarnate)",
+      "category": "Utility",
+      "subcategory": "Other craftable items",
+      "rarity": "Common",
+      "summary": "Shapeshifting is the ability of a being or creature to transform its physical form or shape."
+    },
+    {
+      "name": "Shapeshifting (Beneath)",
+      "category": "Utility",
+      "subcategory": "Other craftable items",
+      "rarity": "Common",
+      "summary": "Shapeshifting is the ability of a being or creature to transform its physical form or shape."
+    },
+    {
+      "name": "Shapeshifting (Black Panther)",
+      "category": "Appearance",
+      "subcategory": "Shapeshifting",
+      "rarity": "Common",
+      "summary": "Shapeshifting is the ability of a being or creature to transform its physical form or shape."
+    },
+    {
+      "name": "Shapeshifting (Black Pussycat)",
+      "category": "Appearance",
+      "subcategory": "Shapeshifting",
+      "rarity": "Common",
+      "summary": "Shapeshifting is the ability of a being or creature to transform its physical form or shape."
+    },
+    {
+      "name": "Shapeshifting (Black WereWolf Alpha)",
+      "category": "Utility",
+      "subcategory": "Other craftable items",
+      "rarity": "Common",
+      "summary": "Shapeshifting is the ability of a being or creature to transform its physical form or shape."
+    },
+    {
+      "name": "Shapeshifting (Black WereWolf)",
+      "category": "Utility",
+      "subcategory": "Other craftable items",
+      "rarity": "Common",
+      "summary": "Shapeshifting is the ability of a being or creature to transform its physical form or shape."
+    },
+    {
+      "name": "Shapeshifting (Black Widow)",
+      "category": "Appearance",
+      "subcategory": "Shapeshifting",
+      "rarity": "Common",
+      "summary": "Shapeshifting is the ability of a being or creature to transform its physical form or shape."
+    },
+    {
+      "name": "Shapeshifting (Black Wolf)",
+      "category": "Appearance",
+      "subcategory": "Shapeshifting",
+      "rarity": "Common",
+      "summary": "Shapeshifting is the ability of a being or creature to transform its physical form or shape."
+    },
+    {
+      "name": "Shapeshifting (Black Yeti)",
+      "category": "Appearance",
+      "subcategory": "Shapeshifting",
+      "rarity": "Common",
+      "summary": "Shapeshifting is the ability of a being or creature to transform its physical form or shape."
+    },
+    {
+      "name": "Shapeshifting (Blood Defiler)",
+      "category": "Utility",
+      "subcategory": "Other craftable items",
+      "rarity": "Common"
+    },
+    {
+      "name": "Shapeshifting (Bloodless Husk)",
+      "category": "Utility",
+      "subcategory": "Other craftable items",
+      "rarity": "Common",
+      "summary": "Conan is a Cimmerian",
+      "details": "Conan is a Cimmerian, a barbarian of the far north; he was born on a battlefield and is the son of the village blacksmith Corin. During the battle in Cimmeria, his mother Greshan was fatally wounded by an enemy while attempting to save Corin. The weakened Greshan uses the last of her strength to give birth to her son and names him Conan before she dies."
+    },
+    {
+      "name": "Shapeshifting (Bull)",
+      "category": "Appearance",
+      "subcategory": "Shapeshifting",
+      "rarity": "Common",
+      "summary": "Shapeshifting is the ability of a being or creature to transform its physical form or shape."
+    },
+    {
+      "name": "Shapeshifting (Child of Jhil)",
+      "category": "Appearance",
+      "subcategory": "Shapeshifting",
+      "rarity": "Common",
+      "summary": "Shapeshifting is the ability of a being or creature to transform its physical form or shape."
+    },
+    {
+      "name": "Shapeshifting (Cobra)",
+      "category": "Appearance",
+      "subcategory": "Shapeshifting",
+      "rarity": "Common",
+      "summary": "Shapeshifting is the ability of a being or creature to transform its physical form or shape."
+    },
+    {
+      "name": "Shapeshifting (Conan)",
+      "category": "Utility",
+      "subcategory": "Other craftable items",
+      "rarity": "Common",
+      "summary": "Conan is a Cimmerian",
+      "details": "Conan is a Cimmerian, a barbarian of the far north; he was born on a battlefield and is the son of the village blacksmith Corin. During the battle in Cimmeria, his mother Greshan was fatally wounded by an enemy while attempting to save Corin. The weakened Greshan uses the last of her strength to give birth to her son and names him Conan before she dies."
+    },
+    {
+      "name": "Shapeshifting (DeepOne 1)",
+      "category": "Utility",
+      "subcategory": "Other craftable items",
+      "rarity": "Common",
+      "summary": "Shapeshifting is the ability of a being or creature to transform its physical form or shape."
+    },
+    {
+      "name": "Shapeshifting (DeepOne 2)",
+      "category": "Utility",
+      "subcategory": "Other craftable items",
+      "rarity": "Common",
+      "summary": "Shapeshifting is the ability of a being or creature to transform its physical form or shape."
+    },
+    {
+      "name": "Shapeshifting (DeepOne 3)",
+      "category": "Utility",
+      "subcategory": "Other craftable items",
+      "rarity": "Common",
+      "summary": "Shapeshifting is the ability of a being or creature to transform its physical form or shape."
+    },
+    {
+      "name": "Shapeshifting (DeepOne 4)",
+      "category": "Utility",
+      "subcategory": "Other craftable items",
+      "rarity": "Common",
+      "summary": "Shapeshifting is the ability of a being or creature to transform its physical form or shape."
+    },
+    {
+      "name": "Shapeshifting (Demon Spider)",
+      "category": "Appearance",
+      "subcategory": "Shapeshifting",
+      "rarity": "Common",
+      "summary": "Shapeshifting is the ability of a being or creature to transform its physical form or shape."
+    },
+    {
+      "name": "Shapeshifting (Derketo)",
+      "category": "Utility",
+      "subcategory": "Other craftable items",
+      "rarity": "Common",
+      "summary": "Shapeshifting is the ability of a being or creature to transform its physical form or shape."
+    },
+    {
+      "name": "Shapeshifting (Dragon)",
+      "category": "Appearance",
+      "subcategory": "Shapeshifting",
+      "rarity": "Common",
+      "summary": "Shapeshifting is the ability of a being or creature to transform its physical form or shape."
+    },
+    {
+      "name": "Shapeshifting (Elk King)",
+      "category": "Appearance",
+      "subcategory": "Shapeshifting",
+      "rarity": "Common",
+      "summary": "Shapeshifting is the ability of a being or creature to transform its physical form or shape."
+    },
+    {
+      "name": "Shapeshifting (Evil Fey)",
+      "category": "Appearance",
+      "subcategory": "Shapeshifting",
+      "rarity": "Common",
+      "summary": "Shapeshifting is the ability of a being or creature to transform its physical form or shape."
+    },
+    {
+      "name": "Shapeshifting (Female WereWolf)",
+      "category": "Utility",
+      "subcategory": "Other craftable items",
+      "rarity": "Common",
+      "summary": "Shapeshifting is the ability of a being or creature to transform its physical form or shape."
+    },
+    {
+      "name": "Shapeshifting (Fey)",
+      "category": "Appearance",
+      "subcategory": "Shapeshifting",
+      "rarity": "Common",
+      "summary": "Shapeshifting is the ability of a being or creature to transform its physical form or shape."
+    },
+    {
+      "name": "Shapeshifting (First Man-Only Pants)",
+      "category": "Utility",
+      "subcategory": "Other craftable items",
+      "rarity": "Common",
+      "summary": "Shapeshifting is the ability of a being or creature to transform its physical form or shape."
+    },
+    {
+      "name": "Shapeshifting (Fox)",
+      "category": "Appearance",
+      "subcategory": "Shapeshifting",
+      "rarity": "Common",
+      "summary": "Shapeshifting is the ability of a being or creature to transform its physical form or shape."
+    },
+    {
+      "name": "Shapeshifting (Giant King)",
+      "category": "Utility",
+      "subcategory": "Other craftable items",
+      "rarity": "Common",
+      "summary": "Shapeshifting is the ability of a being or creature to transform its physical form or shape."
+    },
+    {
+      "name": "Shapeshifting (Gray WereWolf Alpha)",
+      "category": "Utility",
+      "subcategory": "Other craftable items",
+      "rarity": "Common",
+      "summary": "Shapeshifting is the ability of a being or creature to transform its physical form or shape."
+    },
+    {
+      "name": "Shapeshifting (Grey Wolf)",
+      "category": "Appearance",
+      "subcategory": "Shapeshifting",
+      "rarity": "Common",
+      "summary": "Shapeshifting is the ability of a being or creature to transform its physical form or shape."
+    },
+    {
+      "name": "Shapeshifting (Hyena Alpha)",
+      "category": "Appearance",
+      "subcategory": "Shapeshifting",
+      "rarity": "Common",
+      "summary": "Shapeshifting is the ability of a being or creature to transform its physical form or shape."
+    },
+    {
+      "name": "Shapeshifting (Imp)",
+      "category": "Appearance",
+      "subcategory": "Shapeshifting",
+      "rarity": "Common",
+      "summary": "Shapeshifting is the ability of a being or creature to transform its physical form or shape."
+    },
+    {
+      "name": "Shapeshifting (Lion)",
+      "category": "Appearance",
+      "subcategory": "Shapeshifting",
+      "rarity": "Common",
+      "summary": "Shapeshifting is the ability of a being or creature to transform its physical form or shape."
+    },
+    {
+      "name": "Shapeshifting (Piglet)",
+      "category": "Appearance",
+      "subcategory": "Shapeshifting",
+      "rarity": "Common",
+      "summary": "Shapeshifting is the ability of a being or creature to transform its physical form or shape."
+    },
+    {
+      "name": "Shapeshifting (Rabbit)",
+      "category": "Appearance",
+      "subcategory": "Shapeshifting",
+      "rarity": "Common",
+      "summary": "Shapeshifting is the ability of a being or creature to transform its physical form or shape."
+    },
+    {
+      "name": "Shapeshifting (Rat Humanoid)",
+      "category": "Appearance",
+      "subcategory": "Shapeshifting",
+      "rarity": "Common",
+      "summary": "Shapeshifting is the ability of a being or creature to transform its physical form or shape."
+    },
+    {
+      "name": "Shapeshifting (Raven)",
+      "category": "Appearance",
+      "subcategory": "Shapeshifting",
+      "rarity": "Common",
+      "summary": "Shapeshifting is the ability of a being or creature to transform its physical form or shape."
+    },
+    {
+      "name": "Shapeshifting (Sabertooth)",
+      "category": "Appearance",
+      "subcategory": "Shapeshifting",
+      "rarity": "Common",
+      "summary": "Shapeshifting is the ability of a being or creature to transform its physical form or shape."
+    },
+    {
+      "name": "Shapeshifting (Sandstorm Creature)",
+      "category": "Appearance",
+      "subcategory": "Shapeshifting",
+      "rarity": "Common",
+      "summary": "Shapeshifting is the ability of a being or creature to transform its physical form or shape."
+    },
+    {
+      "name": "Shapeshifting (Shaggai Huntress)",
+      "category": "Appearance",
+      "subcategory": "Shapeshifting",
+      "rarity": "Common",
+      "summary": "Shapeshifting is the ability of a being or creature to transform its physical form or shape."
+    },
+    {
+      "name": "Shapeshifting (Silver Fox)",
+      "category": "Appearance",
+      "subcategory": "Shapeshifting",
+      "rarity": "Common",
+      "summary": "Shapeshifting is the ability of a being or creature to transform its physical form or shape."
+    },
+    {
+      "name": "Shapeshifting (Snake Brute)",
+      "category": "Appearance",
+      "subcategory": "Shapeshifting",
+      "rarity": "Common",
+      "summary": "Shapeshifting is the ability of a being or creature to transform its physical form or shape."
+    },
+    {
+      "name": "Shapeshifting (Tcho)",
+      "category": "Utility",
+      "subcategory": "Other craftable items",
+      "rarity": "Common",
+      "summary": "Conan is a Cimmerian",
+      "details": "Conan is a Cimmerian, a barbarian of the far north; he was born on a battlefield and is the son of the village blacksmith Corin. During the battle in Cimmeria, his mother Greshan was fatally wounded by an enemy while attempting to save Corin. The weakened Greshan uses the last of her strength to give birth to her son and names him Conan before she dies."
+    },
+    {
+      "name": "Shapeshifting (Tiger)",
+      "category": "Appearance",
+      "subcategory": "Shapeshifting",
+      "rarity": "Common",
+      "summary": "Shapeshifting is the ability of a being or creature to transform its physical form or shape."
+    },
+    {
+      "name": "Shapeshifting (Undead Drowned Captain)",
+      "category": "Utility",
+      "subcategory": "Other craftable items",
+      "rarity": "Common",
+      "summary": "Shapeshifting is the ability of a being or creature to transform its physical form or shape."
+    },
+    {
+      "name": "Shapeshifting (Undead King)",
+      "category": "Utility",
+      "subcategory": "Other craftable items",
+      "rarity": "Common",
+      "summary": "Shapeshifting is the ability of a being or creature to transform its physical form or shape."
+    },
+    {
+      "name": "Shapeshifting (Undead)",
+      "category": "Utility",
+      "subcategory": "Other craftable items",
+      "rarity": "Common",
+      "summary": "Shapeshifting is the ability of a being or creature to transform its physical form or shape."
+    },
+    {
+      "name": "Shapeshifting (Vulture)",
+      "category": "Appearance",
+      "subcategory": "Shapeshifting",
+      "rarity": "Common",
+      "summary": "Shapeshifting is the ability of a being or creature to transform its physical form or shape."
+    },
+    {
+      "name": "Shapeshifting (Were-Hyena)",
+      "category": "Appearance",
+      "subcategory": "Shapeshifting",
+      "rarity": "Common",
+      "summary": "Shapeshifting is the ability of a being or creature to transform its physical form or shape."
+    },
+    {
+      "name": "Shapeshifting (White WereWolf Alpha)",
+      "category": "Utility",
+      "subcategory": "Other craftable items",
+      "rarity": "Common",
+      "summary": "Shapeshifting is the ability of a being or creature to transform its physical form or shape."
+    },
+    {
+      "name": "Shapeshifting (White Wolf)",
+      "category": "Appearance",
+      "subcategory": "Shapeshifting",
+      "rarity": "Common",
+      "summary": "Shapeshifting is the ability of a being or creature to transform its physical form or shape."
+    },
+    {
+      "name": "Shapeshifting (White-Tiger)",
+      "category": "Appearance",
+      "subcategory": "Shapeshifting",
+      "rarity": "Common",
+      "summary": "Shapeshifting is the ability of a being or creature to transform its physical form or shape."
+    },
+    {
+      "name": "Shapeshifting (Wolf PuP)",
+      "category": "Appearance",
+      "subcategory": "Shapeshifting",
+      "rarity": "Common",
+      "summary": "Shapeshifting is the ability of a being or creature to transform its physical form or shape."
+    },
+    {
+      "name": "Shapeshifting (Yeti)",
+      "category": "Appearance",
+      "subcategory": "Shapeshifting",
+      "rarity": "Common",
+      "summary": "Shapeshifting is the ability of a being or creature to transform its physical form or shape."
+    },
+    {
+      "name": "Ship's Wheel [Deco]",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "Ship's Wheel is a device used aboard a water vessel to steer that vessel and control its course."
+    },
+    {
+      "name": "Shoulder Pet Bald Eagle (Attached)",
+      "category": "Utility",
+      "subcategory": "Other craftable items",
+      "rarity": "Common",
+      "summary": "A Pet Eagle that sits on your shoulder",
+      "details": "Use Unequip Attached Shoulder Pet to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Shoulder Pet Black Pussy Cat (Attached)",
+      "category": "Utility",
+      "subcategory": "Other craftable items",
+      "rarity": "Common",
+      "summary": "A pet Black Pussy Cat that sits on your shoulder",
+      "details": "Use Unequip Attached Shoulder Pet to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Shoulder Pet Evil Fey (Attached)",
+      "category": "Utility",
+      "subcategory": "Other craftable items",
+      "rarity": "Common",
+      "summary": "A Pet Evil Fey that sits on your shoulder",
+      "details": "Use Unequip Attached Shoulder Pet to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Shoulder Pet Fey (Attached)",
+      "category": "Utility",
+      "subcategory": "Other craftable items",
+      "rarity": "Common",
+      "summary": "A Pet Fey that sits on your shoulder",
+      "details": "Use Unequip Attached Shoulder Pet to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Shoulder Pet Raven (Attached)",
+      "category": "Utility",
+      "subcategory": "Other craftable items",
+      "rarity": "Common",
+      "summary": "A pet Raven that sits on your shoulder",
+      "details": "Use Unequip Attached Shoulder Pet to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Shoulder Pet Vulture (Attached)",
+      "category": "Utility",
+      "subcategory": "Other craftable items",
+      "rarity": "Common",
+      "summary": "If used on thralls use Unequip Attached Pet to detach",
+      "details": "Use Unequip Attached Shoulder Pet to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Signpost",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "A sign giving information such as the direction and distance to a nearby town, typically found at a crossroads."
+    },
+    {
+      "name": "Silver Dye",
+      "category": "Utility",
+      "subcategory": "Other craftable items",
+      "rarity": "Common",
+      "summary": "A flask of silver dye",
+      "details": "This dye can be applied to textiles in order to color them. Different types of material will be affected differently by the dye, so the coloring of leather will appear differently to metals."
+    },
+    {
+      "name": "Single Bald Eagle [Deco]",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "Bald eagles are not actually bald; the name derives from an older meaning of the word, \"white headed\".",
+      "details": "Single Bald Eagle"
+    },
+    {
+      "name": "Sitting Pillow I [Exile & Thrall]",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "A soft pillow",
+      "details": "Pillows can be anything from a sack stuffed with rags to a masterwoven spider silk. They can be found from hovels to palaces and anywhere in between. Even the hardiest of warriors like to have somewhere to lay their head at night."
+    },
+    {
+      "name": "Sitting Pillow II [Exile & Thrall]",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "A soft pillow",
+      "details": "Pillows can be anything from a sack stuffed with rags to a masterwoven spider silk. They can be found from hovels to palaces and anywhere in between. Even the hardiest of warriors like to have somewhere to lay their head at night."
+    },
+    {
+      "name": "Sitting Pillow III [Exile & Thrall]",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "A soft pillow",
+      "details": "Pillows can be anything from a sack stuffed with rags to a masterwoven spider silk. They can be found from hovels to palaces and anywhere in between. Even the hardiest of warriors like to have somewhere to lay their head at night."
+    },
+    {
+      "name": "Sitting Pillow IV [Exile & Thrall]",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "A soft pillow",
+      "details": "Pillows can be anything from a sack stuffed with rags to a masterwoven spider silk. They can be found from hovels to palaces and anywhere in between. Even the hardiest of warriors like to have somewhere to lay their head at night."
+    },
+    {
+      "name": "Six Tail Fox",
+      "category": "Armor",
+      "subcategory": "Light armor",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Tail to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Six Tail Fox (Attached)",
+      "category": "Accessories",
+      "subcategory": "Tails",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Tail to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Skin Color - Black",
+      "category": "Utility",
+      "subcategory": "Other craftable items",
+      "rarity": "Common",
+      "summary": "Changes your skin color",
+      "details": "Change your Skin color to an extream"
+    },
+    {
+      "name": "Skin Color - Celery",
+      "category": "Utility",
+      "subcategory": "Other craftable items",
+      "rarity": "Common",
+      "summary": "Changes your skin color",
+      "details": "Change your Skin color to an extream"
+    },
+    {
+      "name": "Skin Color - Dark green",
+      "category": "Utility",
+      "subcategory": "Other craftable items",
+      "rarity": "Common",
+      "summary": "Changes your skin color",
+      "details": "Change your Skin color to an extream"
+    },
+    {
+      "name": "Skin Color - Deep Sky Blue",
+      "category": "Utility",
+      "subcategory": "Other craftable items",
+      "rarity": "Common",
+      "summary": "Changes your skin color",
+      "details": "Change your Skin color to an extream"
+    },
+    {
+      "name": "Skin Color - Electric Blue",
+      "category": "Utility",
+      "subcategory": "Other craftable items",
+      "rarity": "Common",
+      "summary": "Changes your skin color",
+      "details": "Change your Skin color to an extream"
+    },
+    {
+      "name": "Skin Color - Fire Brick",
+      "category": "Utility",
+      "subcategory": "Other craftable items",
+      "rarity": "Common",
+      "summary": "Changes your skin color",
+      "details": "Change your Skin color to an extream"
+    },
+    {
+      "name": "Skin Color - Light Cyan",
+      "category": "Utility",
+      "subcategory": "Other craftable items",
+      "rarity": "Common",
+      "summary": "Changes your skin color",
+      "details": "Change your Skin color to an extream"
+    },
+    {
+      "name": "Skin Color - Lilac Bush",
+      "category": "Utility",
+      "subcategory": "Other craftable items",
+      "rarity": "Common",
+      "summary": "Changes your skin color",
+      "details": "Change your Skin color to an extream"
+    },
+    {
+      "name": "Skin Color - Logan",
+      "category": "Utility",
+      "subcategory": "Other craftable items",
+      "rarity": "Common",
+      "summary": "Changes your skin color",
+      "details": "Change your Skin color to an extream"
+    },
+    {
+      "name": "Skin Color - Mulberry",
+      "category": "Utility",
+      "subcategory": "Other craftable items",
+      "rarity": "Common",
+      "summary": "Changes your skin color",
+      "details": "Change your Skin color to an extream"
+    },
+    {
+      "name": "Skin Color - Red",
+      "category": "Utility",
+      "subcategory": "Other craftable items",
+      "rarity": "Common",
+      "summary": "Changes your skin color",
+      "details": "Change your Skin color to an extream"
+    },
+    {
+      "name": "Skin Color - Saddle",
+      "category": "Companions",
+      "subcategory": "Saddles",
+      "rarity": "Common",
+      "summary": "Changes your skin color",
+      "details": "Change your Skin color to an extream"
+    },
+    {
+      "name": "Skin Color - Sisal",
+      "category": "Utility",
+      "subcategory": "Other craftable items",
+      "rarity": "Common",
+      "summary": "Changes your skin color",
+      "details": "Change your Skin color to an extream"
+    },
+    {
+      "name": "Skin Color - Tiara",
+      "category": "Utility",
+      "subcategory": "Other craftable items",
+      "rarity": "Common",
+      "summary": "Changes your skin color",
+      "details": "Change your Skin color to an extream"
+    },
+    {
+      "name": "Skin Color - White",
+      "category": "Utility",
+      "subcategory": "Other craftable items",
+      "rarity": "Common",
+      "summary": "Changes your skin color",
+      "details": "Change your Skin color to an extream"
+    },
+    {
+      "name": "Skull Bouquet",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Skull Breathing Mask",
+      "category": "Armor",
+      "subcategory": "Light armor",
+      "rarity": "Common",
+      "summary": "A mask that filters out the sandstorm debris",
+      "details": "When the sandstorm wails across the Exiled Lands, the choices are to take cover from the scouring sands, or be blinded and eventually, killed.This breather mask, crafted with very small slits for the eyes that keep out most of the debris while allowing visibility and a cloth mouthpiece that filters the air, allows free movement within the sandstorm.What lies at the heart of the storm is one of the many mysteries of the Exiled Lands."
+    },
+    {
+      "name": "Skull Maul",
+      "category": "Weapons",
+      "subcategory": "Weapons and combat items",
+      "rarity": "Common",
+      "summary": "A crude two-handed skull hammer",
+      "details": "His devotees died about that tomb in a crimson holocaust, but the barbarians could not burst the door, nor ever mar the structure by maul or fire. - Black Colossus Crudely put together using a long branch and two skulls, this weapon will deteriorate quickly with use. Mauls and warhammers are slow to swing and leave their user vulnerable to counterattack, but when they connect they are brutally effective. Armored foes are particularly vulnerable to these massive blunt weapons which break bones, shatter skulls and crush spines. Even the most primitive weapons can mean the difference between life and death for an Exile."
+    },
+    {
+      "name": "Small Fountain",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Smoking Pipe (Attached)",
+      "category": "Accessories",
+      "subcategory": "Extras",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Extras to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Snake Cult Caravan Cart",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Snake Cult Caravan Cart Big",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Snake Mask",
+      "category": "Armor",
+      "subcategory": "Light armor",
+      "rarity": "Common",
+      "summary": "A mask that filters out the sandstorm debris",
+      "details": "When the sandstorm wails across the Exiled Lands, the choices are to take cover from the scouring sands, or be blinded and eventually, killed.This breather mask, crafted with very small slits for the eyes that keep out most of the debris while allowing visibility and a cloth mouthpiece that filters the air, allows free movement within the sandstorm.What lies at the heart of the storm is one of the many mysteries of the Exiled Lands."
+    },
+    {
+      "name": "Snake Tail (Attached)",
+      "category": "Accessories",
+      "subcategory": "Tails",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Tail to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Snake Tail (Black-Attached)",
+      "category": "Accessories",
+      "subcategory": "Tails",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Tail to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Snake Tail (Blue-Attached)",
+      "category": "Accessories",
+      "subcategory": "Tails",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Tail to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Snake Tail (Green-Attached)",
+      "category": "Accessories",
+      "subcategory": "Tails",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Tail to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Snake Tail (Red-Attached)",
+      "category": "Accessories",
+      "subcategory": "Tails",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Tail to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Snake Tail (White-Attached)",
+      "category": "Accessories",
+      "subcategory": "Tails",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Tail to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Snowman",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "A snowman is an anthropomorphic snow sculpture often built by children in regions with sufficient snowfall.",
+      "details": "Snow becomes suitable for packing when it approaches its melting point and becomes moist and compact. Making a snowman of powdered snow is difficult since it will not stick to itself, and if the temperature of packing snow drops, it will form an unusable denser form of powdered snow called crust."
+    },
+    {
+      "name": "Spiked Collar",
+      "category": "Armor",
+      "subcategory": "Light armor",
+      "rarity": "Common"
+    },
+    {
+      "name": "Sprouting Barrelstalk [Giant]",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Sprouting Barrelstalk [Med]",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Sprouting Barrelstalk [Small]",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Sprouting Pygmywort [Giant]",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Sprouting Pygmywort [Med]",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Sprouting Pygmywort [Small]",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Stack Of Pine Logs",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "A stack of pine Logs"
+    },
+    {
+      "name": "Starfish",
+      "category": "Utility",
+      "subcategory": "Other craftable items",
+      "rarity": "Epic",
+      "summary": "A Starfish.",
+      "details": "A starfish. This can be salvaged into bait."
+    },
+    {
+      "name": "Stone Ceiling [EE]",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Stone Drawbridge [EE]",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Stone Flat Wall [EE]",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Stone Wall [EE]",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Straw Basket Head",
+      "category": "Utility",
+      "subcategory": "Other craftable items",
+      "rarity": "Common",
+      "summary": "For thralls or Players",
+      "details": "Straw Basket Head"
+    },
+    {
+      "name": "Straw Basket Head (Attached)",
+      "category": "Accessories",
+      "subcategory": "Hats",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Hats to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Straw Hat F (Attached)",
+      "category": "Accessories",
+      "subcategory": "Hats",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Hats to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Straw Hat M",
+      "category": "Utility",
+      "subcategory": "Other craftable items",
+      "rarity": "Common",
+      "summary": "For thralls or Players",
+      "details": "Straw Hat M"
+    },
+    {
+      "name": "Stuffed Sheep [Exile & Thrall]",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "Used for players",
+      "details": "A Stuffed Sheep, for those long lonely days"
+    },
+    {
+      "name": "Stuffed Unicorn [Exiles & Thrall]",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "Used for multiple players",
+      "details": "A Stuffed Unicorn"
+    },
+    {
+      "name": "Stygian Ceiling",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Stygian Door",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Stygian Doorframe",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Stygian Foundation",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Stygian Pillar",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Stygian Wall",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Succubus Dark Blue Wings (Attached)",
+      "category": "Accessories",
+      "subcategory": "Wings",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Wings to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Succubus Demon Wings",
+      "category": "Utility",
+      "subcategory": "Other craftable items",
+      "rarity": "Common",
+      "summary": "Used for Thralls or Players",
+      "details": "Succubus Demon Wings"
+    },
+    {
+      "name": "Succubus Demon Wings (Attached)",
+      "category": "Accessories",
+      "subcategory": "Wings",
+      "rarity": "Common",
+      "summary": "If used on thralls use Unequip Attached Wings to detach",
+      "details": "Use Unequip Attached Wings to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Succubus Tail (Attached)",
+      "category": "Accessories",
+      "subcategory": "Tails",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Tail to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Succubus Tail Dark Blue (Attached)",
+      "category": "Accessories",
+      "subcategory": "Tails",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Tail to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Succubus Tail Dark Gray (Attached)",
+      "category": "Accessories",
+      "subcategory": "Tails",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Tail to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Succubus Tail Small (Attached)",
+      "category": "Accessories",
+      "subcategory": "Tails",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Tail to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Succubus Tail Small Dark Blue (Attached)",
+      "category": "Accessories",
+      "subcategory": "Tails",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Tail to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Succubus Tail Small Dark Gray (Attached)",
+      "category": "Accessories",
+      "subcategory": "Tails",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Tail to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Tanuki [Deco]",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "Tanuki are not always clearly distinguished from other animals with a similar appearance.",
+      "details": "The comical image of the tanuki having a large scrotum is thought to have developed during the Kamakura era, where goldsmiths would use tanuki pelts for the process of hammering gold nuggets into leaf."
+    },
+    {
+      "name": "Teleporter [Deco]",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "The Black Sun Shield",
+      "category": "Weapons",
+      "subcategory": "Weapons and combat items",
+      "rarity": "Legendary"
+    },
+    {
+      "name": "The Black Sun Sword [PVP-Stable]",
+      "category": "Weapons",
+      "subcategory": "Weapons and combat items",
+      "rarity": "Legendary",
+      "summary": "A sword forged from mysterious star metal",
+      "details": "'This day you become knights!' he laughed fiercely, pointing with his dripping sword towards the hillmen horses, herded nearby. 'Mount and follow me to hell!' - Black Colossus This impossibly sharp sword is made of legendary star metal, the work of a master craftsman. Swords are straight-bladed, one-handed weapons, both fast and reliable. Star metal is rare, smelted from ore that falls from the heavens. Weapons made from such material are preternaturally powerful."
+    },
+    {
+      "name": "The Breeding Wall [Exiles & Thralls]",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "Used by multiple players",
+      "details": "The Breeding Wall"
+    },
+    {
+      "name": "The Breeding Wall [Thrall]",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "Fighter Thralls are not supported ie: Archer/Fighter",
+      "details": "The Breeding Wall"
+    },
+    {
+      "name": "The Tricorne Hat",
+      "category": "Armor",
+      "subcategory": "Light armor",
+      "rarity": "Common"
+    },
+    {
+      "name": "Thespian-Skin [Sibercat-Hula]",
+      "category": "Armor",
+      "subcategory": "Light armor",
+      "rarity": "Common"
+    },
+    {
+      "name": "Thief Mask (Attached)",
+      "category": "Accessories",
+      "subcategory": "Masks",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Mask to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Third Eye (Attached)",
+      "category": "Accessories",
+      "subcategory": "Extras",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Extras to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Three Tail Fox (Attached)",
+      "category": "Accessories",
+      "subcategory": "Tails",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Tail to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Three Tails Fox",
+      "category": "Armor",
+      "subcategory": "Light armor",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Tail to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Thunder Blade",
+      "category": "Weapons",
+      "subcategory": "Weapons and combat items",
+      "rarity": "Legendary",
+      "summary": "Blade that summons thunder",
+      "details": "If you hold this blade to long it will summon a thunder storm."
+    },
+    {
+      "name": "Tongue of Madness [Exile & Thrall]",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Torchstalk [Giant]",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Torchstalk [Med]",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Torchstalk [Small]",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Traditional Yamatai Tattoo",
+      "category": "Appearance",
+      "subcategory": "Warpaints",
+      "rarity": "Common"
+    },
+    {
+      "name": "Treasure Chest",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "A large chest for storing items",
+      "details": "Somewhere to place excess items and materials, this chest is made from sturdy materials. It can be locked against strangers, and all but the most determined thief will be deterred. No system is perfect, however."
+    },
+    {
+      "name": "Treasure Trove",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Trellis (Big)",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Trellis (Small)",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Truncheon Human Head",
+      "category": "Weapons",
+      "subcategory": "Weapons and combat items",
+      "rarity": "Common",
+      "summary": "A weighted club for knocking out foes"
+    },
+    {
+      "name": "Turquoise Elfcup [Giant]",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "Turquoise Elfcup is placed on the Wall"
+    },
+    {
+      "name": "Turquoise Elfcup [Med]",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "Turquoise Elfcup is placed on the Wall"
+    },
+    {
+      "name": "Turquoise Elfcup [Small]",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "Turquoise Elfcup is placed on the Wall"
+    },
+    {
+      "name": "Tusks (Attached)",
+      "category": "Accessories",
+      "subcategory": "Extras",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Extras to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Unequip Attached Beard",
+      "category": "Accessories",
+      "subcategory": "Beards",
+      "rarity": "Common"
+    },
+    {
+      "name": "Unequip Attached Collars",
+      "category": "Accessories",
+      "subcategory": "Collars",
+      "rarity": "Common"
+    },
+    {
+      "name": "Unequip Attached Crowns",
+      "category": "Accessories",
+      "subcategory": "Crowns",
+      "rarity": "Common"
+    },
+    {
+      "name": "Unequip Attached Ears",
+      "category": "Accessories",
+      "subcategory": "Ears",
+      "rarity": "Common"
+    },
+    {
+      "name": "Unequip Attached Extras",
+      "category": "Accessories",
+      "subcategory": "Extras",
+      "rarity": "Common"
+    },
+    {
+      "name": "Unequip Attached Eyes",
+      "category": "Accessories",
+      "subcategory": "Eyes",
+      "rarity": "Common"
+    },
+    {
+      "name": "Unequip Attached Halo",
+      "category": "Accessories",
+      "subcategory": "Halos",
+      "rarity": "Common"
+    },
+    {
+      "name": "Unequip Attached Hats",
+      "category": "Accessories",
+      "subcategory": "Hats",
+      "rarity": "Common"
+    },
+    {
+      "name": "Unequip Attached Horns",
+      "category": "Accessories",
+      "subcategory": "Horns",
+      "rarity": "Common"
+    },
+    {
+      "name": "Unequip Attached Light Sources",
+      "category": "Accessories",
+      "subcategory": "Light Sources",
+      "rarity": "Common"
+    },
+    {
+      "name": "Unequip Attached Lip Septum",
+      "category": "Utility",
+      "subcategory": "Other craftable items",
+      "rarity": "Common"
+    },
+    {
+      "name": "Unequip Attached Mask",
+      "category": "Accessories",
+      "subcategory": "Masks",
+      "rarity": "Common"
+    },
+    {
+      "name": "Unequip Attached Nose Septum",
+      "category": "Utility",
+      "subcategory": "Other craftable items",
+      "rarity": "Common"
+    },
+    {
+      "name": "Unequip Attached Particles",
+      "category": "Accessories",
+      "subcategory": "Particles",
+      "rarity": "Common"
+    },
+    {
+      "name": "Unequip Attached Shoulder Pet",
+      "category": "Utility",
+      "subcategory": "Other craftable items",
+      "rarity": "Common"
+    },
+    {
+      "name": "Unequip Attached Tail",
+      "category": "Accessories",
+      "subcategory": "Tails",
+      "rarity": "Common"
+    },
+    {
+      "name": "Unequip Attached Wig",
+      "category": "Utility",
+      "subcategory": "Other craftable items",
+      "rarity": "Common"
+    },
+    {
+      "name": "Unequip Attached Wings",
+      "category": "Accessories",
+      "subcategory": "Wings",
+      "rarity": "Common"
+    },
+    {
+      "name": "Valor Sword",
+      "category": "Weapons",
+      "subcategory": "Weapons and combat items",
+      "rarity": "Legendary",
+      "summary": "A sword forged from mysterious star metal",
+      "details": "'This day you become knights!' he laughed fiercely, pointing with his dripping sword towards the hillmen horses, herded nearby. 'Mount and follow me to hell!' - Black Colossus This impossibly sharp sword is made of legendary star metal, the work of a master craftsman. Swords are straight-bladed, one-handed weapons, both fast and reliable. Star metal is rare, smelted from ore that falls from the heavens. Weapons made from such material are preternaturally powerful."
+    },
+    {
+      "name": "Vampire Wings (Attached)",
+      "category": "Accessories",
+      "subcategory": "Wings",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Wings to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Vampire Wings Medium (Attached)",
+      "category": "Accessories",
+      "subcategory": "Wings",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Wings to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Vanir Fur Cap (Attached)",
+      "category": "Accessories",
+      "subcategory": "Horns",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Horns to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Venetian Mask",
+      "category": "Armor",
+      "subcategory": "Light armor",
+      "rarity": "Common"
+    },
+    {
+      "name": "Venetian Mask (Attached)",
+      "category": "Accessories",
+      "subcategory": "Masks",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Mask to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Vertical Hoist Elevator",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "A mechanism that allows vertical travel without climbing",
+      "details": "'Then, looping the loose end of his silk rope about Natala's hips, and cautioning her to hold on with both hands, he lifted her through the window and lowered her the thirty-odd feet to the earth.' - Xuthal of the Dusk The mechanics of creating such a machine - involving counter-weights, pulleys and other fine details - are considered sorcery by the ignorant and wisdom by the enlightened. The practical benefits of such a machine cannot be denied, but civilized peoples who grow too reliant upon them will find that a climbing horde of barbarians can be just as effective, and infinitely more deadly."
+    },
+    {
+      "name": "Vigilant Shield",
+      "category": "Weapons",
+      "subcategory": "Weapons and combat items",
+      "rarity": "Legendary"
+    },
+    {
+      "name": "War Flag (Attached)",
+      "category": "Accessories",
+      "subcategory": "Extras",
+      "rarity": "Common",
+      "summary": "If used on thralls use Unequip Attached Extras to detach",
+      "details": "A war flag, also known as a military flag, battle flag, or standard, is a variant of a national flag for use by a country's military forces when on land."
+    },
+    {
+      "name": "Whale Guts",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "Guts of a Whale"
+    },
+    {
+      "name": "White Halo (Attached)",
+      "category": "Accessories",
+      "subcategory": "Halos",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Halo to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "White Marble Wall [EE]",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Wig F Hairstyle 1 Vanilla",
+      "category": "Utility",
+      "subcategory": "Other craftable items",
+      "rarity": "Common"
+    },
+    {
+      "name": "Wig F Hairstyle 10 Vanilla",
+      "category": "Utility",
+      "subcategory": "Other craftable items",
+      "rarity": "Common"
+    },
+    {
+      "name": "Wig F Hairstyle 11 Vanilla",
+      "category": "Utility",
+      "subcategory": "Other craftable items",
+      "rarity": "Common"
+    },
+    {
+      "name": "Wig F Hairstyle 12 Vanilla",
+      "category": "Utility",
+      "subcategory": "Other craftable items",
+      "rarity": "Common"
+    },
+    {
+      "name": "Wig F Hairstyle 13 Vanilla",
+      "category": "Utility",
+      "subcategory": "Other craftable items",
+      "rarity": "Common"
+    },
+    {
+      "name": "Wig F Hairstyle 2 Vanilla",
+      "category": "Utility",
+      "subcategory": "Other craftable items",
+      "rarity": "Common"
+    },
+    {
+      "name": "Wig F Hairstyle 3 Vanilla",
+      "category": "Utility",
+      "subcategory": "Other craftable items",
+      "rarity": "Common"
+    },
+    {
+      "name": "Wig F Hairstyle 4 Vanilla",
+      "category": "Utility",
+      "subcategory": "Other craftable items",
+      "rarity": "Common"
+    },
+    {
+      "name": "Wig F Hairstyle 5 Vanilla",
+      "category": "Utility",
+      "subcategory": "Other craftable items",
+      "rarity": "Common"
+    },
+    {
+      "name": "Wig F Hairstyle 6 Vanilla",
+      "category": "Utility",
+      "subcategory": "Other craftable items",
+      "rarity": "Common"
+    },
+    {
+      "name": "Wig F Hairstyle 7 Vanilla",
+      "category": "Utility",
+      "subcategory": "Other craftable items",
+      "rarity": "Common"
+    },
+    {
+      "name": "Wig F Hairstyle 8 Vanilla",
+      "category": "Utility",
+      "subcategory": "Other craftable items",
+      "rarity": "Common"
+    },
+    {
+      "name": "Wig F Hairstyle 9 Vanilla",
+      "category": "Utility",
+      "subcategory": "Other craftable items",
+      "rarity": "Common"
+    },
+    {
+      "name": "Wings Of Yog",
+      "category": "Utility",
+      "subcategory": "Other craftable items",
+      "rarity": "Common",
+      "summary": "Used for Thralls or Players",
+      "details": "Fed on the blood of jhebal Segh`s creation, the shapeshifting demon lande has now perfected her bestial form. Dark wings to block the moonlight as she soars high in the night sky. Horns to impale her enemies and a long tail to torment them beneath her clows."
+    },
+    {
+      "name": "Wings Of Yog (Attached)",
+      "category": "Accessories",
+      "subcategory": "Wings",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Wings to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Wizard's Hat",
+      "category": "Armor",
+      "subcategory": "Light armor",
+      "rarity": "Common",
+      "summary": "A wizard is never late. Nor is he ever early.",
+      "details": "A wizard is never late. Nor is he ever early. But with his stylish pointed hat, heâ€™ll arrive in style precisely when he meant to."
+    },
+    {
+      "name": "Wolf Tail (Attached-Animated)",
+      "category": "Accessories",
+      "subcategory": "Tails",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Tail to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Wolf Tail Black (Attached-Animated)",
+      "category": "Accessories",
+      "subcategory": "Tails",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Tail to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Wolf Tail White (Attached-Animated)",
+      "category": "Accessories",
+      "subcategory": "Tails",
+      "rarity": "Common",
+      "summary": "Not meant to be used with Thralls",
+      "details": "Use Unequip Attached Tail to detach - or drag on to your HotBar for fast Equip Unequip"
+    },
+    {
+      "name": "Wooden Bucket",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "A wooden Bucket",
+      "details": "Executioner might catch a decapitated head in a wooden bucket."
+    },
+    {
+      "name": "Wooden Fish",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "Wooden fish come in many sizes and shapes",
+      "details": "Many legends describe the origin of the wooden fish,"
+    },
+    {
+      "name": "Wooden Swing [Exiles & Thrall]",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "A wooden swing, for swining.",
+      "details": "A swing is a hanging seat, often found at playgrounds for children"
+    },
+    {
+      "name": "Wooden Trough",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "The wooden trough is used to feed animals food",
+      "details": "Christmas Present"
+    },
+    {
+      "name": "Yamatai Bas-Relief wall sculpture I",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "bas-relief sculpture featuring mythical creatures and elaborate designs. The artwork is monochromatic and appears to be made of stone or metal."
+    },
+    {
+      "name": "Yamatai Bas-Relief wall sculpture II",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "bas-relief sculpture featuring mythical creatures and elaborate designs. The artwork is monochromatic and appears to be made of stone or metal."
+    },
+    {
+      "name": "Yamatai Mask",
+      "category": "Armor",
+      "subcategory": "Light armor",
+      "rarity": "Common"
+    },
+    {
+      "name": "Yamatai Wall Art 3",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Yamatai Wall Art 4",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Yin Heels",
+      "category": "Armor",
+      "subcategory": "Medium armor",
+      "rarity": "Common",
+      "summary": "Yin has grown up in the streets of Shangdi",
+      "details": "Yin has grown up in the streets of Shangdi. Later on she joined the imperial guard and became a bodyguard of Emperor."
+    },
+    {
+      "name": "Ymirs Worshippers Head",
+      "category": "Weapons",
+      "subcategory": "Weapons and combat items",
+      "rarity": "Legendary",
+      "summary": "A makeshift torch made from Ymirs worshippers Head",
+      "details": "A torch made from Ymirs worshippers Head, it's still alive."
+    },
+    {
+      "name": "Yog Campfire",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "A yog campfire for cooking human flesh and keeping warm.",
+      "details": "Campfires can be used to cook meat which is important given the number of parasites that infect the wild animals of the Exiled Lands. Better to eat some burned meat, than be poisoned for days.With the light of a campfire, however, comes visibility. Wary travelers would do well to hide their fires, lest they be ambushed in the night by men with unsavory intentions."
+    },
+    {
+      "name": "Yogs Campfire [Exile & Thrall]",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "Used for players",
+      "details": "A nice cozy yog campfire"
+    },
+    {
+      "name": "Yoshino Cherry Tree",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common",
+      "summary": "A Yoshino Cherry Tree does well in full sun and moist but well drained soil.",
+      "details": "Yoshino Cherry Tree flowers emerge before the leaves in early spring"
+    },
+    {
+      "name": "Yuggoth Migopod",
+      "category": "Placeables",
+      "subcategory": "Building and decoration",
+      "rarity": "Common"
+    },
+    {
+      "name": "Zamorian Dancer Bracelets Double",
+      "category": "Armor",
+      "subcategory": "Light armor",
+      "rarity": "Common",
+      "summary": "Bracelets favored by the temple dancers of Zamoria",
+      "details": "Zamorians are known far and wide for the depth of their wickedness and thievery, but very few speak of the prowess of the temple dancers.It is whispered that the temple girls of Yezud wear clothing such as this when they dance before the black stone spider that is their god.For ceremonial usage, this bracelet offers very little protection against sword or fang, but offers slight relief from cold, heat and stinging sand."
+    }
+  ]
+}

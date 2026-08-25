@@ -1,13 +1,23 @@
 ---
 title: Economy
-description: Publication status for verified currencies, merchants, markets, and economic rules.
+description: Local guide to currencies, markets, merchants, bounties, and storage systems in the required mod stack.
 verification: server-verification-required
 ---
 
 # Economy
 
-The server's 5x identity implies faster overall progression than the base game, but no currency,
-merchant inventory, market rule, price, reward, or category-specific rate has been supplied.
+# Economy
 
-Verified player-facing currencies, merchants, and market systems will be documented here with their
-source and observation date.
+This is a **5x rates** server. Its required mod stack also provides these player-facing economy
+systems:
+
+| System | What is available in the local guide |
+| --- | --- |
+| WoV Currency | The Currency tab and its place in the five-part WoV hub. See [Professions, Rewards, and Hub](../progression/wov-professions-hub.md#currency-and-settings). |
+| WoV Player Market | The documented market area and nearby Resource Mines. See [Storage, Resources, and World](../crafting/wov-storage-resources.md#player-areas). |
+| WoV Bounties | Target tracking and the dedicated Bounties sorting destination. See [Bounties](../progression/wov-professions-hub.md#bounties). |
+| Armory and Arsenal merchants | Placeable merchants that can buy materials. See [Endgame and world content](../progression/armory-and-arsenal.md#endgame-and-world-content). |
+| WoV sorting | Dump Chest routing for Currency, Bounties, Gems, Keys, Lore, and other categories. See [Sorting destinations](../crafting/wov-storage-resources.md#sorting-destinations). |
+
+Prices, merchant inventories, payouts, taxes, claim limits, and server-specific market rules are
+shown only when verified in the live player interface.

@@ -50,8 +50,6 @@ WoV includes six colored torch bracelets. The live build also replaces the icons
 potions and ingots, making those item categories easier to identify in inventories and sorting
 chests.
 
-## Sources
+## Workshop
 
 - [Current Enhanced Workshop page](https://steamcommunity.com/sharedfiles/filedetails/?id=3719965485)
-- [Kaali's Legacy-era tools and weapons tab](https://docs.google.com/spreadsheets/d/1dvqwQ7ar5BcZGWfdgrbsOomqIjHo-60d1fAXEFloe2k/edit#gid=834501197)
-- [Kaali's Legacy-era map additions tab](https://docs.google.com/spreadsheets/d/1dvqwQ7ar5BcZGWfdgrbsOomqIjHo-60d1fAXEFloe2k/edit#gid=922051183)

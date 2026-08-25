@@ -5,19 +5,19 @@
       "status": "verified",
       "verified_at": "2026-08-24",
       "source_urls": [],
-      "notes": "The 5x rates and full-PvP identity were supplied by the server owner."
+      "notes": "The 5x rates, full-PvP setting, and Hardcore PvP ruleset style were supplied by the server owner."
     },
     "/getting-started/": {
       "status": "verified",
       "verified_at": "2026-08-24",
       "source_urls": [],
-      "notes": "Navigation and owner-supplied server identity only."
+      "notes": "Navigation and owner-supplied 5x Hardcore Full PvP server identity only."
     },
     "/getting-started/server-overview": {
       "status": "verified",
       "verified_at": "2026-08-24",
       "source_urls": [],
-      "notes": "The 5x rates and full-PvP identity were supplied by the server owner."
+      "notes": "The 5x rates, full-PvP setting, and Hardcore PvP ruleset style were supplied by the server owner."
     },
     "/getting-started/required-mods": {
       "status": "verified",
@@ -25,11 +25,22 @@
       "source_urls": ["https://steamcommunity.com/workshop/"],
       "notes": "Canonical names and individual source URLs are maintained in data/mods.json."
     },
+    "/getting-started/mod-troubleshooting": {
+      "status": "verified",
+      "verified_at": "2026-08-24",
+      "source_urls": [
+        "https://steamcommunity.com/sharedfiles/filedetails/?id=3719546290",
+        "https://steamcommunity.com/sharedfiles/filedetails/?id=3720904511",
+        "https://steamcommunity.com/sharedfiles/filedetails/?id=3720948133",
+        "https://steamcommunity.com/sharedfiles/filedetails/?id=3720921242"
+      ],
+      "notes": "Consolidates ordinary-player update and interface troubleshooting inside the wiki."
+    },
     "/server-rules/": {
-      "status": "server-verification-required",
+      "status": "verified",
       "verified_at": "2026-08-24",
       "source_urls": [],
-      "notes": "Only the full-PvP identity has been supplied; a full ruleset is pending."
+      "notes": "The full-PvP setting and Hardcore PvP ruleset style were supplied by the server owner; no additional rules are asserted."
     },
     "/server-status/": {
       "status": "verified",
@@ -71,7 +82,7 @@
       "status": "server-verification-required",
       "verified_at": "2026-08-24",
       "source_urls": ["https://steamcommunity.com/sharedfiles/filedetails/?id=3720326124"],
-      "notes": "Effective values are withheld pending combined live verification."
+      "notes": "Standalone EAA values are source-verified; combined live progression remains server-verification-required."
     },
     "/progression/armory-and-arsenal": {
       "status": "server-verification-required",
@@ -105,34 +116,34 @@
       "status": "server-verification-required",
       "verified_at": "2026-08-24",
       "source_urls": ["https://steamcommunity.com/sharedfiles/filedetails/?id=3721926604"],
-      "notes": "The catalog is empty until ordinary-player acquisition is verified."
+      "notes": "The complete public feature categories are incorporated; exact live recipes and item values remain server-verification-required."
     },
     "/combat/highmanes/equipment": {
       "status": "server-verification-required",
       "verified_at": "2026-08-24",
       "source_urls": ["https://steamcommunity.com/sharedfiles/filedetails/?id=3721926604"],
-      "notes": "No item entries are published."
+      "notes": "Weapon, moveset, armor, clothing, selection, and crafting guidance are incorporated without invented item values."
     },
     "/combat/highmanes/accessories": {
       "status": "server-verification-required",
       "verified_at": "2026-08-24",
       "source_urls": ["https://steamcommunity.com/sharedfiles/filedetails/?id=3721926604"],
-      "notes": "No item entries are published."
+      "notes": "Standard and infused accessory behavior is incorporated without invented item effects."
     },
     "/combat/highmanes/crafting-building": {
       "status": "server-verification-required",
       "verified_at": "2026-08-24",
       "source_urls": ["https://steamcommunity.com/sharedfiles/filedetails/?id=3721926604"],
-      "notes": "No item entries are published."
+      "notes": "Benches, recipes, conversions, building sets, and decoration systems are incorporated without invented costs."
     },
     "/combat/highmanes/companions": {
       "status": "server-verification-required",
       "verified_at": "2026-08-24",
       "source_urls": ["https://steamcommunity.com/sharedfiles/filedetails/?id=3721926604"],
-      "notes": "No companion entries are published."
+      "notes": "Pet, mount, steed, saddle, and compatibility guidance is incorporated without invented acquisition routes."
     },
     "/combat/exiles-extreme": {
-      "status": "server-verification-required",
+      "status": "verified",
       "verified_at": "2026-08-24",
       "source_urls": [
         "https://steamcommunity.com/sharedfiles/filedetails/?id=3721151274",
@@ -142,7 +153,7 @@
         "https://exee.site/accessories/",
         "https://exee.site/placeables/"
       ],
-      "notes": "Only public player-content categories and first-party references are published."
+      "notes": "The official craftable catalog is stored locally and filtered to player-facing, non-hidden, non-adult entries."
     },
     "/magic/": {
       "status": "server-verification-required",
@@ -261,14 +272,20 @@
     "/quests/": {
       "status": "server-verification-required",
       "verified_at": "2026-08-24",
-      "source_urls": [],
-      "notes": "No server-specific quest or world-content entry is published."
+      "source_urls": [
+        "https://steamcommunity.com/sharedfiles/filedetails/?id=3719965485",
+        "https://steamcommunity.com/sharedfiles/filedetails/?id=3718199031"
+      ],
+      "notes": "Bounties, hunts, boss tiers, named followers, breeding, and player areas are mapped locally without invented server-specific objectives."
     },
     "/economy/": {
       "status": "server-verification-required",
       "verified_at": "2026-08-24",
-      "source_urls": [],
-      "notes": "No server-specific economy entry is published."
+      "source_urls": [
+        "https://steamcommunity.com/sharedfiles/filedetails/?id=3719965485",
+        "https://steamcommunity.com/sharedfiles/filedetails/?id=3718199031"
+      ],
+      "notes": "WoV currency, market, bounties, sorting, and Armory and Arsenal merchants are mapped without invented prices or rules."
     },
     "/qol/": {
       "status": "verified",
@@ -319,8 +336,12 @@
     "/creatures/": {
       "status": "server-verification-required",
       "verified_at": "2026-08-24",
-      "source_urls": [],
-      "notes": "No server-specific creature or encounter entry is published."
+      "source_urls": [
+        "https://steamcommunity.com/sharedfiles/filedetails/?id=3719965485",
+        "https://steamcommunity.com/sharedfiles/filedetails/?id=3718199031",
+        "https://steamcommunity.com/sharedfiles/filedetails/?id=3721926604"
+      ],
+      "notes": "The local index incorporates breedable creatures, pets, mounts, bosses, named followers, and management guides without invented locations or drops."
     },
     "/reference/": {
       "status": "verified",
@@ -373,7 +394,7 @@
       "status": "server-verification-required",
       "verified_at": "2026-08-24",
       "source_urls": ["https://steamcommunity.com/sharedfiles/filedetails/?id=3725018456"],
-      "notes": "No server-specific player feature is published."
+      "notes": "Ordinary-player chat, announcements, rules, kits, commands, warps, ranks, checkpoints, and clan surfaces are summarized; internal systems remain excluded."
     }
   }
 }
