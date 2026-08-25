@@ -54,6 +54,7 @@ export default defineConfig({
     },
     nav: [
       { text: "Start Here", link: "/getting-started/" },
+      { text: "Server Status", link: "/server-status/" },
       { text: "Systems", link: "/progression/" },
       { text: "Player Controls", link: "/reference/player-controls" },
       { text: "Reference", link: "/reference/" },
@@ -64,6 +65,7 @@ export default defineConfig({
         collapsed: false,
         items: [
           { text: "Start Here", link: "/getting-started/" },
+          { text: "Server Status", link: "/server-status/" },
           { text: "Server Overview", link: "/getting-started/server-overview" },
           { text: "Required Mods", link: "/getting-started/required-mods" },
         ],
@@ -77,6 +79,7 @@ export default defineConfig({
         items: [
           { text: "Progression Overview", link: "/progression/" },
           { text: "Wings Of Valhalla", link: "/progression/wings-of-valhalla" },
+          { text: "WoV Professions & Hub", link: "/progression/wov-professions-hub" },
           { text: "EAA — Perks & Level", link: "/progression/eaa-perks-level" },
           { text: "Armory and Arsenal", link: "/progression/armory-and-arsenal" },
         ],
@@ -85,6 +88,7 @@ export default defineConfig({
         text: "Combat & Equipment",
         items: [
           { text: "Combat Overview", link: "/combat/" },
+          { text: "WoV Arsenals & Armor", link: "/combat/wov-arsenals-armor" },
           { text: "Highmane's Arsenal", link: "/combat/highmanes-arsenal" },
           { text: "ExilesExtreme", link: "/combat/exiles-extreme" },
         ],
@@ -100,6 +104,7 @@ export default defineConfig({
         text: "Followers",
         items: [
           { text: "Followers Overview", link: "/followers/" },
+          { text: "WoV Companions", link: "/followers/wov-companions" },
           { text: "Better Thralls", link: "/followers/better-thralls" },
           { text: "Extended Thrall Stats", link: "/followers/extended-thrall-stats" },
           { text: "Follower Collision", link: "/followers/follower-collision" },
@@ -107,7 +112,10 @@ export default defineConfig({
       },
       {
         text: "Crafting & Resources",
-        items: [{ text: "Crafting Overview", link: "/crafting/" }],
+        items: [
+          { text: "Crafting Overview", link: "/crafting/" },
+          { text: "WoV Storage & Resources", link: "/crafting/wov-storage-resources" },
+        ],
       },
       {
         text: "Building",
@@ -166,8 +174,7 @@ export default defineConfig({
       text: "Suggest a correction",
     },
     footer: {
-      message:
-        "Player-facing information only. Unverified server behavior is not published as fact.",
+      message: "5x rates • Full PvP",
     },
     docFooter: {
       prev: "Previous page",

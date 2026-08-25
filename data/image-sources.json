@@ -190,6 +190,50 @@
       "alt": "Official Workshop image for Wings Of Valhalla"
     },
     {
+      "local_path": "public/media/mods/wov-weapons.png",
+      "source_page": "https://steamcommunity.com/sharedfiles/filedetails/?id=3719965485",
+      "source_asset": "https://i.imgur.com/FMkDcM8.png",
+      "mod_id": "3719965485",
+      "mod_name": "Wings Of Valhalla (Beta)",
+      "credit": "Winged V Studios via Steam Workshop",
+      "retrieved_at": "2026-08-24",
+      "verified_at": "2026-08-24",
+      "alt": "Official Enhanced Workshop image showing Wings Of Valhalla weapons"
+    },
+    {
+      "local_path": "public/media/mods/wov-rocknoses.png",
+      "source_page": "https://steamcommunity.com/sharedfiles/filedetails/?id=3719965485",
+      "source_asset": "https://i.imgur.com/dcGtfFI.png",
+      "mod_id": "3719965485",
+      "mod_name": "Wings Of Valhalla (Beta)",
+      "credit": "Winged V Studios via Steam Workshop",
+      "retrieved_at": "2026-08-24",
+      "verified_at": "2026-08-24",
+      "alt": "Official Enhanced Workshop image showing Wings Of Valhalla Rocknose variants"
+    },
+    {
+      "local_path": "public/media/mods/wov-dragons.png",
+      "source_page": "https://steamcommunity.com/sharedfiles/filedetails/?id=3719965485",
+      "source_asset": "https://i.imgur.com/5TyWIu9.png",
+      "mod_id": "3719965485",
+      "mod_name": "Wings Of Valhalla (Beta)",
+      "credit": "Winged V Studios via Steam Workshop",
+      "retrieved_at": "2026-08-24",
+      "verified_at": "2026-08-24",
+      "alt": "Official Enhanced Workshop image showing Wings Of Valhalla dragon variants"
+    },
+    {
+      "local_path": "public/media/mods/wov-torch-bracelets.png",
+      "source_page": "https://steamcommunity.com/sharedfiles/filedetails/?id=3719965485",
+      "source_asset": "https://i.imgur.com/J3mPeYR.png",
+      "mod_id": "3719965485",
+      "mod_name": "Wings Of Valhalla (Beta)",
+      "credit": "Winged V Studios via Steam Workshop",
+      "retrieved_at": "2026-08-24",
+      "verified_at": "2026-08-24",
+      "alt": "Official Enhanced Workshop image showing six Wings Of Valhalla torch bracelets"
+    },
+    {
       "local_path": "public/media/mods/wings-of-valhalla-equipment.png",
       "source_page": "https://steamcommunity.com/sharedfiles/filedetails/?id=3721036709",
       "source_asset": "https://images.steamusercontent.com/ugc/13958348662059753651/B07B818D7F7CC941461679A50544F9BA89795EE3/",

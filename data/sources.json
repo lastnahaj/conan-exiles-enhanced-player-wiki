@@ -198,7 +198,7 @@
       "status": "author-linked",
       "edition_scope": "mixed-history",
       "mod_ids": ["3719965485", "3721036709"],
-      "use": "Supplemental lookup only; current Enhanced Workshop and live server take precedence"
+      "use": "Player workflows migrated into local WoV guides; historical details are labeled and current Enhanced sources take precedence"
     },
     {
       "key": "domains-magic-guide",
@@ -207,7 +207,7 @@
       "status": "author-linked",
       "edition_scope": "enhanced",
       "mod_ids": ["3724192567"],
-      "use": "Spell reference; server-specific availability and tuning still require observation"
+      "use": "Complete spell, casting, progression, controls, and troubleshooting reference migrated into the local Domain's Magic guide"
     },
     {
       "key": "exiles-extreme-site",

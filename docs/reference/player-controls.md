@@ -24,6 +24,7 @@ or override an option.
 | [Building Placement](../building/lbpr.md) | **Tab** while building | Shows building health, decay, and stability information when the documented feature is available. |
 | [Fashionist](../qol/fashionist.md) | Inventory-side Fashionist control | Opens player appearance and attached-equipment settings. |
 | [Armory and Arsenal](../progression/armory-and-arsenal.md) | Inventory button or **Shift+V** | Opens the mod's player menu and installed-build guide. |
+| [Domain's Magic](../magic/domain-magic.md) | **Ctrl+N** or `datacmd ddmagiclevel` | Opens element progression when custom progression is active. |
 | [Domain's Magic](../magic/domain-magic.md) | `datacmd ddmagicplayer` | Opens the personal casting-aura visual toggle. |
 
 ## Binding a command

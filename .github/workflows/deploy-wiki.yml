@@ -10,15 +10,18 @@ on:
       - "data/catalogs/**"
       - "data/image-sources.json"
       - "data/mods.json"
+      - "data/server.json"
       - "data/sources.json"
       - "data/verification.json"
       - "docs/**"
       - "public/**"
-      - "scripts/verify-wiki.mjs"
+      - "scripts/**"
       - "package.json"
       - "pnpm-lock.yaml"
       - "pnpm-workspace.yaml"
   workflow_dispatch:
+  schedule:
+    - cron: "*/5 * * * *"
 
 permissions:
   contents: read
@@ -47,6 +50,8 @@ jobs:
           cache: pnpm
       - name: Install dependencies
         run: pnpm install --frozen-lockfile
+      - name: Update live server status
+        run: pnpm run status:update
       - name: Build VitePress site
         run: pnpm run build
       - name: Configure GitHub Pages

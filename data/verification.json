@@ -31,6 +31,12 @@
       "source_urls": [],
       "notes": "Only the full-PvP identity has been supplied; a full ruleset is pending."
     },
+    "/server-status/": {
+      "status": "verified",
+      "verified_at": "2026-08-24",
+      "source_urls": [],
+      "notes": "The connection address was supplied by the server owner; live values come from its public Steam query response."
+    },
     "/progression/": {
       "status": "server-verification-required",
       "verified_at": "2026-08-24",
@@ -51,6 +57,15 @@
         "https://steamcommunity.com/sharedfiles/filedetails/?id=3721036709"
       ],
       "notes": "Source-documented capabilities are separated from server availability."
+    },
+    "/progression/wov-professions-hub": {
+      "status": "server-verification-required",
+      "verified_at": "2026-08-24",
+      "source_urls": [
+        "https://steamcommunity.com/sharedfiles/filedetails/?id=3719965485",
+        "https://docs.google.com/spreadsheets/d/1dvqwQ7ar5BcZGWfdgrbsOomqIjHo-60d1fAXEFloe2k/edit#gid=455765381"
+      ],
+      "notes": "Current Enhanced systems and clearly marked historical workflow references are kept separate."
     },
     "/progression/eaa-perks-level": {
       "status": "server-verification-required",
@@ -75,6 +90,16 @@
         "https://steamcommunity.com/sharedfiles/filedetails/?id=3724192567"
       ],
       "notes": "System roles only; item-level server claims are not present."
+    },
+    "/combat/wov-arsenals-armor": {
+      "status": "server-verification-required",
+      "verified_at": "2026-08-24",
+      "source_urls": [
+        "https://steamcommunity.com/sharedfiles/filedetails/?id=3719965485",
+        "https://steamcommunity.com/sharedfiles/filedetails/?id=3721036709",
+        "https://docs.google.com/spreadsheets/d/1dvqwQ7ar5BcZGWfdgrbsOomqIjHo-60d1fAXEFloe2k/edit#gid=834501197"
+      ],
+      "notes": "Current arsenal and armor families are published without unverified historical item values."
     },
     "/combat/highmanes-arsenal": {
       "status": "server-verification-required",
@@ -144,6 +169,15 @@
       ],
       "notes": "Section index only."
     },
+    "/followers/wov-companions": {
+      "status": "server-verification-required",
+      "verified_at": "2026-08-24",
+      "source_urls": [
+        "https://steamcommunity.com/sharedfiles/filedetails/?id=3719965485",
+        "https://docs.google.com/spreadsheets/d/1dvqwQ7ar5BcZGWfdgrbsOomqIjHo-60d1fAXEFloe2k/edit#gid=379834417"
+      ],
+      "notes": "Enhanced breeding loops are kept separate from historical probabilities."
+    },
     "/followers/better-thralls": {
       "status": "server-verification-required",
       "verified_at": "2026-08-24",
@@ -175,6 +209,15 @@
         "https://steamcommunity.com/sharedfiles/filedetails/?id=3720948133"
       ],
       "notes": "No server-specific recipe or resource entry is published."
+    },
+    "/crafting/wov-storage-resources": {
+      "status": "server-verification-required",
+      "verified_at": "2026-08-24",
+      "source_urls": [
+        "https://steamcommunity.com/sharedfiles/filedetails/?id=3719965485",
+        "https://docs.google.com/spreadsheets/d/1dvqwQ7ar5BcZGWfdgrbsOomqIjHo-60d1fAXEFloe2k/edit#gid=922051183"
+      ],
+      "notes": "Current Enhanced storage, resource, and player-area workflows are documented without invented locations or values."
     },
     "/building/": {
       "status": "verified",

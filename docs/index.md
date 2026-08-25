@@ -4,9 +4,7 @@ layout: home
 hero:
   name: "Conan Exiles Enhanced"
   text: "Player Wiki"
-  tagline:
-    "Verified guidance for a 5x rates, full-PvP server — built around what players can actually see,
-    use, and obtain."
+  tagline: "Player guide for a 5x rates, full-PvP server."
   actions:
     - theme: brand
       text: Start here
@@ -17,38 +15,32 @@ hero:
 
 features:
   - title: 5x rates
-    details:
-      Faster gathering and progression than the base game, without invented category-by-category
-      values.
+    details: The server's published rate setting.
   - title: Full PvP
-    details:
-      Equipment, travel, followers, and build choices are documented with open player conflict in
-      mind.
-  - title: Verified first
-    details:
-      Server-dependent behavior stays out of the player guide until it is confirmed on the live
-      server.
+    details: The server's published PvP setting.
+  - title: Local guides
+    details: Mod instructions, controls, systems, and reference material live inside this wiki.
 ---
 
 <p class="wiki-kicker">A field manual, not a mod dump</p>
 
 The wiki brings the server's Enhanced mod stack together by player task: getting started,
-progression, combat, magic, followers, building, travel, and everyday quality of life. Exact values
-and server-specific behavior appear only after they are sourced and verified.
+progression, combat, magic, followers, building, travel, and everyday quality of life.
+
+## Live server status
+
+<ServerStatus />
 
 ## Explore the server systems
 
-- [Progression](/progression/) — how the major progression systems fit together, within the limits
-  of live-server verification.
-- [Combat & Equipment](/combat/) — major gear systems and the structure of the player-obtainable
-  catalog.
-- [Magic](/magic/) — the casting system and what still depends on server tuning.
+- [Progression](/progression/) — character growth, professions, rewards, bounties, and classes.
+- [Combat & Equipment](/combat/) — weapons, armor, accessories, classes, and combat systems.
+- [Magic](/magic/) — spell schools, casting mechanics, progression, and player controls.
 - [Followers](/followers/) — follower management, stats, and movement improvements.
 - [Building](/building/) — placement, storage, and construction tools.
 - [Quality of Life](/qol/) — minimap, combat meter, party display, cosmetics, and inventory tools.
 - [Player Controls](/reference/player-controls) — keys, menus, and player commands in one local
   quick reference.
 
-Images come from exact Enhanced Workshop galleries or approved author documentation and carry local
-provenance records. A clearly captioned Legacy-era interface reference is used only when the same
-feature is independently confirmed by the current Enhanced source.
+Images are stored locally from the exact Enhanced Workshop galleries or approved author
+documentation, with source and credit records for each file.
