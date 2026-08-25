@@ -24,6 +24,22 @@ adds the companion weapon and armor assets used by the main mod.
 | [Companions and breeding](../followers/wov-companions.md) | Rocknose and dragon breeding plus extended follower leveling. |
 | [Storage, resources, and world](../crafting/wov-storage-resources.md) | Dump Chest routing, twenty sorting chests, tool sets, new resources, mines, travel areas, and torch bracelets. |
 
+## Detailed local Legacy references
+
+The older guide contained substantially more detail than the current Enhanced description. It is
+preserved inside this wiki without treating old values as current:
+
+| Local reference | Archived player material |
+| --- | --- |
+| [Professions and 27 benches](./wov-professions-benches-reference.md) | Profession activities, unlock flow, workers, bench upgrades, and every documented bench role. |
+| [Crafting catalog](../crafting/wov-crafting-reference.md) | Alchemy, enslaving tools, plants, foods, storage, bracelets, displays, wings, and rings. |
+| [Runes, tools, and weapons](../combat/wov-runes-weapons-reference.md) | Rune workflow, modification types, crystal and Elder tools, fifteen arsenal effects, reforging, and Elder ranges. |
+| [Armor stats](../combat/wov-armor-reference.md) | The complete older armor-stat table and player acquisition notes. |
+| [Creatures and breeding](../followers/wov-creatures-reference.md) | Detailed Rocknose and Dragon foods and probabilities plus other companion routes. |
+| [Thralls and workers](../followers/wov-thralls-reference.md) | Camp structure, followers, named station specialists, worker families, and training scrolls. |
+| [Bosses and bounties](../quests/wov-bosses-reference.md) | Encounter locations, shared drops, harvesting, Summoning Pool, and the retired Bounty Board flow. |
+| [World areas and meteors](../travel/wov-world-reference.md) | Portal Room, Player Market, mine access, mine layers, and meteor harvesting. |
+
 ## Welcome screen and hub
 
 The Welcome Screen presents the server name, current maximum player level, and quick information on
@@ -60,8 +76,20 @@ are included in the local pages above and explicitly labeled where the current E
 page does not independently confirm an old detail. Old item statistics, locations, probabilities,
 and unavailable acquisition routes are not treated as current Enhanced facts.
 
-The public roadmap describes future development, not current server content. Planned systems are
-therefore excluded from player instructions until a current Enhanced release documents them.
+## Public roadmap inside the wiki
+
+Roadmap entries describe development intent, not current server content. Administrator and internal
+development systems are excluded; the player-facing milestones are recorded here.
+
+| Phase | Status in the public roadmap | Player-facing systems |
+| --- | --- | --- |
+| **v0.1.0 — Foundation** | Mixed in progress and planned | Hub interface for stats, wallet, bounties, quests, and events; notification stack; seven crystal tiers; rune system. |
+| **v0.2 — Systems & Tools** | Profession, crafting, and bounty work in progress; others planned | Full mining, three-tier currency and bank, bounty contracts, professions, WoV crafting stations, daily login rewards. |
+| **v0.3 — Progression & Content** | Ascension in progress; remaining entries planned | Character viewer, magic, class-anchored skill tree, Valkyrie factions, Norse god-title Ascension, mail, minimap markers, and quest framework. |
+| **v0.3+ — Content & Expansion** | Planned | Timed events, dungeons, raids, world events, NPC quests and lore, custom thralls and creatures, and WoV building content. |
+
+The roadmap currently identifies **Wings Of Valhalla (Beta) 1.0.12** and **Wings Of Valhalla
+Equipment (Beta) 1.0.2** as live. The Workshop pages remain canonical if those versions change.
 
 ## Workshop
 

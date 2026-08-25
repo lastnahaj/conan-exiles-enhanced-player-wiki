@@ -41,6 +41,10 @@ Legacy-era references; use the Enhanced station preview for the current result.
 WoV extends follower progression to level 100 and awards an additional perk every ten levels in its
 published system. The follower's current stat panel shows its active level and perks.
 
+The detailed older food tables, probabilities, companion routes, Valkyrie camps, workers, and
+training-scroll behavior are stored locally in [Creatures and Breeding](./wov-creatures-reference.md)
+and [Thralls and Workers](./wov-thralls-reference.md).
+
 ## Workshop
 
 - [Current Enhanced Workshop page](https://steamcommunity.com/sharedfiles/filedetails/?id=3719965485)

@@ -12,8 +12,11 @@ Several systems in the stack can affect crafting and resource handling:
   crafting expansions at the mod level; individual recipes require server verification.
 - [Wings Of Valhalla storage and resources](./wov-storage-resources.md) documents the Dump Chest,
   twenty sorting destinations, tool sets, new resources, mines, and world utilities.
+- [WoV Crafting Catalog — Legacy Reference](./wov-crafting-reference.md) preserves the older
+  alchemy, enslaving, plant, food, storage, bracelet, display, wing, and ring material locally.
 - [Armory and Arsenal](../progression/armory-and-arsenal.md) documents craftable gear, gems,
   enchanting, and enhanced tools.
 - [Unlock Plus](../building/unlock-plus.md) provides player-facing storage and crafting workflows.
 
-Open the linked local guide for the complete documented workflow and its source notes.
+Open the linked local guide for the complete documented workflow. Legacy values are visibly
+separated from current Enhanced claims.

@@ -43,6 +43,9 @@ for the same profession concept; use the current Enhanced Profession tab when it
 Profession unlocks include WoV benches and weapon arsenals. The exact requirement for each unlock
 is displayed beside the recipe in the Enhanced hub.
 
+The older guide's full profession workflow and all 27 documented bench roles are preserved in the
+local [Professions and Benches reference](./wov-professions-benches-reference.md).
+
 ## Level rewards
 
 The **Rewards** tab shows the milestone ladder. The ladder rescales with the configured maximum

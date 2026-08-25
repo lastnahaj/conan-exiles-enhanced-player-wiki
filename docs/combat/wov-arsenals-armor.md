@@ -44,6 +44,11 @@ Wings Of Valhalla Equipment supplies custom weapons and Mythical Crystal armor f
 Older VAM armor-stat tables are not reused for Enhanced values; read the current item panel for
 armor, attributes, temperature resistance, and effects.
 
+For the complete older rune workflow, arsenal effects, Elder ranges, and armor tables, use the local
+[Runes, Tools, and Weapons reference](./wov-runes-weapons-reference.md) and
+[Armor Stats reference](./wov-armor-reference.md). Both are visibly separated from current Enhanced
+claims.
+
 ## Workshop
 
 - [Current Enhanced Workshop page](https://steamcommunity.com/sharedfiles/filedetails/?id=3719965485)

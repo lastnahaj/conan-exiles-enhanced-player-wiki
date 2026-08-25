@@ -7,8 +7,8 @@ verification: server-verification-required
 # Magic
 
 The required stack includes [Domain's Magic Enhanced](./domain-magic.md), a dedicated casting
-system. Server-specific spell availability and tuning have not been supplied, so this section does
-not publish a spell catalog or numerical PvP guide yet.
+system. The local guide contains the complete six-school, thirty-spell catalog; casting and scaling;
+element progression; player controls; combat loops; and troubleshooting.
 
-Future spell entries will record school, requirements, acquisition, cast behavior, verified player
-effect, cooldown, PvP notes, and sources without exposing private configuration.
+Published numerical defaults are labeled as configurable rather than presented as guaranteed server
+tuning. The six schools are Ember, Arctic, Umbra, Radiant, Voltaic, and Sanguine.

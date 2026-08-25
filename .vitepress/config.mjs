@@ -72,8 +72,8 @@ export default defineConfig({
         ],
       },
       {
-        text: "Server Rules",
-        items: [{ text: "Hardcore PvP Rules", link: "/server-rules/" }],
+        text: "Server",
+        items: [{ text: "Confirmed Settings", link: "/server-rules/" }],
       },
       {
         text: "Progression",
@@ -81,6 +81,7 @@ export default defineConfig({
           { text: "Progression Overview", link: "/progression/" },
           { text: "Wings Of Valhalla", link: "/progression/wings-of-valhalla" },
           { text: "WoV Professions & Hub", link: "/progression/wov-professions-hub" },
+          { text: "WoV Professions & Benches", link: "/progression/wov-professions-benches-reference" },
           { text: "EAA — Perks & Level", link: "/progression/eaa-perks-level" },
           { text: "Armory and Arsenal", link: "/progression/armory-and-arsenal" },
         ],
@@ -90,6 +91,8 @@ export default defineConfig({
         items: [
           { text: "Combat Overview", link: "/combat/" },
           { text: "WoV Arsenals & Armor", link: "/combat/wov-arsenals-armor" },
+          { text: "WoV Runes, Tools & Weapons", link: "/combat/wov-runes-weapons-reference" },
+          { text: "WoV Armor Stats", link: "/combat/wov-armor-reference" },
           { text: "Highmane's Arsenal", link: "/combat/highmanes-arsenal" },
           { text: "Highmane Weapons & Armor", link: "/combat/highmanes/equipment" },
           { text: "Highmane Accessories", link: "/combat/highmanes/accessories" },
@@ -110,6 +113,8 @@ export default defineConfig({
         items: [
           { text: "Followers Overview", link: "/followers/" },
           { text: "WoV Companions", link: "/followers/wov-companions" },
+          { text: "WoV Creatures & Breeding", link: "/followers/wov-creatures-reference" },
+          { text: "WoV Thralls & Workers", link: "/followers/wov-thralls-reference" },
           { text: "Better Thralls", link: "/followers/better-thralls" },
           { text: "Extended Thrall Stats", link: "/followers/extended-thrall-stats" },
           { text: "Follower Collision", link: "/followers/follower-collision" },
@@ -120,6 +125,7 @@ export default defineConfig({
         items: [
           { text: "Crafting Overview", link: "/crafting/" },
           { text: "WoV Storage & Resources", link: "/crafting/wov-storage-resources" },
+          { text: "WoV Crafting Catalog", link: "/crafting/wov-crafting-reference" },
         ],
       },
       {
@@ -135,11 +141,15 @@ export default defineConfig({
         items: [
           { text: "Travel Overview", link: "/travel/" },
           { text: "Mystical Travel Shelf", link: "/travel/mystical-travel-shelf" },
+          { text: "WoV World Areas & Meteors", link: "/travel/wov-world-reference" },
         ],
       },
       {
         text: "Quests & World Content",
-        items: [{ text: "World Content Guide", link: "/quests/" }],
+        items: [
+          { text: "World Content Guide", link: "/quests/" },
+          { text: "WoV Bosses & Bounties", link: "/quests/wov-bosses-reference" },
+        ],
       },
       {
         text: "Economy",

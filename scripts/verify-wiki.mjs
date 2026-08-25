@@ -62,6 +62,7 @@ const modsRegistry = readJson(join(repositoryRoot, "data", "mods.json"));
 const imageRegistry = readJson(join(repositoryRoot, "data", "image-sources.json"));
 const sourcesRegistry = readJson(join(repositoryRoot, "data", "sources.json"));
 const sourceCoverageRegistry = readJson(join(repositoryRoot, "data", "source-coverage.json"));
+const sourceContentAudit = readJson(join(repositoryRoot, "data", "source-content-audit.json"));
 const verificationRegistry = readJson(join(repositoryRoot, "data", "verification.json"));
 const catalog = readJson(join(repositoryRoot, "data", "catalogs", "highmanes-arsenal.json"));
 const exilesExtremeCatalog = readJson(
@@ -186,6 +187,60 @@ if (!sourceCoverageRegistry || !Array.isArray(sourceCoverageRegistry.coverage)) 
 
   for (const sourceKey of registeredKeys) {
     if (!coveredKeys.has(sourceKey)) errors.push(`Source ${sourceKey} has no local coverage record.`);
+  }
+}
+
+if (!sourceContentAudit || !Array.isArray(sourceContentAudit.sources)) {
+  errors.push("data/source-content-audit.json must contain a sources array.");
+} else {
+  const authorSources = new Map(
+    (sourcesRegistry?.sources ?? [])
+      .filter((source) => source.kind !== "steam-workshop")
+      .map((source) => [source.key, source]),
+  );
+  const auditedKeys = new Set();
+
+  for (const audit of sourceContentAudit.sources) {
+    if (!audit.source_key || auditedKeys.has(audit.source_key)) {
+      errors.push(
+        `Source content audit key ${audit.source_key ?? "missing"} is missing or duplicated.`,
+      );
+    }
+    auditedKeys.add(audit.source_key);
+    if (!authorSources.has(audit.source_key)) {
+      errors.push(`Source content audit references unknown author source ${audit.source_key}.`);
+    }
+    if (!Array.isArray(audit.sections) || audit.sections.length === 0) {
+      errors.push(`Author source ${audit.source_key ?? "unknown"} has no audited sections.`);
+      continue;
+    }
+    const sectionNames = new Set();
+    for (const section of audit.sections) {
+      if (!section.name || sectionNames.has(section.name)) {
+        errors.push(
+          `Author source ${audit.source_key ?? "unknown"} has a missing or duplicated section.`,
+        );
+      }
+      sectionNames.add(section.name);
+      if (!Array.isArray(section.local_pages) || section.local_pages.length === 0) {
+        errors.push(
+          `Author source ${audit.source_key ?? "unknown"} section ${section.name ?? "unknown"} has no local page.`,
+        );
+      }
+      for (const route of section.local_pages ?? []) {
+        if (!markdownRoutes.has(route)) {
+          errors.push(
+            `Author source ${audit.source_key ?? "unknown"} section ${section.name ?? "unknown"} maps to missing route ${route}.`,
+          );
+        }
+      }
+    }
+  }
+
+  for (const sourceKey of authorSources.keys()) {
+    if (!auditedKeys.has(sourceKey)) {
+      errors.push(`Author source ${sourceKey} has no section-level content audit.`);
+    }
   }
 }
 
@@ -400,7 +455,12 @@ if (errors.length > 0) {
   for (const error of errors) console.error(`wiki verification error: ${error}`);
   process.exitCode = 1;
 } else {
+  const auditedSectionCount =
+    sourceContentAudit?.sources?.reduce(
+      (total, source) => total + (source.sections?.length ?? 0),
+      0,
+    ) ?? 0;
   console.log(
-    `Wiki verification passed: ${markdownFiles.length} pages, ${modsRegistry?.mods?.length ?? 0} mods, ${sourcesRegistry?.sources?.length ?? 0} incorporated sources, ${exilesExtremeCatalog?.item_count ?? 0} local catalog entries, ${localImages?.length ?? 0} local images.`,
+    `Wiki verification passed: ${markdownFiles.length} pages, ${modsRegistry?.mods?.length ?? 0} mods, ${sourcesRegistry?.sources?.length ?? 0} incorporated sources, ${auditedSectionCount} audited author-source sections, ${exilesExtremeCatalog?.item_count ?? 0} local catalog entries, ${localImages?.length ?? 0} local images.`,
   );
 }

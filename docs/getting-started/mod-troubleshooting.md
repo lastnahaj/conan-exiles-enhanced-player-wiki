@@ -15,10 +15,12 @@ send players to outside guides.
 1. Open **ESC** and use [Simple Modlist](../qol/simple-modlist.md) to copy the loaded mod names and
    versions.
 2. Compare the names and Workshop IDs with the [required mod list](./required-mods.md).
-3. Close Conan Exiles completely and let Steam finish all Workshop downloads.
-4. Restart Steam if an update remains queued or the installed version does not refresh.
-5. Verify the Conan Exiles game files through Steam if the mismatch continues.
-6. As a last resort for one affected mod, unsubscribe from its exact Workshop page, let Steam remove
+3. Confirm the mod is active in the selected list. Subscribing downloads it but does not activate it
+   in a local mod list by itself.
+4. Close Conan Exiles completely and let Steam finish all Workshop downloads.
+5. Restart Steam if an update remains queued or the installed version does not refresh.
+6. Verify the Conan Exiles game files through Steam if the mismatch continues.
+7. As a last resort for one affected mod, unsubscribe from its exact Workshop page, let Steam remove
    it, subscribe again, and wait for the download to finish before launching the game.
 
 Do not substitute a Legacy Workshop item for an Enhanced item. Matching names are not proof that

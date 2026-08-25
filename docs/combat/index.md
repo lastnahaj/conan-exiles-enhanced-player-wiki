@@ -15,7 +15,8 @@ The Enhanced stack expands combat and equipment through several major systems.
 - [Armory and Arsenal](../progression/armory-and-arsenal.md) — classes, skill trees, equipment
   growth, and endgame progression.
 - [Wings Of Valhalla arsenals and armor](./wov-arsenals-armor.md) — fifteen weapon arsenals,
-  armor families, dual wielding, and randomized crafting properties.
+  armor families, dual wielding, randomized crafting, plus complete local Legacy rune, weapon,
+  tool, and armor-stat references.
 - [ExilesExtreme](./exiles-extreme.md) — player-accessible pets, mounts, equipment, cosmetics,
   structures, and placeables.
 - [Domain's Magic](../magic/domain-magic.md) — interruptible casting and magical combat systems.

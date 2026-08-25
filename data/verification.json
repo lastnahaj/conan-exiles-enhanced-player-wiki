@@ -78,6 +78,15 @@
       ],
       "notes": "Current Enhanced systems and clearly marked historical workflow references are kept separate."
     },
+    "/progression/wov-professions-benches-reference": {
+      "status": "server-verification-required",
+      "verified_at": "2026-08-24",
+      "source_urls": [
+        "https://docs.google.com/spreadsheets/d/1dvqwQ7ar5BcZGWfdgrbsOomqIjHo-60d1fAXEFloe2k/edit#gid=455765381",
+        "https://steamcommunity.com/sharedfiles/filedetails/?id=3719965485"
+      ],
+      "notes": "All ordinary-player profession and bench sections are preserved as clearly labeled Legacy reference material; admin settings are excluded."
+    },
     "/progression/eaa-perks-level": {
       "status": "server-verification-required",
       "verified_at": "2026-08-24",
@@ -111,6 +120,25 @@
         "https://docs.google.com/spreadsheets/d/1dvqwQ7ar5BcZGWfdgrbsOomqIjHo-60d1fAXEFloe2k/edit#gid=834501197"
       ],
       "notes": "Current arsenal and armor families are published without unverified historical item values."
+    },
+    "/combat/wov-runes-weapons-reference": {
+      "status": "server-verification-required",
+      "verified_at": "2026-08-24",
+      "source_urls": [
+        "https://docs.google.com/spreadsheets/d/1dvqwQ7ar5BcZGWfdgrbsOomqIjHo-60d1fAXEFloe2k/edit#gid=834501197",
+        "https://steamcommunity.com/sharedfiles/filedetails/?id=3719965485"
+      ],
+      "notes": "The complete player-facing Legacy rune, tool, arsenal, reforging, and Elder range reference is local and separated from Enhanced claims."
+    },
+    "/combat/wov-armor-reference": {
+      "status": "server-verification-required",
+      "verified_at": "2026-08-24",
+      "source_urls": [
+        "https://docs.google.com/spreadsheets/d/1dvqwQ7ar5BcZGWfdgrbsOomqIjHo-60d1fAXEFloe2k/edit#gid=1220221425",
+        "https://docs.google.com/spreadsheets/d/1dvqwQ7ar5BcZGWfdgrbsOomqIjHo-60d1fAXEFloe2k/edit#gid=1717446330",
+        "https://steamcommunity.com/sharedfiles/filedetails/?id=3719965485"
+      ],
+      "notes": "The complete non-admin Legacy armor-stat table is preserved with a prominent historical-values warning."
     },
     "/combat/highmanes-arsenal": {
       "status": "server-verification-required",
@@ -189,6 +217,24 @@
       ],
       "notes": "Enhanced breeding loops are kept separate from historical probabilities."
     },
+    "/followers/wov-creatures-reference": {
+      "status": "server-verification-required",
+      "verified_at": "2026-08-24",
+      "source_urls": [
+        "https://docs.google.com/spreadsheets/d/1dvqwQ7ar5BcZGWfdgrbsOomqIjHo-60d1fAXEFloe2k/edit#gid=379834417",
+        "https://steamcommunity.com/sharedfiles/filedetails/?id=3719965485"
+      ],
+      "notes": "Detailed Legacy Rocknose and Dragon tables and ordinary-player companion routes are local; administrator-only companions are excluded."
+    },
+    "/followers/wov-thralls-reference": {
+      "status": "server-verification-required",
+      "verified_at": "2026-08-24",
+      "source_urls": [
+        "https://docs.google.com/spreadsheets/d/1dvqwQ7ar5BcZGWfdgrbsOomqIjHo-60d1fAXEFloe2k/edit#gid=1005130361",
+        "https://steamcommunity.com/sharedfiles/filedetails/?id=3719965485"
+      ],
+      "notes": "Legacy camps, followers, workers, roles, and training behavior are local; internal spawn names and admin fields are excluded."
+    },
     "/followers/better-thralls": {
       "status": "server-verification-required",
       "verified_at": "2026-08-24",
@@ -230,6 +276,15 @@
       ],
       "notes": "Current Enhanced storage, resource, and player-area workflows are documented without invented locations or values."
     },
+    "/crafting/wov-crafting-reference": {
+      "status": "server-verification-required",
+      "verified_at": "2026-08-24",
+      "source_urls": [
+        "https://docs.google.com/spreadsheets/d/1dvqwQ7ar5BcZGWfdgrbsOomqIjHo-60d1fAXEFloe2k/edit#gid=353114627",
+        "https://steamcommunity.com/sharedfiles/filedetails/?id=3719965485"
+      ],
+      "notes": "Legacy alchemy, enslaving, plant, food, storage, bracelet, display, wing, and ring material is local; admin-only recipes are excluded."
+    },
     "/building/": {
       "status": "verified",
       "verified_at": "2026-08-24",
@@ -269,6 +324,15 @@
       "source_urls": ["https://steamcommunity.com/sharedfiles/filedetails/?id=3718830483"],
       "notes": "Core player behavior is documented by the Workshop page."
     },
+    "/travel/wov-world-reference": {
+      "status": "server-verification-required",
+      "verified_at": "2026-08-24",
+      "source_urls": [
+        "https://docs.google.com/spreadsheets/d/1dvqwQ7ar5BcZGWfdgrbsOomqIjHo-60d1fAXEFloe2k/edit#gid=922051183",
+        "https://steamcommunity.com/sharedfiles/filedetails/?id=3719965485"
+      ],
+      "notes": "Only ordinary-player Portal Room, market, mine, access-item, and meteor material is local; administrator and hidden-area systems are excluded."
+    },
     "/quests/": {
       "status": "server-verification-required",
       "verified_at": "2026-08-24",
@@ -277,6 +341,15 @@
         "https://steamcommunity.com/sharedfiles/filedetails/?id=3718199031"
       ],
       "notes": "Bounties, hunts, boss tiers, named followers, breeding, and player areas are mapped locally without invented server-specific objectives."
+    },
+    "/quests/wov-bosses-reference": {
+      "status": "server-verification-required",
+      "verified_at": "2026-08-24",
+      "source_urls": [
+        "https://docs.google.com/spreadsheets/d/1dvqwQ7ar5BcZGWfdgrbsOomqIjHo-60d1fAXEFloe2k/edit#gid=282208572",
+        "https://steamcommunity.com/sharedfiles/filedetails/?id=3719965485"
+      ],
+      "notes": "Legacy player boss, harvesting, Summoning Pool, trophy, and Bounty Board material is local; administrator replacement logic is excluded."
     },
     "/economy/": {
       "status": "server-verification-required",

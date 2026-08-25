@@ -9,6 +9,6 @@ verification: server-verification-required
 The documented stack includes the [Mystical Travel Shelf](./mystical-travel-shelf.md) and describes
 travel-related areas within [Wings Of Valhalla](../progression/wings-of-valhalla.md).
 
-No public server warp, custom destination, portal route, secret location, or map coordinate has been
-supplied. Destination guides will be added only after the route is player-accessible and its
-publication does not reveal discovery-gated content.
+The local [WoV World Areas and Meteors reference](./wov-world-reference.md) preserves the older
+Portal Room, Player Market, mine-access, mine-layer, and meteor guidance while clearly marking it as
+Legacy-era material. Live Portal Room destinations remain whatever the installed server presents.

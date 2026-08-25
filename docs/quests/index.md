@@ -19,6 +19,7 @@ the server has not supplied a separate custom quest list.
 | WoV Player Market, Portal Room, and Resource Mines | [WoV Storage, Resources, and World](../crafting/wov-storage-resources.md#player-areas) |
 | Armory and Arsenal boss tiers and named-follower hunts | [Armory and Arsenal](../progression/armory-and-arsenal.md#endgame-and-world-content) |
 | WoV Rocknose and Dragon breeding | [WoV Companions and Breeding](../followers/wov-companions.md) |
+| Detailed Legacy WoV bosses, harvesting, Summoning Pool, and retired Bounty Board | [WoV Bosses and Bounties](./wov-bosses-reference.md) |
 
 The live hub, recipe panel, target tracker, or encounter itself supplies the current objective and
 reward. Exact locations, triggers, hidden conditions, merchant inventories, and drops are not

@@ -10,7 +10,7 @@ Three parts of the Enhanced stack shape character growth:
 
 | System                                               | Local guide |
 | ---------------------------------------------------- | ----------- |
-| Wings Of Valhalla | [Hub and progression](./wings-of-valhalla.md), plus [professions, rewards, and bounties](./wov-professions-hub.md) |
+| Wings Of Valhalla | [Hub and progression](./wings-of-valhalla.md), [professions, rewards, and bounties](./wov-professions-hub.md), plus the detailed local Legacy references linked from the hub |
 | [EAA - Enhanced Perks & Level](./eaa-perks-level.md) | Levels, attributes, and perk milestones |
 | [Armory and Arsenal](./armory-and-arsenal.md)        | Class experience, skill trees, and ascension |
 

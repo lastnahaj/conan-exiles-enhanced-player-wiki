@@ -37,8 +37,9 @@ The pickup feature applies to eligible followers and pets with empty inventories
 companions or restricted DLC content. Full health, land claim, and a cooldown can also be required.
 
 The mod supports up to ten additional follower slots on top of the base-game limit and can require
-the War Party perk. The actual number available is the limit enforced when a follower is asked to
-follow.
+the War Party perk. When that optional prerequisite is enabled, the older Q&A specifies 20 Authority
+points and selection of **War Party**. The actual number available is the limit enforced when a
+follower is asked to follow; a configured additional-follower count of zero disables the feature.
 
 ## Teams
 

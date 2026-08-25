@@ -50,6 +50,10 @@ WoV includes six colored torch bracelets. The live build also replaces the icons
 potions and ingots, making those item categories easier to identify in inventories and sorting
 chests.
 
+The older alchemy, food, storage, bracelet, display, wing, and ring catalog is preserved in the local
+[WoV Crafting reference](./wov-crafting-reference.md). Legacy mine access and meteor behavior are in
+the local [World Areas and Meteors reference](../travel/wov-world-reference.md).
+
 ## Workshop
 
 - [Current Enhanced Workshop page](https://steamcommunity.com/sharedfiles/filedetails/?id=3719965485)
