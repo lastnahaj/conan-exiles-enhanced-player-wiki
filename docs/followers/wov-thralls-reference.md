@@ -21,6 +21,8 @@ the three special camps in the room opposite the Frost Forge inside the Temple o
 Only **Lesser Valkyries** fit an ordinary Wheel of Pain in that guide. Other tameable Valkyries
 required the Rune Prison, which the old progression placed at level 240.
 
+For the supplied level-0 server captures, see [Valkyrie Stats by Location](./wov-valkyrie-stats.md).
+
 ## Untameable named encounters
 
 | Encounter | Old location | Recorded special loot |

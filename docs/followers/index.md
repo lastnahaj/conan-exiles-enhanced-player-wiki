@@ -15,4 +15,5 @@ Three dedicated Enhanced mods improve follower handling:
 Wings Of Valhalla adds extended follower leveling and two documented breeding loops. See the local
 [WoV companions guide](./wov-companions.md) for current Rocknose and Dragon loops, the detailed
 [Creatures and Breeding reference](./wov-creatures-reference.md), and the local
-[Thralls and Workers reference](./wov-thralls-reference.md).
+[Thralls and Workers reference](./wov-thralls-reference.md). The owner-supplied stat captures are
+split and compared in [Valkyrie Stats by Location](./wov-valkyrie-stats.md).

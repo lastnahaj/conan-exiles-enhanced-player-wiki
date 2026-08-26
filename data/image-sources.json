@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "verified_at": "2026-08-24",
+  "verified_at": "2026-08-25",
   "local_images": [
     {
       "local_path": "public/media/mods/simple-modlist.png",
@@ -291,6 +291,104 @@
       "edition_scope": "legacy-era-interface-reference",
       "current_feature_source": "https://steamcommunity.com/sharedfiles/filedetails/?id=3720921242",
       "alt": "Legacy-era Fashionist attached weapon display choices from the author's documentation"
+    },
+    {
+      "local_path": "public/media/wov-valkyries/wov-valkyrie-asagarth-stats.png",
+      "source_page": "owner-supplied://wov-valkyrie-stats/2026-08-25",
+      "source_asset": "owner-supplied://wov-valkyrie-stats-composite/2026-08-25#crop=0,0,1576,1440",
+      "mod_id": "3719965485",
+      "mod_name": "Wings Of Valhalla (Beta)",
+      "credit": "Server owner-supplied screenshot",
+      "retrieved_at": "2026-08-25",
+      "verified_at": "2026-08-25",
+      "edition_scope": "server-capture",
+      "source_sha256": "71d30a92baadd61c8b2dfbb075d9b220e505b6e99120a61c8ce74179508f04a2",
+      "sha256": "1d591ad35f6bda00b5d73c1a180b5b70083f186bf4e629b9a9dca161f07260a6",
+      "alt": "Level 0 Asagarth Chosen Valkyrie attributes, growth chances, bonuses, and health"
+    },
+    {
+      "local_path": "public/media/wov-valkyries/wov-valkyrie-mountain-stats.png",
+      "source_page": "owner-supplied://wov-valkyrie-stats/2026-08-25",
+      "source_asset": "owner-supplied://wov-valkyrie-stats-composite/2026-08-25#crop=1576,0,1564,1440",
+      "mod_id": "3719965485",
+      "mod_name": "Wings Of Valhalla (Beta)",
+      "credit": "Server owner-supplied screenshot",
+      "retrieved_at": "2026-08-25",
+      "verified_at": "2026-08-25",
+      "edition_scope": "server-capture",
+      "source_sha256": "71d30a92baadd61c8b2dfbb075d9b220e505b6e99120a61c8ce74179508f04a2",
+      "sha256": "4bd56d0c113547f7f89caff967a4735a28cc380d88856020d3979f6a14cf4f53",
+      "alt": "Level 0 Mountain Chosen Valkyrie attributes, growth chances, bonuses, and health"
+    },
+    {
+      "local_path": "public/media/wov-valkyries/wov-valkyrie-lava-stats.png",
+      "source_page": "owner-supplied://wov-valkyrie-stats/2026-08-25",
+      "source_asset": "owner-supplied://wov-valkyrie-stats-composite/2026-08-25#crop=3140,0,1552,1440",
+      "mod_id": "3719965485",
+      "mod_name": "Wings Of Valhalla (Beta)",
+      "credit": "Server owner-supplied screenshot",
+      "retrieved_at": "2026-08-25",
+      "verified_at": "2026-08-25",
+      "edition_scope": "server-capture",
+      "source_sha256": "71d30a92baadd61c8b2dfbb075d9b220e505b6e99120a61c8ce74179508f04a2",
+      "sha256": "072176fc0ae265e966d93628824e57a21c9dac96e09bf67235f114c4ea0969c2",
+      "alt": "Level 0 Lava Chosen Valkyrie attributes, growth chances, bonuses, and health"
+    },
+    {
+      "local_path": "public/media/wov-valkyries/wov-valkyrie-blood-primarch-stats.png",
+      "source_page": "owner-supplied://wov-valkyrie-stats/2026-08-25",
+      "source_asset": "owner-supplied://wov-valkyrie-stats-composite/2026-08-25#crop=4692,0,1628,1440",
+      "mod_id": "3719965485",
+      "mod_name": "Wings Of Valhalla (Beta)",
+      "credit": "Server owner-supplied screenshot",
+      "retrieved_at": "2026-08-25",
+      "verified_at": "2026-08-25",
+      "edition_scope": "server-capture",
+      "source_sha256": "71d30a92baadd61c8b2dfbb075d9b220e505b6e99120a61c8ce74179508f04a2",
+      "sha256": "df9373b3633511325ff1aeaa34decf649f57dea94d99b7bfe0c92d8d12c92918",
+      "alt": "Level 0 Sema the Blood Primarch attributes, growth chances, bonuses, and health"
+    },
+    {
+      "local_path": "public/media/wov-valkyries/wov-valkyrie-desert-stats.png",
+      "source_page": "owner-supplied://wov-valkyrie-stats/2026-08-25",
+      "source_asset": "owner-supplied://wov-valkyrie-stats-composite/2026-08-25#crop=0,1440,1596,1428",
+      "mod_id": "3719965485",
+      "mod_name": "Wings Of Valhalla (Beta)",
+      "credit": "Server owner-supplied screenshot",
+      "retrieved_at": "2026-08-25",
+      "verified_at": "2026-08-25",
+      "edition_scope": "server-capture",
+      "source_sha256": "71d30a92baadd61c8b2dfbb075d9b220e505b6e99120a61c8ce74179508f04a2",
+      "sha256": "db07519bd1f6b88e9a29169bf4bb3892c97c12c1031a9845cabc6d89731c16d1",
+      "alt": "Level 0 Desert Chosen Valkyrie attributes, growth chances, bonuses, and health"
+    },
+    {
+      "local_path": "public/media/wov-valkyries/wov-valkyrie-jungle-stats.png",
+      "source_page": "owner-supplied://wov-valkyrie-stats/2026-08-25",
+      "source_asset": "owner-supplied://wov-valkyrie-stats-composite/2026-08-25#crop=1596,1440,1564,1428",
+      "mod_id": "3719965485",
+      "mod_name": "Wings Of Valhalla (Beta)",
+      "credit": "Server owner-supplied screenshot",
+      "retrieved_at": "2026-08-25",
+      "verified_at": "2026-08-25",
+      "edition_scope": "server-capture",
+      "source_sha256": "71d30a92baadd61c8b2dfbb075d9b220e505b6e99120a61c8ce74179508f04a2",
+      "sha256": "b163ff11afd223a6072f26016f51213a53cffdb2263dfd7ba8235c97d0224069",
+      "alt": "Level 0 Jungle Chosen Valkyrie attributes, growth chances, bonuses, and health"
+    },
+    {
+      "local_path": "public/media/wov-valkyries/wov-valkyrie-fallen-stats.png",
+      "source_page": "owner-supplied://wov-valkyrie-stats/2026-08-25",
+      "source_asset": "owner-supplied://wov-valkyrie-stats-composite/2026-08-25#crop=3160,1440,1535,1428",
+      "mod_id": "3719965485",
+      "mod_name": "Wings Of Valhalla (Beta)",
+      "credit": "Server owner-supplied screenshot",
+      "retrieved_at": "2026-08-25",
+      "verified_at": "2026-08-25",
+      "edition_scope": "server-capture",
+      "source_sha256": "71d30a92baadd61c8b2dfbb075d9b220e505b6e99120a61c8ce74179508f04a2",
+      "sha256": "39b0d094aa25f3aa4244e5f9a2064298bbcad2eeaa69d6a73378c7a6a2846ddc",
+      "alt": "Level 0 Fallen Chosen Valkyrie attributes, growth chances, bonuses, and health"
     }
   ],
   "approved_source_pages": [

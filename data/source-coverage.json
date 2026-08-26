@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "checked_at": "2026-08-24",
+  "checked_at": "2026-08-25",
   "coverage": [
     { "source_key": "workshop-3719546290", "coverage_status": "incorporated", "local_pages": ["/qol/simple-modlist", "/getting-started/mod-troubleshooting"] },
     { "source_key": "workshop-3719585133", "coverage_status": "incorporated", "local_pages": ["/qol/damage-meter"] },
@@ -18,7 +18,7 @@
     { "source_key": "workshop-3720737911", "coverage_status": "incorporated", "local_pages": ["/followers/extended-thrall-stats"] },
     { "source_key": "workshop-3718199031", "coverage_status": "incorporated", "local_pages": ["/progression/armory-and-arsenal", "/creatures/", "/quests/", "/economy/"] },
     { "source_key": "workshop-3720326124", "coverage_status": "incorporated", "local_pages": ["/progression/eaa-perks-level"] },
-    { "source_key": "workshop-3719965485", "coverage_status": "incorporated", "local_pages": ["/progression/wings-of-valhalla", "/progression/wov-professions-hub", "/combat/wov-arsenals-armor", "/followers/wov-companions", "/crafting/wov-storage-resources"] },
+    { "source_key": "workshop-3719965485", "coverage_status": "incorporated", "local_pages": ["/progression/wings-of-valhalla", "/progression/wov-professions-hub", "/combat/wov-arsenals-armor", "/followers/wov-companions", "/followers/wov-valkyrie-stats", "/crafting/wov-storage-resources"] },
     { "source_key": "workshop-3721036709", "coverage_status": "incorporated", "local_pages": ["/progression/wings-of-valhalla", "/combat/wov-arsenals-armor"] },
     { "source_key": "workshop-3725018456", "coverage_status": "incorporated", "local_pages": ["/reference/player-facing-server-systems"] },
     { "source_key": "workshop-3721926604", "coverage_status": "incorporated", "local_pages": ["/combat/highmanes-arsenal", "/combat/highmanes/equipment", "/combat/highmanes/accessories", "/combat/highmanes/crafting-building", "/combat/highmanes/companions"] },
@@ -34,6 +34,7 @@
     { "source_key": "testerle-unlock-plus-qa", "coverage_status": "incorporated", "local_pages": ["/building/unlock-plus", "/getting-started/mod-troubleshooting"], "publication_boundary": "Only ordinary-player behavior consistent with Enhanced is included." },
     { "source_key": "testerle-better-thralls-qa", "coverage_status": "incorporated", "local_pages": ["/followers/better-thralls", "/getting-started/mod-troubleshooting"], "publication_boundary": "Only ordinary-player behavior consistent with Enhanced is included." },
     { "source_key": "testerle-fashionist-qa", "coverage_status": "incorporated", "local_pages": ["/qol/fashionist", "/getting-started/mod-troubleshooting"], "publication_boundary": "Only ordinary-player behavior consistent with Enhanced is included." },
-    { "source_key": "testerle-fashionist-configuration", "coverage_status": "incorporated", "local_pages": ["/qol/fashionist", "/getting-started/mod-troubleshooting"], "publication_boundary": "Administrative configuration details are excluded." }
+    { "source_key": "testerle-fashionist-configuration", "coverage_status": "incorporated", "local_pages": ["/qol/fashionist", "/getting-started/mod-troubleshooting"], "publication_boundary": "Administrative configuration details are excluded." },
+    { "source_key": "owner-wov-valkyrie-stats-2026-08-25", "coverage_status": "incorporated", "local_pages": ["/followers/wov-valkyrie-stats"] }
   ]
 }

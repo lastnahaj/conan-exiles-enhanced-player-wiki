@@ -235,6 +235,15 @@
       ],
       "notes": "Legacy camps, followers, workers, roles, and training behavior are local; internal spawn names and admin fields are excluded."
     },
+    "/followers/wov-valkyrie-stats": {
+      "status": "verified",
+      "verified_at": "2026-08-25",
+      "source_urls": [
+        "owner-supplied://wov-valkyrie-stats/2026-08-25",
+        "https://steamcommunity.com/sharedfiles/filedetails/?id=3719965485"
+      ],
+      "notes": "Level 0 values are transcribed from seven owner-supplied server captures and each original-resolution crop is published locally."
+    },
     "/followers/better-thralls": {
       "status": "server-verification-required",
       "verified_at": "2026-08-24",

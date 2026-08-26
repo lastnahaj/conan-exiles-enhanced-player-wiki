@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "checked_at": "2026-08-24",
+  "checked_at": "2026-08-25",
   "sources": [
     {
       "source_key": "wov-roadmap",
@@ -123,6 +123,13 @@
         { "name": "Per-category display positions", "local_pages": ["/qol/fashionist"] }
       ],
       "publication_boundary": "The source's administrator configuration is excluded from the public wiki."
+    },
+    {
+      "source_key": "owner-wov-valkyrie-stats-2026-08-25",
+      "sections": [
+        { "name": "Seven location-based level 0 stat captures", "local_pages": ["/followers/wov-valkyrie-stats"] }
+      ],
+      "publication_boundary": "Only the visible player-facing follower-stat panels are published."
     }
   ]
 }

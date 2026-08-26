@@ -113,6 +113,7 @@ export default defineConfig({
         items: [
           { text: "Followers Overview", link: "/followers/" },
           { text: "WoV Companions", link: "/followers/wov-companions" },
+          { text: "WoV Valkyrie Stats", link: "/followers/wov-valkyrie-stats" },
           { text: "WoV Creatures & Breeding", link: "/followers/wov-creatures-reference" },
           { text: "WoV Thralls & Workers", link: "/followers/wov-thralls-reference" },
           { text: "Better Thralls", link: "/followers/better-thralls" },

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "checked_at": "2026-08-24",
+  "checked_at": "2026-08-25",
   "sources": [
     {
       "key": "workshop-3719546290",
@@ -298,6 +298,15 @@
       "edition_scope": "predates-enhanced",
       "mod_ids": ["3720921242"],
       "use": "Supporting player-control context only when consistent with the Enhanced page"
+    },
+    {
+      "key": "owner-wov-valkyrie-stats-2026-08-25",
+      "url": "owner-supplied://wov-valkyrie-stats/2026-08-25",
+      "kind": "owner-supplied-server-screenshot",
+      "status": "checked",
+      "edition_scope": "server-capture",
+      "mod_ids": ["3719965485"],
+      "use": "Level 0 Valkyrie attributes, growth chances, bonuses, and health by location"
     }
   ]
 }
