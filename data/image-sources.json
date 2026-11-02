@@ -389,6 +389,78 @@
       "source_sha256": "71d30a92baadd61c8b2dfbb075d9b220e505b6e99120a61c8ce74179508f04a2",
       "sha256": "39b0d094aa25f3aa4244e5f9a2064298bbcad2eeaa69d6a73378c7a6a2846ddc",
       "alt": "Level 0 Fallen Chosen Valkyrie attributes, growth chances, bonuses, and health"
+    },
+    {
+      "local_path": "public/media/enhanced/ANC_Vista_Aqueduct.jpg",
+      "source_page": "https://www.conanexiles.com/enhanced/",
+      "source_asset": "https://www.conanexiles.com/wp-content/uploads/sites/5/2026/05/ANC_Vista_Aqueduct-1024x576.jpg",
+      "mod_id": "440900",
+      "mod_name": "Conan Exiles Enhanced",
+      "credit": "Funcom / Inflexion Games",
+      "retrieved_at": "2026-11-02",
+      "verified_at": "2026-11-02",
+      "edition_scope": "enhanced",
+      "alt": "Official Enhanced artwork: Vista Aqueduct"
+    },
+    {
+      "local_path": "public/media/enhanced/ANC_Harvesting.jpg",
+      "source_page": "https://www.conanexiles.com/enhanced/",
+      "source_asset": "https://www.conanexiles.com/wp-content/uploads/sites/5/2026/05/ANC_Harvesting-1024x576.jpg",
+      "mod_id": "440900",
+      "mod_name": "Conan Exiles Enhanced",
+      "credit": "Funcom / Inflexion Games",
+      "retrieved_at": "2026-11-02",
+      "verified_at": "2026-11-02",
+      "edition_scope": "enhanced",
+      "alt": "Official Enhanced artwork: Harvesting"
+    },
+    {
+      "local_path": "public/media/enhanced/ANC_PvP.jpg",
+      "source_page": "https://www.conanexiles.com/enhanced/",
+      "source_asset": "https://www.conanexiles.com/wp-content/uploads/sites/5/2026/05/ANC_PvP-1024x576.jpg",
+      "mod_id": "440900",
+      "mod_name": "Conan Exiles Enhanced",
+      "credit": "Funcom / Inflexion Games",
+      "retrieved_at": "2026-11-02",
+      "verified_at": "2026-11-02",
+      "edition_scope": "enhanced",
+      "alt": "Official Enhanced artwork: PvP"
+    },
+    {
+      "local_path": "public/media/enhanced/ANC_Thalls.jpg",
+      "source_page": "https://www.conanexiles.com/enhanced/",
+      "source_asset": "https://www.conanexiles.com/wp-content/uploads/sites/5/2026/05/ANC_Thalls-1024x576.jpg",
+      "mod_id": "440900",
+      "mod_name": "Conan Exiles Enhanced",
+      "credit": "Funcom / Inflexion Games",
+      "retrieved_at": "2026-11-02",
+      "verified_at": "2026-11-02",
+      "edition_scope": "enhanced",
+      "alt": "Official Enhanced artwork: Thalls"
+    },
+    {
+      "local_path": "public/media/enhanced/ANC_PlayerBase.jpg",
+      "source_page": "https://www.conanexiles.com/enhanced/",
+      "source_asset": "https://www.conanexiles.com/wp-content/uploads/sites/5/2026/05/ANC_PlayerBase-1024x576.jpg",
+      "mod_id": "440900",
+      "mod_name": "Conan Exiles Enhanced",
+      "credit": "Funcom / Inflexion Games",
+      "retrieved_at": "2026-11-02",
+      "verified_at": "2026-11-02",
+      "edition_scope": "enhanced",
+      "alt": "Official Enhanced artwork: PlayerBase"
+    },
+    {
+      "local_path": "public/media/enhanced/ANC_Vista_Sepermeru.jpg",
+      "source_page": "https://www.conanexiles.com/enhanced/",
+      "source_asset": "https://www.conanexiles.com/wp-content/uploads/sites/5/2026/05/ANC_Vista_Sepermeru-1024x576.jpg",
+      "mod_id": "440900",
+      "mod_name": "Conan Exiles Enhanced",
+      "credit": "Funcom / Inflexion Games",
+      "retrieved_at": "2026-11-02",
+      "verified_at": "2026-11-02",
+      "edition_scope": "enhanced",
+      "alt": "Official Enhanced artwork: Vista Sepermeru"
     }
   ],
   "approved_source_pages": [
@@ -403,22 +475,30 @@
     {
       "system": "Wings Of Valhalla Equipment",
       "mod_id": "3721036709",
-      "source_pages": ["https://steamcommunity.com/sharedfiles/filedetails/?id=3721036709"]
+      "source_pages": [
+        "https://steamcommunity.com/sharedfiles/filedetails/?id=3721036709"
+      ]
     },
     {
       "system": "Highmane's Arsenal: Enhanced",
       "mod_id": "3721926604",
-      "source_pages": ["https://steamcommunity.com/sharedfiles/filedetails/?id=3721926604"]
+      "source_pages": [
+        "https://steamcommunity.com/sharedfiles/filedetails/?id=3721926604"
+      ]
     },
     {
       "system": "[Enhanced] Armory and Arsenal v1.2.9",
       "mod_id": "3718199031",
-      "source_pages": ["https://steamcommunity.com/sharedfiles/filedetails/?id=3718199031"]
+      "source_pages": [
+        "https://steamcommunity.com/sharedfiles/filedetails/?id=3718199031"
+      ]
     },
     {
       "system": "[Enhanced] EAA - Enhanced Perks & Level",
       "mod_id": "3720326124",
-      "source_pages": ["https://steamcommunity.com/sharedfiles/filedetails/?id=3720326124"]
+      "source_pages": [
+        "https://steamcommunity.com/sharedfiles/filedetails/?id=3720326124"
+      ]
     },
     {
       "system": "Domain's Magic Enhanced",
@@ -440,7 +520,9 @@
     {
       "system": "Better Thralls v3.3.0 (Enhanced)",
       "mod_id": "3720904511",
-      "source_pages": ["https://steamcommunity.com/sharedfiles/filedetails/?id=3720904511"]
+      "source_pages": [
+        "https://steamcommunity.com/sharedfiles/filedetails/?id=3720904511"
+      ]
     },
     {
       "system": "Fashionist v5.0.9 (Enhanced)",
@@ -453,57 +535,79 @@
     {
       "system": "Unlock Plus v2.0.6 (Enhanced)",
       "mod_id": "3720948133",
-      "source_pages": ["https://steamcommunity.com/sharedfiles/filedetails/?id=3720948133"]
+      "source_pages": [
+        "https://steamcommunity.com/sharedfiles/filedetails/?id=3720948133"
+      ]
     },
     {
       "system": "Stacksize Plus v2.0.3 (Enhanced)",
       "mod_id": "3720915336",
-      "source_pages": ["https://steamcommunity.com/sharedfiles/filedetails/?id=3720915336"]
+      "source_pages": [
+        "https://steamcommunity.com/sharedfiles/filedetails/?id=3720915336"
+      ]
     },
     {
       "system": "Less Building Placement Restrictions (Enhanced) - v1.0.3",
       "mod_id": "3755091710",
-      "source_pages": ["https://steamcommunity.com/sharedfiles/filedetails/?id=3755091710"]
+      "source_pages": [
+        "https://steamcommunity.com/sharedfiles/filedetails/?id=3755091710"
+      ]
     },
     {
       "system": "Extended Thrall Stats (Enhanced)",
       "mod_id": "3720737911",
-      "source_pages": ["https://steamcommunity.com/sharedfiles/filedetails/?id=3720737911"]
+      "source_pages": [
+        "https://steamcommunity.com/sharedfiles/filedetails/?id=3720737911"
+      ]
     },
     {
       "system": "[Enhanced] Player Ignores Follower Collision",
       "mod_id": "3720753923",
-      "source_pages": ["https://steamcommunity.com/sharedfiles/filedetails/?id=3720753923"]
+      "source_pages": [
+        "https://steamcommunity.com/sharedfiles/filedetails/?id=3720753923"
+      ]
     },
     {
       "system": "Simple Minimap (by Xevyr) v5.1.9",
       "mod_id": "3719513784",
-      "source_pages": ["https://steamcommunity.com/sharedfiles/filedetails/?id=3719513784"]
+      "source_pages": [
+        "https://steamcommunity.com/sharedfiles/filedetails/?id=3719513784"
+      ]
     },
     {
       "system": "The Damage Meter (by Xevyr) - v5.0.9",
       "mod_id": "3719585133",
-      "source_pages": ["https://steamcommunity.com/sharedfiles/filedetails/?id=3719585133"]
+      "source_pages": [
+        "https://steamcommunity.com/sharedfiles/filedetails/?id=3719585133"
+      ]
     },
     {
       "system": "Proximity Party (by Xevyr) - v5.0.7",
       "mod_id": "3718878457",
-      "source_pages": ["https://steamcommunity.com/sharedfiles/filedetails/?id=3718878457"]
+      "source_pages": [
+        "https://steamcommunity.com/sharedfiles/filedetails/?id=3718878457"
+      ]
     },
     {
       "system": "Mystical Travel Shelf (by Xevyr)",
       "mod_id": "3718830483",
-      "source_pages": ["https://steamcommunity.com/sharedfiles/filedetails/?id=3718830483"]
+      "source_pages": [
+        "https://steamcommunity.com/sharedfiles/filedetails/?id=3718830483"
+      ]
     },
     {
       "system": "Simple Modlist v5.0.6 (by Xevyr)",
       "mod_id": "3719546290",
-      "source_pages": ["https://steamcommunity.com/sharedfiles/filedetails/?id=3719546290"]
+      "source_pages": [
+        "https://steamcommunity.com/sharedfiles/filedetails/?id=3719546290"
+      ]
     },
     {
       "system": "[Enhanced] Pippi - User & Server Management - v4.0.6",
       "mod_id": "3725018456",
-      "source_pages": ["https://steamcommunity.com/sharedfiles/filedetails/?id=3725018456"]
+      "source_pages": [
+        "https://steamcommunity.com/sharedfiles/filedetails/?id=3725018456"
+      ]
     }
   ]
 }

@@ -188,3 +188,81 @@ body {
   .wiki-home__browse { padding-top: 36px; }
 }
 @media (prefers-reduced-motion: reduce) { .wiki-home__card { transition: none; } }
+
+/* Stone, parchment, and bronze editorial system. */
+:root {
+  --vp-c-bg: #151512;
+  --vp-c-bg-alt: #10110f;
+  --vp-c-bg-soft: #20211c;
+  --vp-c-bg-elv: #252620;
+  --vp-c-brand-1: #d6b77b;
+  --vp-c-brand-2: #e8cd99;
+  --vp-c-brand-soft: rgba(214,183,123,.12);
+  --vp-c-divider: rgba(206,190,151,.17);
+  --vp-c-text-1: #ece7db;
+  --vp-c-text-2: #b9b6a9;
+  --vp-c-text-3: #96988a;
+  --vp-font-family-base: "Segoe UI", ui-sans-serif, system-ui, sans-serif;
+}
+html:not(.dark) {
+  --vp-c-brand-1: #795420;
+  --vp-c-brand-2: #604017;
+  --vp-c-bg: #f5f0e5;
+  --vp-c-bg-alt: #ebe5d8;
+  --vp-c-bg-soft: #eae3d4;
+  --vp-c-bg-elv: #fffbf1;
+  --vp-c-text-1: #292d25;
+  --vp-c-text-2: #52594d;
+  --vp-c-text-3: #656e60;
+  --vp-c-divider: rgba(75,66,43,.2);
+}
+.wiki-home { padding-top: 32px; }
+.wiki-home__hero {
+  padding: 64px 48px; min-height: 460px; margin-bottom: 28px;
+  background-size: cover; background-position: center; border: 1px solid #61533a;
+  border-radius: 3px; color: #f5eddf; gap: 48px;
+}
+.wiki-home__hero .wiki-home__lead { color: #d4d1c3; }
+.wiki-home__hero .wiki-home__eyebrow, .wiki-home__hero h1 em { color: #e0bd7b; }
+.wiki-home__hero .wiki-home__tags span { border-color: #8d7958; }
+.wiki-home__hero .wiki-home__primary { background: #dec28d; }
+.wiki-home__hero .wiki-home__connection { background: rgba(17,20,15,.86); border-color: #756342; }
+.wiki-home__hero .wiki-home__connection p:not(.wiki-home__eyebrow) { color: #c6c4b7; }
+.wiki-home__hero .wiki-home__connection code { color: #fff1d2; }
+.wiki-home__hero .wiki-home__connection a { color: #e0bd7b; }
+.wiki-home__card { overflow: hidden; padding: 0 24px 46px; background: var(--vp-c-bg-soft); }
+.wiki-home__card-image { width: calc(100% + 48px); max-width: none; height: 152px; object-fit: cover; margin: 0 -24px 22px; }
+.wiki-home__card h3 { font-family: Georgia, serif; font-size: 23px; font-weight: 400; margin-top: 14px; }
+.wiki-home__card p { font-size: 13px; }
+.wiki-home__card:hover .wiki-home__card-top { color: var(--vp-c-brand-1); }
+.wiki-home__section-title h2, .vp-doc h1, .vp-doc h2 { font-family: Georgia, "Times New Roman", serif; font-weight: 400; }
+.wiki-home__feature { border-left: 3px solid var(--vp-c-brand-1); }
+.guide-tools { display: flex; flex-wrap: wrap; align-items: center; gap: 10px; margin: 0 0 22px; font-size: 10px; color: var(--vp-c-text-3); letter-spacing: .04em; }
+.guide-tools > a { color: var(--vp-c-brand-1); font-weight: 700; }
+.guide-tools > span:not(.guide-tools__divider) { max-width: 230px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.guide-tools__buttons { display: flex; gap: 6px; margin-left: auto; }
+.guide-tools button { padding: 5px 9px; border: 1px solid var(--vp-c-divider); border-radius: 3px; color: var(--vp-c-text-2); }
+.guide-tools button:hover, .guide-tools button[aria-pressed="true"] { color: var(--vp-c-brand-1); border-color: var(--vp-c-brand-1); }
+.reading-progress { position: fixed; top: 0; left: 0; height: 2px; background: var(--vp-c-brand-1); z-index: 100; pointer-events: none; }
+.guide-evidence { border-left: 0 !important; background: transparent !important; padding: 0 0 16px !important; border-bottom: 1px solid var(--vp-c-divider); font-size: 11px !important; }
+.guide-evidence strong { color: var(--vp-c-brand-1); }
+.guide-evidence p { font-size: 11px; }
+.VPDoc .content-container { max-width: 820px !important; }
+.vp-doc h1 { font-size: clamp(32px, 3.5vw, 46px); line-height: 1.15; margin-bottom: 24px; }
+.vp-doc h2 { font-size: 28px; }
+.vp-doc h3 { font-size: 18px; letter-spacing: -.015em; }
+.vp-doc > div > p { max-width: 72ch; }
+.vp-doc .custom-block { border-radius: 3px; border-left-width: 3px; }
+.VPSidebarItem.is-active > .item { background: var(--vp-c-brand-soft); border-radius: 3px; }
+.VPSidebarItem.level-1 .item { padding-left: 10px; }
+.VPDocAsideOutline .outline-link.active { color: var(--vp-c-brand-1); }
+.VPDocFooter .pager-link { border-radius: 3px; background: var(--vp-c-bg-soft); }
+.VPLocalSearchBox .shell { border: 1px solid var(--vp-c-brand-1); border-radius: 6px; }
+.saved-guides { padding-top: 40px; }
+.saved-guides h2 { font: 28px Georgia, serif; }
+.saved-guides > div { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 20px; }
+.saved-guides a { padding: 12px 16px; border: 1px solid var(--vp-c-divider); border-radius: 3px; font-size: 13px; }
+.saved-guides a span { color: var(--vp-c-brand-1); margin-left: 14px; }
+.saved-guides > p:last-child { font-size: 11px; color: var(--vp-c-text-3); margin-top: 12px; }
+@media (max-width: 760px) { .wiki-home__hero { grid-template-columns: 1fr; padding: 32px 24px; } .wiki-home__connection { max-width: none; } .guide-tools__buttons { margin-left: 0; } }
+@media print { .VPSidebar, .VPNav, .VPDocAside, .guide-tools, .reading-progress, .VPDocFooter { display: none !important; } .VPContent { padding: 0 !important; } }

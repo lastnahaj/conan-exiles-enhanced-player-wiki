@@ -5,131 +5,382 @@
     {
       "source_key": "wov-roadmap",
       "sections": [
-        { "name": "v0.1.0 Foundation player milestones", "local_pages": ["/progression/wings-of-valhalla"] },
-        { "name": "v0.2 Systems and Tools player milestones", "local_pages": ["/progression/wings-of-valhalla"] },
-        { "name": "v0.3 Progression and Content player milestones", "local_pages": ["/progression/wings-of-valhalla"] },
-        { "name": "v0.3+ Content and Expansion player milestones", "local_pages": ["/progression/wings-of-valhalla"] }
+        {
+          "name": "v0.1.0 Foundation player milestones",
+          "local_pages": [
+            "/progression/wings-of-valhalla"
+          ]
+        },
+        {
+          "name": "v0.2 Systems and Tools player milestones",
+          "local_pages": [
+            "/progression/wings-of-valhalla"
+          ]
+        },
+        {
+          "name": "v0.3 Progression and Content player milestones",
+          "local_pages": [
+            "/progression/wings-of-valhalla"
+          ]
+        },
+        {
+          "name": "v0.3+ Content and Expansion player milestones",
+          "local_pages": [
+            "/progression/wings-of-valhalla"
+          ]
+        }
       ],
       "publication_boundary": "Administrator panels, APIs, gameplay tags, save migration, and other development systems are excluded. Roadmap entries are labeled as planned or in progress, never live server facts."
     },
     {
       "source_key": "wov-kaali-guide",
       "sections": [
-        { "name": "Professions and benches tab", "local_pages": ["/progression/wov-professions-hub", "/progression/wov-professions-benches-reference"] },
-        { "name": "Crafts tab", "local_pages": ["/crafting/wov-crafting-reference"] },
-        { "name": "Tools, weapons, and runes tab", "local_pages": ["/combat/wov-arsenals-armor", "/combat/wov-runes-weapons-reference"] },
-        { "name": "Armors tab", "local_pages": ["/combat/wov-arsenals-armor", "/combat/wov-armor-reference"] },
-        { "name": "Armor Stats tab", "local_pages": ["/combat/wov-armor-reference"] },
-        { "name": "Pets tab", "local_pages": ["/followers/wov-companions", "/followers/wov-creatures-reference"] },
-        { "name": "Thralls tab", "local_pages": ["/followers/wov-thralls-reference"] },
-        { "name": "Bosses tab", "local_pages": ["/quests/wov-bosses-reference"] },
-        { "name": "Map Additions tab", "local_pages": ["/crafting/wov-storage-resources", "/travel/wov-world-reference"] }
+        {
+          "name": "Professions and benches tab",
+          "local_pages": [
+            "/progression/wov-professions-hub",
+            "/progression/wov-professions-benches-reference"
+          ]
+        },
+        {
+          "name": "Crafts tab",
+          "local_pages": [
+            "/crafting/wov-crafting-reference"
+          ]
+        },
+        {
+          "name": "Tools, weapons, and runes tab",
+          "local_pages": [
+            "/combat/wov-arsenals-armor",
+            "/combat/wov-runes-weapons-reference"
+          ]
+        },
+        {
+          "name": "Armors tab",
+          "local_pages": [
+            "/combat/wov-arsenals-armor",
+            "/combat/wov-armor-reference"
+          ]
+        },
+        {
+          "name": "Armor Stats tab",
+          "local_pages": [
+            "/combat/wov-armor-reference"
+          ]
+        },
+        {
+          "name": "Pets tab",
+          "local_pages": [
+            "/followers/wov-companions",
+            "/followers/wov-creatures-reference"
+          ]
+        },
+        {
+          "name": "Thralls tab",
+          "local_pages": [
+            "/followers/wov-thralls-reference"
+          ]
+        },
+        {
+          "name": "Bosses tab",
+          "local_pages": [
+            "/quests/wov-bosses-reference"
+          ]
+        },
+        {
+          "name": "Map Additions tab",
+          "local_pages": [
+            "/crafting/wov-storage-resources",
+            "/travel/wov-world-reference"
+          ]
+        }
       ],
       "publication_boundary": "Every ordinary-player section is local. Legacy values and locations are explicitly historical. Administrator fields, spawn identifiers, private replacement logic, private spaces, commands, and admin-only entries are excluded."
     },
     {
       "source_key": "domains-magic-guide",
       "sections": [
-        { "name": "Casting and scaling", "local_pages": ["/magic/domain-magic"] },
-        { "name": "Ember spells", "local_pages": ["/magic/domain-magic"] },
-        { "name": "Arctic spells", "local_pages": ["/magic/domain-magic"] },
-        { "name": "Umbra spells", "local_pages": ["/magic/domain-magic"] },
-        { "name": "Radiant spells", "local_pages": ["/magic/domain-magic"] },
-        { "name": "Voltaic spells", "local_pages": ["/magic/domain-magic"] },
-        { "name": "Sanguine spells and Frenzy", "local_pages": ["/magic/domain-magic"] },
-        { "name": "Element progression and player controls", "local_pages": ["/magic/domain-magic"] },
-        { "name": "Troubleshooting and interactions", "local_pages": ["/magic/domain-magic", "/getting-started/mod-troubleshooting"] }
+        {
+          "name": "Casting and scaling",
+          "local_pages": [
+            "/magic/domain-magic"
+          ]
+        },
+        {
+          "name": "Ember spells",
+          "local_pages": [
+            "/magic/domain-magic"
+          ]
+        },
+        {
+          "name": "Arctic spells",
+          "local_pages": [
+            "/magic/domain-magic"
+          ]
+        },
+        {
+          "name": "Umbra spells",
+          "local_pages": [
+            "/magic/domain-magic"
+          ]
+        },
+        {
+          "name": "Radiant spells",
+          "local_pages": [
+            "/magic/domain-magic"
+          ]
+        },
+        {
+          "name": "Voltaic spells",
+          "local_pages": [
+            "/magic/domain-magic"
+          ]
+        },
+        {
+          "name": "Sanguine spells and Frenzy",
+          "local_pages": [
+            "/magic/domain-magic"
+          ]
+        },
+        {
+          "name": "Element progression and player controls",
+          "local_pages": [
+            "/magic/domain-magic"
+          ]
+        },
+        {
+          "name": "Troubleshooting and interactions",
+          "local_pages": [
+            "/magic/domain-magic",
+            "/getting-started/mod-troubleshooting"
+          ]
+        }
       ],
       "publication_boundary": "Server-configurable values are identified as published defaults rather than guaranteed server settings."
     },
     {
       "source_key": "exiles-extreme-site",
       "sections": [
-        { "name": "Player content categories", "local_pages": ["/combat/exiles-extreme"] }
+        {
+          "name": "Player content categories",
+          "local_pages": [
+            "/combat/exiles-extreme"
+          ]
+        }
       ],
       "publication_boundary": "Hidden, internal, administrator-only, and adult-only material is excluded."
     },
     {
       "source_key": "exiles-extreme-items",
       "sections": [
-        { "name": "Craftable item catalog", "local_pages": ["/combat/exiles-extreme"] }
+        {
+          "name": "Craftable item catalog",
+          "local_pages": [
+            "/combat/exiles-extreme"
+          ]
+        }
       ],
       "publication_boundary": "The local searchable catalog includes public craftable, non-hidden, player-safe entries only."
     },
     {
       "source_key": "exiles-extreme-armor",
       "sections": [
-        { "name": "Armor catalog", "local_pages": ["/combat/exiles-extreme"] }
+        {
+          "name": "Armor catalog",
+          "local_pages": [
+            "/combat/exiles-extreme"
+          ]
+        }
       ]
     },
     {
       "source_key": "exiles-extreme-accessories",
       "sections": [
-        { "name": "Accessory catalog", "local_pages": ["/combat/exiles-extreme"] }
+        {
+          "name": "Accessory catalog",
+          "local_pages": [
+            "/combat/exiles-extreme"
+          ]
+        }
       ],
       "publication_boundary": "Adult-only accessories are excluded."
     },
     {
       "source_key": "exiles-extreme-placeables",
       "sections": [
-        { "name": "Placeable catalog", "local_pages": ["/combat/exiles-extreme"] }
+        {
+          "name": "Placeable catalog",
+          "local_pages": [
+            "/combat/exiles-extreme"
+          ]
+        }
       ],
       "publication_boundary": "Adult-only and hidden placeables are excluded."
     },
     {
       "source_key": "testerle-site",
       "sections": [
-        { "name": "Enhanced mod identity index", "local_pages": ["/reference/mod-directory"] },
-        { "name": "Shared player troubleshooting", "local_pages": ["/getting-started/mod-troubleshooting"] }
+        {
+          "name": "Enhanced mod identity index",
+          "local_pages": [
+            "/reference/mod-directory"
+          ]
+        },
+        {
+          "name": "Shared player troubleshooting",
+          "local_pages": [
+            "/getting-started/mod-troubleshooting"
+          ]
+        }
       ],
       "publication_boundary": "Downloads, donations, administrator interfaces, and author support-channel material are not required for ordinary play."
     },
     {
       "source_key": "testerle-unlock-plus-qa",
       "sections": [
-        { "name": "Opening player settings", "local_pages": ["/building/unlock-plus", "/getting-started/mod-troubleshooting"] },
-        { "name": "Sorcery bench lock display", "local_pages": ["/building/unlock-plus"] },
-        { "name": "Private chest access", "local_pages": ["/building/unlock-plus"] }
+        {
+          "name": "Opening player settings",
+          "local_pages": [
+            "/building/unlock-plus",
+            "/getting-started/mod-troubleshooting"
+          ]
+        },
+        {
+          "name": "Sorcery bench lock display",
+          "local_pages": [
+            "/building/unlock-plus"
+          ]
+        },
+        {
+          "name": "Private chest access",
+          "local_pages": [
+            "/building/unlock-plus"
+          ]
+        }
       ],
       "publication_boundary": "Administrator mode, downloads, donations, and support-channel material are excluded."
     },
     {
       "source_key": "testerle-better-thralls-qa",
       "sections": [
-        { "name": "Opening player settings", "local_pages": ["/followers/better-thralls", "/getting-started/mod-troubleshooting"] },
-        { "name": "Activation and update troubleshooting", "local_pages": ["/getting-started/mod-troubleshooting"] },
-        { "name": "Current follow action", "local_pages": ["/followers/better-thralls"] },
-        { "name": "Multiple follower requirements and groups", "local_pages": ["/followers/better-thralls"] },
-        { "name": "Follower XP and statistics", "local_pages": ["/followers/better-thralls"] },
-        { "name": "Lamplighter identification", "local_pages": ["/followers/better-thralls"] }
+        {
+          "name": "Opening player settings",
+          "local_pages": [
+            "/followers/better-thralls",
+            "/getting-started/mod-troubleshooting"
+          ]
+        },
+        {
+          "name": "Activation and update troubleshooting",
+          "local_pages": [
+            "/getting-started/mod-troubleshooting"
+          ]
+        },
+        {
+          "name": "Current follow action",
+          "local_pages": [
+            "/followers/better-thralls"
+          ]
+        },
+        {
+          "name": "Multiple follower requirements and groups",
+          "local_pages": [
+            "/followers/better-thralls"
+          ]
+        },
+        {
+          "name": "Follower XP and statistics",
+          "local_pages": [
+            "/followers/better-thralls"
+          ]
+        },
+        {
+          "name": "Lamplighter identification",
+          "local_pages": [
+            "/followers/better-thralls"
+          ]
+        }
       ],
       "publication_boundary": "Administrator mode, internal cache repair, downloads, donations, and support-channel material are excluded."
     },
     {
       "source_key": "testerle-fashionist-qa",
       "sections": [
-        { "name": "Opening player settings", "local_pages": ["/qol/fashionist", "/getting-started/mod-troubleshooting"] },
-        { "name": "Hair physics and character size", "local_pages": ["/qol/fashionist"] },
-        { "name": "Zero-health placed objects", "local_pages": ["/qol/fashionist"] }
+        {
+          "name": "Opening player settings",
+          "local_pages": [
+            "/qol/fashionist",
+            "/getting-started/mod-troubleshooting"
+          ]
+        },
+        {
+          "name": "Hair physics and character size",
+          "local_pages": [
+            "/qol/fashionist"
+          ]
+        },
+        {
+          "name": "Zero-health placed objects",
+          "local_pages": [
+            "/qol/fashionist"
+          ]
+        }
       ],
       "publication_boundary": "Administrator mode, downloads, donations, and support-channel material are excluded."
     },
     {
       "source_key": "testerle-fashionist-configuration",
       "sections": [
-        { "name": "Opening and saving player settings", "local_pages": ["/qol/fashionist"] },
-        { "name": "Disabled feature indicators", "local_pages": ["/qol/fashionist"] },
-        { "name": "Attached weapon and tool visibility", "local_pages": ["/qol/fashionist"] },
-        { "name": "Per-category display positions", "local_pages": ["/qol/fashionist"] }
+        {
+          "name": "Opening and saving player settings",
+          "local_pages": [
+            "/qol/fashionist"
+          ]
+        },
+        {
+          "name": "Disabled feature indicators",
+          "local_pages": [
+            "/qol/fashionist"
+          ]
+        },
+        {
+          "name": "Attached weapon and tool visibility",
+          "local_pages": [
+            "/qol/fashionist"
+          ]
+        },
+        {
+          "name": "Per-category display positions",
+          "local_pages": [
+            "/qol/fashionist"
+          ]
+        }
       ],
       "publication_boundary": "The source's administrator configuration is excluded from the public wiki."
     },
     {
       "source_key": "owner-wov-valkyrie-stats-2026-08-25",
       "sections": [
-        { "name": "Seven location-based level 0 stat captures", "local_pages": ["/followers/wov-valkyrie-stats"] }
+        {
+          "name": "Seven location-based level 0 stat captures",
+          "local_pages": [
+            "/followers/wov-valkyrie-stats"
+          ]
+        }
       ],
       "publication_boundary": "Only the visible player-facing follower-stat panels are published."
+    },
+    {
+      "source_key": "funcom-enhanced-art",
+      "sections": [
+        {
+          "name": "Official Enhanced illustrative artwork",
+          "local_pages": [
+            "/"
+          ]
+        }
+      ],
+      "publication_boundary": "Illustrative artwork does not establish server content."
     }
   ]
 }

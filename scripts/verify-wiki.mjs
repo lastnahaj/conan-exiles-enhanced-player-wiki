@@ -126,7 +126,9 @@ if (!sourcesRegistry || !Array.isArray(sourcesRegistry.sources)) {
     if (!source.kind || !source.edition_scope || !source.use) {
       errors.push(`Source ${source.key ?? "unknown"} lacks role or edition metadata.`);
     }
-    if (!Array.isArray(source.mod_ids) || source.mod_ids.length === 0) {
+    const publisherMedia = source.kind === "publisher-media" && source.game_id === "440900"
+      && source.url === "https://www.conanexiles.com/enhanced/";
+    if (!Array.isArray(source.mod_ids) || (source.mod_ids.length === 0 && !publisherMedia)) {
       errors.push(`Source ${source.key ?? "unknown"} has no associated mod ID.`);
     }
     for (const modId of source.mod_ids ?? []) {

@@ -8,7 +8,9 @@
       "kind": "steam-workshop",
       "status": "checked",
       "edition_scope": "enhanced",
-      "mod_ids": ["3719546290"],
+      "mod_ids": [
+        "3719546290"
+      ],
       "use": "Canonical identity and current player features"
     },
     {
@@ -17,7 +19,9 @@
       "kind": "steam-workshop",
       "status": "checked",
       "edition_scope": "enhanced",
-      "mod_ids": ["3719585133"],
+      "mod_ids": [
+        "3719585133"
+      ],
       "use": "Canonical identity, tracked information, and interface controls"
     },
     {
@@ -26,7 +30,9 @@
       "kind": "steam-workshop",
       "status": "checked",
       "edition_scope": "enhanced",
-      "mod_ids": ["3720753923"],
+      "mod_ids": [
+        "3720753923"
+      ],
       "use": "Canonical identity, collision behavior, and player settings"
     },
     {
@@ -35,7 +41,9 @@
       "kind": "steam-workshop",
       "status": "checked",
       "edition_scope": "enhanced",
-      "mod_ids": ["3720948133"],
+      "mod_ids": [
+        "3720948133"
+      ],
       "use": "Canonical identity and current Enhanced feature scope"
     },
     {
@@ -44,7 +52,9 @@
       "kind": "steam-workshop",
       "status": "checked",
       "edition_scope": "enhanced",
-      "mod_ids": ["3720904511"],
+      "mod_ids": [
+        "3720904511"
+      ],
       "use": "Canonical identity and current Enhanced follower features"
     },
     {
@@ -53,7 +63,9 @@
       "kind": "steam-workshop",
       "status": "checked",
       "edition_scope": "enhanced",
-      "mod_ids": ["3719513784"],
+      "mod_ids": [
+        "3719513784"
+      ],
       "use": "Canonical identity, minimap features, and controls"
     },
     {
@@ -62,7 +74,9 @@
       "kind": "steam-workshop",
       "status": "checked",
       "edition_scope": "enhanced",
-      "mod_ids": ["3720915336"],
+      "mod_ids": [
+        "3720915336"
+      ],
       "use": "Canonical identity and configurable stack behavior"
     },
     {
@@ -71,7 +85,9 @@
       "kind": "steam-workshop",
       "status": "checked",
       "edition_scope": "enhanced",
-      "mod_ids": ["3720921242"],
+      "mod_ids": [
+        "3720921242"
+      ],
       "use": "Canonical identity and current Enhanced cosmetic features"
     },
     {
@@ -80,7 +96,9 @@
       "kind": "steam-workshop",
       "status": "checked",
       "edition_scope": "enhanced",
-      "mod_ids": ["3718878457"],
+      "mod_ids": [
+        "3718878457"
+      ],
       "use": "Canonical identity, health-bar settings, and controls"
     },
     {
@@ -89,7 +107,9 @@
       "kind": "steam-workshop",
       "status": "checked",
       "edition_scope": "enhanced",
-      "mod_ids": ["3718830483"],
+      "mod_ids": [
+        "3718830483"
+      ],
       "use": "Canonical identity and travel-shelf behavior"
     },
     {
@@ -98,7 +118,9 @@
       "kind": "steam-workshop",
       "status": "checked",
       "edition_scope": "enhanced",
-      "mod_ids": ["3724192567"],
+      "mod_ids": [
+        "3724192567"
+      ],
       "use": "Canonical identity, current casting systems, and player aura control"
     },
     {
@@ -107,7 +129,9 @@
       "kind": "steam-workshop",
       "status": "checked",
       "edition_scope": "enhanced",
-      "mod_ids": ["3755091710"],
+      "mod_ids": [
+        "3755091710"
+      ],
       "use": "Canonical identity and configurable building capabilities"
     },
     {
@@ -116,7 +140,9 @@
       "kind": "steam-workshop",
       "status": "checked",
       "edition_scope": "enhanced",
-      "mod_ids": ["3721151274"],
+      "mod_ids": [
+        "3721151274"
+      ],
       "use": "Canonical identity and player-content categories"
     },
     {
@@ -125,7 +151,9 @@
       "kind": "steam-workshop",
       "status": "checked",
       "edition_scope": "enhanced",
-      "mod_ids": ["3720737911"],
+      "mod_ids": [
+        "3720737911"
+      ],
       "use": "Canonical identity and follower-stat fields"
     },
     {
@@ -134,7 +162,9 @@
       "kind": "steam-workshop",
       "status": "checked",
       "edition_scope": "enhanced",
-      "mod_ids": ["3718199031"],
+      "mod_ids": [
+        "3718199031"
+      ],
       "use": "Canonical identity and documented player system map"
     },
     {
@@ -143,7 +173,9 @@
       "kind": "steam-workshop",
       "status": "checked",
       "edition_scope": "enhanced",
-      "mod_ids": ["3720326124"],
+      "mod_ids": [
+        "3720326124"
+      ],
       "use": "Canonical identity and standalone progression design"
     },
     {
@@ -152,7 +184,9 @@
       "kind": "steam-workshop",
       "status": "checked",
       "edition_scope": "enhanced",
-      "mod_ids": ["3719965485"],
+      "mod_ids": [
+        "3719965485"
+      ],
       "use": "Canonical identity and current documented live-build systems"
     },
     {
@@ -161,7 +195,9 @@
       "kind": "steam-workshop",
       "status": "checked",
       "edition_scope": "enhanced",
-      "mod_ids": ["3721036709"],
+      "mod_ids": [
+        "3721036709"
+      ],
       "use": "Canonical identity and equipment-module scope"
     },
     {
@@ -170,7 +206,9 @@
       "kind": "steam-workshop",
       "status": "checked",
       "edition_scope": "enhanced",
-      "mod_ids": ["3725018456"],
+      "mod_ids": [
+        "3725018456"
+      ],
       "use": "Canonical identity and names of potentially player-visible systems"
     },
     {
@@ -179,7 +217,9 @@
       "kind": "steam-workshop",
       "status": "checked",
       "edition_scope": "enhanced",
-      "mod_ids": ["3721926604"],
+      "mod_ids": [
+        "3721926604"
+      ],
       "use": "Canonical identity and broad player-content categories"
     },
     {
@@ -188,7 +228,10 @@
       "kind": "author-site",
       "status": "checked",
       "edition_scope": "enhanced-roadmap",
-      "mod_ids": ["3719965485", "3721036709"],
+      "mod_ids": [
+        "3719965485",
+        "3721036709"
+      ],
       "use": "Roadmap context only; planned work is not presented as live"
     },
     {
@@ -197,7 +240,10 @@
       "kind": "author-linked-guide",
       "status": "author-linked",
       "edition_scope": "mixed-history",
-      "mod_ids": ["3719965485", "3721036709"],
+      "mod_ids": [
+        "3719965485",
+        "3721036709"
+      ],
       "use": "Player workflows migrated into local WoV guides; historical details are labeled and current Enhanced sources take precedence"
     },
     {
@@ -206,7 +252,9 @@
       "kind": "author-linked-guide",
       "status": "author-linked",
       "edition_scope": "enhanced",
-      "mod_ids": ["3724192567"],
+      "mod_ids": [
+        "3724192567"
+      ],
       "use": "Complete spell, casting, progression, controls, and troubleshooting reference migrated into the local Domain's Magic guide"
     },
     {
@@ -215,7 +263,9 @@
       "kind": "author-site",
       "status": "checked",
       "edition_scope": "current-catalog",
-      "mod_ids": ["3721151274"],
+      "mod_ids": [
+        "3721151274"
+      ],
       "use": "Official catalog home"
     },
     {
@@ -224,7 +274,9 @@
       "kind": "author-catalog",
       "status": "checked",
       "edition_scope": "current-catalog",
-      "mod_ids": ["3721151274"],
+      "mod_ids": [
+        "3721151274"
+      ],
       "use": "Catalog lookup filtered to verified ordinary-player content"
     },
     {
@@ -233,7 +285,9 @@
       "kind": "author-catalog",
       "status": "checked",
       "edition_scope": "current-catalog",
-      "mod_ids": ["3721151274"],
+      "mod_ids": [
+        "3721151274"
+      ],
       "use": "Armor categories"
     },
     {
@@ -242,7 +296,9 @@
       "kind": "author-catalog",
       "status": "checked",
       "edition_scope": "current-catalog",
-      "mod_ids": ["3721151274"],
+      "mod_ids": [
+        "3721151274"
+      ],
       "use": "Player-safe accessory categories only"
     },
     {
@@ -251,7 +307,9 @@
       "kind": "author-catalog",
       "status": "checked",
       "edition_scope": "current-catalog",
-      "mod_ids": ["3721151274"],
+      "mod_ids": [
+        "3721151274"
+      ],
       "use": "Placeable categories"
     },
     {
@@ -260,7 +318,12 @@
       "kind": "author-site",
       "status": "checked",
       "edition_scope": "mixed-editions",
-      "mod_ids": ["3720948133", "3720904511", "3720915336", "3720921242"],
+      "mod_ids": [
+        "3720948133",
+        "3720904511",
+        "3720915336",
+        "3720921242"
+      ],
       "use": "Author index; Enhanced Workshop pages remain the identity and feature baseline"
     },
     {
@@ -269,7 +332,9 @@
       "kind": "author-guide",
       "status": "checked",
       "edition_scope": "predates-enhanced",
-      "mod_ids": ["3720948133"],
+      "mod_ids": [
+        "3720948133"
+      ],
       "use": "Supporting interface reference only when consistent with the Enhanced page"
     },
     {
@@ -278,7 +343,9 @@
       "kind": "author-guide",
       "status": "checked",
       "edition_scope": "predates-enhanced",
-      "mod_ids": ["3720904511"],
+      "mod_ids": [
+        "3720904511"
+      ],
       "use": "Supporting troubleshooting context only when consistent with the Enhanced page"
     },
     {
@@ -287,7 +354,9 @@
       "kind": "author-guide",
       "status": "checked",
       "edition_scope": "predates-enhanced",
-      "mod_ids": ["3720921242"],
+      "mod_ids": [
+        "3720921242"
+      ],
       "use": "Supporting feature context only when consistent with the Enhanced page"
     },
     {
@@ -296,7 +365,9 @@
       "kind": "author-guide",
       "status": "checked",
       "edition_scope": "predates-enhanced",
-      "mod_ids": ["3720921242"],
+      "mod_ids": [
+        "3720921242"
+      ],
       "use": "Supporting player-control context only when consistent with the Enhanced page"
     },
     {
@@ -305,8 +376,20 @@
       "kind": "owner-supplied-server-screenshot",
       "status": "checked",
       "edition_scope": "server-capture",
-      "mod_ids": ["3719965485"],
+      "mod_ids": [
+        "3719965485"
+      ],
       "use": "Level 0 Valkyrie attributes, growth chances, bonuses, and health by location"
+    },
+    {
+      "key": "funcom-enhanced-art",
+      "url": "https://www.conanexiles.com/enhanced/",
+      "kind": "publisher-media",
+      "game_id": "440900",
+      "status": "checked",
+      "edition_scope": "enhanced",
+      "mod_ids": [],
+      "use": "Official Enhanced illustrative artwork."
     }
   ]
 }

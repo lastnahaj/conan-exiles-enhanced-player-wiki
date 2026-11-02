@@ -8,6 +8,7 @@ const guides = [
   { number: "05", title: "Establish your base", text: "Building placement, inventory handling, and storage.", link: "/building/", tag: "BUILDING" },
   { number: "06", title: "Explore the world", text: "Travel systems, bounties, encounters, and resources.", link: "/travel/", tag: "EXPLORATION" },
 ];
+const artwork = ["ANC_Vista_Aqueduct","ANC_Harvesting","ANC_PvP","ANC_Thalls","ANC_PlayerBase","ANC_Vista_Sepermeru"];
 const shortcuts = [
   ["Required mods", "/getting-started/required-mods"],
   ["Player controls", "/reference/player-controls"],
@@ -19,7 +20,7 @@ const shortcuts = [
 
 <template>
   <div class="wiki-home">
-    <section class="wiki-home__hero">
+    <section class="wiki-home__hero" :style="{ backgroundImage: 'linear-gradient(90deg, rgba(15,17,17,.97), rgba(15,17,17,.55)), url(' + withBase('/media/enhanced/ANC_Vista_Sepermeru.jpg') + ')' }">
       <div class="wiki-home__intro">
         <p class="wiki-home__eyebrow">CONAN EXILES ENHANCED / PLAYER WIKI</p>
         <h1>Know the world.<br /><em>Survive the Exile.</em></h1>
@@ -46,12 +47,13 @@ const shortcuts = [
     <section class="wiki-home__browse">
       <div class="wiki-home__section-title"><div><p class="wiki-home__eyebrow">THE FIELD GUIDE</p><h2>Choose your path</h2></div><p>Find what you need. Get back to the game.</p></div>
       <div class="wiki-home__grid">
-        <a v-for="guide in guides" :key="guide.number" class="wiki-home__card" :href="withBase(guide.link)">
-          <div class="wiki-home__card-top"><span>{{ guide.tag }}</span><span>{{ guide.number }}</span></div>
+        <a v-for="(guide, index) in guides" :key="guide.number" class="wiki-home__card" :href="withBase(guide.link)">
+          <img class="wiki-home__card-image" :src="withBase('/media/enhanced/' + artwork[index] + '.jpg')" alt="" loading="lazy" /><div class="wiki-home__card-top"><span>{{ guide.tag }}</span><span>{{ guide.number }}</span></div>
           <h3>{{ guide.title }}</h3><p>{{ guide.text }}</p><span class="wiki-home__card-arrow" aria-hidden="true">↗</span>
         </a>
       </div>
     </section>
+    <SavedGuides />
     <section class="wiki-home__feature">
       <div><p class="wiki-home__eyebrow">WINGS OF VALHALLA</p><h2>A deeper progression path.</h2><p>Explore professions, equipment, companions, and the systems that connect them.</p></div>
       <a :href="withBase('/progression/wings-of-valhalla')">Open the WoV guide <span aria-hidden="true">→</span></a>
