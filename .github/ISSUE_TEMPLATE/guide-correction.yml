@@ -1,0 +1,23 @@
+name: Guide correction
+description: Report an outdated value, missing step, or incorrect player instruction.
+title: "Guide correction: "
+body:
+  - type: input
+    id: page
+    attributes:
+      label: Guide URL
+      placeholder: "https://lastnahaj.github.io/conan-exiles-enhanced-player-wiki/..."
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: What needs correcting?
+      description: Describe the instruction or value and what you observed in game.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Supporting details
+      description: Add a player-visible screenshot, mod version, or public documentation link when available. Do not include passwords or private server settings.

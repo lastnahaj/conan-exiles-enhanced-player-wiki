@@ -72,3 +72,11 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+      - name: Check out published site checks
+        uses: actions/checkout@v4
+      - name: Set up deployment verification
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Verify published pages and assets
+        run: node scripts/check-deployment.mjs "${{ steps.deployment.outputs.page_url }}"

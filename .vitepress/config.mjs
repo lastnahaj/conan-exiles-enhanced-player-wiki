@@ -12,6 +12,17 @@ const config = defineConfig({
   title: "Conan Exiles Enhanced — Player Wiki",
   description: "Player guide for a 5x rates, hardcore full-PvP Conan Exiles Enhanced server.",
   cleanUrls: true,
+  markdown: {
+    config(md) {
+      md.core.ruler.push("guide-intro", state => {
+        const index = state.tokens.findIndex(token => token.type === "heading_close" && token.tag === "h1");
+        if (index < 0) return;
+        const token = new state.Token("html_block", "", 0);
+        token.content = "<ArticleIntro />\n";
+        state.tokens.splice(index + 1, 0, token);
+      });
+    },
+  },
   lastUpdated: true,
   appearance: "dark",
   vite: {

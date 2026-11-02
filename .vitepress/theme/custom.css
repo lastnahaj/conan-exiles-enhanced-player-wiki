@@ -336,3 +336,21 @@ body { font-family: "Segoe UI", Arial, sans-serif; }
 .guide-contribute p { font-size: 12px; color: var(--vp-c-text-3); margin: 4px 0 0; }
 .guide-contribute > div:last-child { display: grid; gap: 8px; flex-shrink: 0; font-size: 11px; color: var(--vp-c-brand-1); }
 @media (max-width: 700px) { .directory-filters, .directory-results { grid-template-columns: 1fr; } .guide-contribute { align-items: start; flex-direction: column; } }
+
+.article-intro { margin: 24px 0 30px; padding: 18px 20px; border: 1px solid var(--vp-c-divider); border-radius: 4px; background: var(--vp-c-bg-soft); }
+.article-intro__label { display: flex; justify-content: space-between; gap: 16px; font-size: 10px; letter-spacing: .08em; color: var(--vp-c-text-3); }
+.article-intro__label span:first-child { color: var(--vp-c-brand-1); font-weight: 600; }
+.article-intro nav { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 0 24px; margin-top: 10px; }
+.article-intro a { display: flex; justify-content: space-between; align-items: baseline; gap: 12px; border-bottom: 1px solid var(--vp-c-divider); padding: 9px 0; font-size: 12px; line-height: 1.6; color: var(--vp-c-text-1); text-decoration: none !important; }
+.article-intro a:hover { color: var(--vp-c-brand-1); }
+.article-intro a span { color: var(--vp-c-brand-1); }
+.related-guides { margin-top: 44px; }
+.related-guides__eyebrow { color: var(--vp-c-text-3); font-size: 10px; font-weight: 600; letter-spacing: .12em; margin-bottom: 18px; }
+.related-guides__grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; }
+.related-guides__grid > a { display: flex; flex-direction: column; padding: 20px; border: 1px solid var(--vp-c-divider); border-radius: 4px; color: var(--vp-c-text-1); }
+.related-guides__grid > a:hover { border-color: var(--vp-c-brand-1); background: var(--vp-c-bg-soft); }
+.related-guides__grid strong { font: 20px/1.35 Georgia, serif; }
+.related-guides__grid p { font-size: 12px; color: var(--vp-c-text-2); line-height: 1.7; margin: 12px 0 20px; }
+.related-guides__grid a > span { margin-top: auto; color: var(--vp-c-text-3); font-size: 10px; }
+.related-guides__grid a > span > span { float: right; color: var(--vp-c-brand-1); }
+@media (max-width: 640px) { .article-intro nav, .related-guides__grid { grid-template-columns: 1fr; } }

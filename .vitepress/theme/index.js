@@ -1,6 +1,7 @@
 import DefaultTheme from "vitepress/theme";
 import WikiHome from "./components/WikiHome.vue";
 import GuideTools from "./components/GuideTools.vue";
+import ArticleIntro from "./components/ArticleIntro.vue";
 import GuideDirectory from "./components/GuideDirectory.vue";
 import GuideFooter from "./components/GuideFooter.vue";
 import ImageViewer from "./components/ImageViewer.vue";
@@ -21,6 +22,7 @@ export default {
   }),
   enhanceApp({ app }) {
     app.component("WikiHome", WikiHome);
+    app.component("ArticleIntro", ArticleIntro);
     app.component("GuideDirectory", GuideDirectory);
     app.component("SavedGuides", SavedGuides);
     app.component("ExilesExtremeCatalog", ExilesExtremeCatalog);
