@@ -42,6 +42,7 @@ const shortcuts = [
     </section>
     <nav class="wiki-home__quick" aria-label="Frequently used guides">
       <span>QUICK ACCESS</span>
+      <a :href="withBase('/guides/')">All guides</a>
       <a v-for="[title, link] in shortcuts" :key="link" :href="withBase(link)">{{ title }}</a>
     </nav>
     <section class="wiki-home__browse">

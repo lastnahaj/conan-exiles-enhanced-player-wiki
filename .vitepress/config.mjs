@@ -54,6 +54,7 @@ const config = defineConfig({
     },
     nav: [
       { text: "Start Here", link: "/getting-started/" },
+      { text: "Guide Library", link: "/guides/" },
       { text: "Server Status", link: "/server-status/" },
       { text: "Systems", link: "/progression/" },
       { text: "Player Controls", link: "/reference/player-controls" },
@@ -221,4 +222,21 @@ config.themeConfig.sidebar.find(group => group.text === "Reference").items.push(
   text: "Development Roadmap",
   link: "/reference/wov-roadmap",
 });
+const sections = config.themeConfig.sidebar;
+const grouped = [
+  ["Getting Started", ["Getting Started", "Server"]],
+  ["Character & Combat", ["Progression", "Combat & Equipment", "Magic"]],
+  ["Followers", ["Followers"]],
+  ["Crafting & Building", ["Crafting & Resources", "Building"]],
+  ["World & Activities", ["Travel & Exploration", "Quests & World Content", "Economy", "Creatures & Bosses"]],
+  ["Interface & Tools", ["Quality of Life"]],
+  ["Reference", ["Reference"]],
+  ["Legacy Archive", ["Legacy Archive"]],
+];
+config.themeConfig.sidebar = grouped.map(([text, categories]) => ({
+  text,
+  collapsed: text !== "Getting Started",
+  items: sections.filter(section => categories.includes(section.text)).flatMap(section => section.items),
+}));
+config.themeConfig.sidebar[0].items.unshift({ text: "Guide Library", link: "/guides/" });
 export default config;

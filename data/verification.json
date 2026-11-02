@@ -1,6 +1,12 @@
 {
   "schema_version": 1,
   "pages": {
+    "/guides/": {
+      "status": "verified",
+      "verified_at": "2026-11-02",
+      "source_urls": [],
+      "notes": "Navigation index generated from local player-guide metadata."
+    },
     "/": {
       "status": "verified",
       "verified_at": "2026-08-24",
