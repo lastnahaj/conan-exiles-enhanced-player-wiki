@@ -9,4 +9,6 @@ verification: verified
 <ServerStatus />
 
 Connect to `15.204.96.41:7785`. The status feed checks the server's public Steam query response
-every five minutes. The player list appears when the server exposes it.
+approximately every five minutes. Scheduling delays can occur. Responses older than 15 minutes are
+marked out of date; an old response does not establish whether the server is currently online.
+The player list appears when the server exposes it.

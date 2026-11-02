@@ -6,10 +6,18 @@ verification: server-verification-required
 
 # Quests & World Content
 
-# Quests & World Content
-
 The installed content stack provides several public progression and world-content loops even though
 the server has not supplied a separate custom quest list.
+
+## Follow a WoV bounty
+
+1. Open the WoV hub and select **Bounty**.
+2. Review the target and its displayed progress.
+3. Follow the current objective shown by the tracker.
+4. Recheck progress in the hub and use its displayed reward information.
+
+For bounty-related materials, review [storage sorting](../crafting/wov-storage-resources.md).
+The historical Bounty Board is documented separately in the Legacy reference below.
 
 ## Available system guides
 

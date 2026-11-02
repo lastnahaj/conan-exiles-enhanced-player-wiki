@@ -22,7 +22,9 @@
     "/getting-started/required-mods": {
       "status": "verified",
       "verified_at": "2026-08-24",
-      "source_urls": ["https://steamcommunity.com/workshop/"],
+      "source_urls": [
+        "https://steamcommunity.com/workshop/"
+      ],
       "notes": "Canonical names and individual source URLs are maintained in data/mods.json."
     },
     "/getting-started/mod-troubleshooting": {
@@ -90,13 +92,17 @@
     "/progression/eaa-perks-level": {
       "status": "server-verification-required",
       "verified_at": "2026-08-24",
-      "source_urls": ["https://steamcommunity.com/sharedfiles/filedetails/?id=3720326124"],
+      "source_urls": [
+        "https://steamcommunity.com/sharedfiles/filedetails/?id=3720326124"
+      ],
       "notes": "Standalone EAA values are source-verified; combined live progression remains server-verification-required."
     },
     "/progression/armory-and-arsenal": {
       "status": "server-verification-required",
       "verified_at": "2026-08-24",
-      "source_urls": ["https://steamcommunity.com/sharedfiles/filedetails/?id=3718199031"],
+      "source_urls": [
+        "https://steamcommunity.com/sharedfiles/filedetails/?id=3718199031"
+      ],
       "notes": "Exact availability, acquisition, and values need live verification."
     },
     "/combat/": {
@@ -143,31 +149,41 @@
     "/combat/highmanes-arsenal": {
       "status": "server-verification-required",
       "verified_at": "2026-08-24",
-      "source_urls": ["https://steamcommunity.com/sharedfiles/filedetails/?id=3721926604"],
+      "source_urls": [
+        "https://steamcommunity.com/sharedfiles/filedetails/?id=3721926604"
+      ],
       "notes": "The complete public feature categories are incorporated; exact live recipes and item values remain server-verification-required."
     },
     "/combat/highmanes/equipment": {
       "status": "server-verification-required",
       "verified_at": "2026-08-24",
-      "source_urls": ["https://steamcommunity.com/sharedfiles/filedetails/?id=3721926604"],
+      "source_urls": [
+        "https://steamcommunity.com/sharedfiles/filedetails/?id=3721926604"
+      ],
       "notes": "Weapon, moveset, armor, clothing, selection, and crafting guidance are incorporated without invented item values."
     },
     "/combat/highmanes/accessories": {
       "status": "server-verification-required",
       "verified_at": "2026-08-24",
-      "source_urls": ["https://steamcommunity.com/sharedfiles/filedetails/?id=3721926604"],
+      "source_urls": [
+        "https://steamcommunity.com/sharedfiles/filedetails/?id=3721926604"
+      ],
       "notes": "Standard and infused accessory behavior is incorporated without invented item effects."
     },
     "/combat/highmanes/crafting-building": {
       "status": "server-verification-required",
       "verified_at": "2026-08-24",
-      "source_urls": ["https://steamcommunity.com/sharedfiles/filedetails/?id=3721926604"],
+      "source_urls": [
+        "https://steamcommunity.com/sharedfiles/filedetails/?id=3721926604"
+      ],
       "notes": "Benches, recipes, conversions, building sets, and decoration systems are incorporated without invented costs."
     },
     "/combat/highmanes/companions": {
       "status": "server-verification-required",
       "verified_at": "2026-08-24",
-      "source_urls": ["https://steamcommunity.com/sharedfiles/filedetails/?id=3721926604"],
+      "source_urls": [
+        "https://steamcommunity.com/sharedfiles/filedetails/?id=3721926604"
+      ],
       "notes": "Pet, mount, steed, saddle, and compatibility guidance is incorporated without invented acquisition routes."
     },
     "/combat/exiles-extreme": {
@@ -186,7 +202,9 @@
     "/magic/": {
       "status": "server-verification-required",
       "verified_at": "2026-08-24",
-      "source_urls": ["https://steamcommunity.com/sharedfiles/filedetails/?id=3724192567"],
+      "source_urls": [
+        "https://steamcommunity.com/sharedfiles/filedetails/?id=3724192567"
+      ],
       "notes": "Spell availability and tuning need live verification."
     },
     "/magic/domain-magic": {
@@ -256,13 +274,17 @@
     "/followers/extended-thrall-stats": {
       "status": "verified",
       "verified_at": "2026-08-24",
-      "source_urls": ["https://steamcommunity.com/sharedfiles/filedetails/?id=3720737911"],
+      "source_urls": [
+        "https://steamcommunity.com/sharedfiles/filedetails/?id=3720737911"
+      ],
       "notes": "Player interface fields are documented by the Enhanced Workshop page."
     },
     "/followers/follower-collision": {
       "status": "verified",
       "verified_at": "2026-08-24",
-      "source_urls": ["https://steamcommunity.com/sharedfiles/filedetails/?id=3720753923"],
+      "source_urls": [
+        "https://steamcommunity.com/sharedfiles/filedetails/?id=3720753923"
+      ],
       "notes": "Core player behavior is documented by the Enhanced Workshop page."
     },
     "/crafting/": {
@@ -315,7 +337,9 @@
     "/building/lbpr": {
       "status": "server-verification-required",
       "verified_at": "2026-08-24",
-      "source_urls": ["https://steamcommunity.com/sharedfiles/filedetails/?id=3755091710"],
+      "source_urls": [
+        "https://steamcommunity.com/sharedfiles/filedetails/?id=3755091710"
+      ],
       "notes": "Effective placement behavior needs live verification."
     },
     "/travel/": {
@@ -330,7 +354,9 @@
     "/travel/mystical-travel-shelf": {
       "status": "verified",
       "verified_at": "2026-08-24",
-      "source_urls": ["https://steamcommunity.com/sharedfiles/filedetails/?id=3718830483"],
+      "source_urls": [
+        "https://steamcommunity.com/sharedfiles/filedetails/?id=3718830483"
+      ],
       "notes": "Core player behavior is documented by the Workshop page."
     },
     "/travel/wov-world-reference": {
@@ -378,19 +404,25 @@
     "/qol/simple-minimap": {
       "status": "verified",
       "verified_at": "2026-08-24",
-      "source_urls": ["https://steamcommunity.com/sharedfiles/filedetails/?id=3719513784"],
+      "source_urls": [
+        "https://steamcommunity.com/sharedfiles/filedetails/?id=3719513784"
+      ],
       "notes": "Player controls are documented by the Workshop page."
     },
     "/qol/damage-meter": {
       "status": "verified",
       "verified_at": "2026-08-24",
-      "source_urls": ["https://steamcommunity.com/sharedfiles/filedetails/?id=3719585133"],
+      "source_urls": [
+        "https://steamcommunity.com/sharedfiles/filedetails/?id=3719585133"
+      ],
       "notes": "Player controls and tracked fields are documented by the Workshop page."
     },
     "/qol/proximity-party": {
       "status": "verified",
       "verified_at": "2026-08-24",
-      "source_urls": ["https://steamcommunity.com/sharedfiles/filedetails/?id=3718878457"],
+      "source_urls": [
+        "https://steamcommunity.com/sharedfiles/filedetails/?id=3718878457"
+      ],
       "notes": "Player controls are documented by the Workshop page."
     },
     "/qol/fashionist": {
@@ -406,13 +438,17 @@
     "/qol/stacksize-plus": {
       "status": "server-verification-required",
       "verified_at": "2026-08-24",
-      "source_urls": ["https://steamcommunity.com/sharedfiles/filedetails/?id=3720915336"],
+      "source_urls": [
+        "https://steamcommunity.com/sharedfiles/filedetails/?id=3720915336"
+      ],
       "notes": "Effective stack values need live verification."
     },
     "/qol/simple-modlist": {
       "status": "verified",
       "verified_at": "2026-08-24",
-      "source_urls": ["https://steamcommunity.com/sharedfiles/filedetails/?id=3719546290"],
+      "source_urls": [
+        "https://steamcommunity.com/sharedfiles/filedetails/?id=3719546290"
+      ],
       "notes": "Player interface behavior is documented by the Workshop page."
     },
     "/creatures/": {
@@ -452,7 +488,9 @@
     "/reference/mod-directory": {
       "status": "verified",
       "verified_at": "2026-08-24",
-      "source_urls": ["https://steamcommunity.com/workshop/"],
+      "source_urls": [
+        "https://steamcommunity.com/workshop/"
+      ],
       "notes": "Canonical names and individual URLs are maintained in data/mods.json."
     },
     "/reference/source-library": {
@@ -475,8 +513,18 @@
     "/reference/player-facing-server-systems": {
       "status": "server-verification-required",
       "verified_at": "2026-08-24",
-      "source_urls": ["https://steamcommunity.com/sharedfiles/filedetails/?id=3725018456"],
+      "source_urls": [
+        "https://steamcommunity.com/sharedfiles/filedetails/?id=3725018456"
+      ],
       "notes": "Ordinary-player chat, announcements, rules, kits, commands, warps, ranks, checkpoints, and clan surfaces are summarized; internal systems remain excluded."
+    },
+    "/reference/wov-roadmap": {
+      "status": "server-verification-required",
+      "verified_at": "2026-08-24",
+      "source_urls": [
+        "https://wings-of-valhalla.com/"
+      ],
+      "notes": "Historical roadmap snapshot; planned milestones are not live gameplay instructions."
     }
   }
 }

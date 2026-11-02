@@ -6,7 +6,14 @@ verification: server-verification-required
 
 # Economy
 
-# Economy
+## Find your currency and materials
+
+Open **Currency** in the WoV hub to inspect currency information. Use **Bounty** for target
+progress and **Rewards** for character milestones. These are separate interfaces: inspect the
+relevant tab before deciding which activity to pursue.
+
+For base organization, use the [sorting guide](../crafting/wov-storage-resources.md) to route
+Currency, Bounties, Gems, Keys, and other materials into their documented destinations.
 
 This is a **5x rates** server. Its required mod stack also provides these player-facing economy
 systems:

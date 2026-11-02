@@ -6,25 +6,46 @@ verification: verified
 
 # WoV Valkyrie Stats by Location
 
-These are the exact **level 0** values visible in the supplied server captures. Growth chance is the
+These **level 0 examples** record the values visible in the supplied server captures.
+They do not establish fixed attributes or growth chances for every spawn from a location. Growth chance is the
 chance for an attribute to increase when the follower levels; it is not a guaranteed final build.
 Select any image to open its full-resolution crop.
 
-## Location comparison
+## Starting attributes and health
 
-| Location | Starting attributes | Growth chances | Attribute bonuses | Health shown |
-| --- | --- | --- | --- | ---: |
-| **Asagarth** | Strength 9 · Agility 5 · Vitality 4 · Grit 15 | 65% · 60% · 55% · 80% | Strength 7% · Agility 4% · Health 2,164 · Armor 750 | 18,664 |
-| **Mountain** | Strength 9 · Agility 5 · Vitality 6 · Grit 6 | 65% · 70% · 60% · 65% | Strength 7% · Agility 4% · Health 3,247 · Armor 300 | 19,747 |
-| **Lava** | Strength 9 · Agility 5 · Vitality 5 · Grit 6 | 65% · 70% · 50% · 75% | Strength 7% · Agility 4% · Health 2,706 · Armor 300 | 19,206 |
-| **Blood — Sema the Blood Primarch** | Strength 8 · Agility 6 · Vitality 5 · Grit 4 | 70% · 50% · 65% · 75% | Strength 18% · Agility 13% · Health 2,706 · Armor 200 | 19,206 |
-| **Desert** | Strength 6 · Agility 5 · Vitality 8 · Grit 4 | 65% · 60% · 65% · 70% | Strength 4% · Agility 4% · Health 4,329 · Armor 200 | 20,829 |
-| **Jungle** | Strength 7 · Agility 2 · Vitality 7 · Grit 7 | 65% · 55% · 70% · 70% | Strength 5% · Agility 1% · Health 3,788 · Armor 350 | 20,288 |
-| **Fallen** | Strength 8 · Agility 7 · Vitality 8 · Grit 7 | 55% · 70% · 70% · 65% | Strength 6% · Agility 5% · Health 4,329 · Armor 350 | 20,829 |
+| Location | Strength | Agility | Vitality | Grit | Health shown |
+| --- | ---: | ---: | ---: | ---: | ---: |
+| **Asagarth** | 9 | 5 | 4 | 15 | 18,664 |
+| **Mountain** | 9 | 5 | 6 | 6 | 19,747 |
+| **Lava** | 9 | 5 | 5 | 6 | 19,206 |
+| **Blood — Sema the Blood Primarch** | 8 | 6 | 5 | 4 | 19,206 |
+| **Desert** | 6 | 5 | 8 | 4 | 20,829 |
+| **Jungle** | 7 | 2 | 7 | 7 | 20,288 |
+| **Fallen** | 8 | 7 | 8 | 7 | 20,829 |
 
-The growth-chance and bonus columns follow the same order as the starting attributes: **Strength,
-Agility, Vitality, and Grit**. Health and armor in the bonus column are the displayed Vitality Health
-Bonus and Grit Armor Bonus.
+## Growth chances
+
+| Location | Strength | Agility | Vitality | Grit |
+| --- | ---: | ---: | ---: | ---: |
+| **Asagarth** | 65% | 60% | 55% | 80% |
+| **Mountain** | 65% | 70% | 60% | 65% |
+| **Lava** | 65% | 70% | 50% | 75% |
+| **Blood — Sema the Blood Primarch** | 70% | 50% | 65% | 75% |
+| **Desert** | 65% | 60% | 65% | 70% |
+| **Jungle** | 65% | 55% | 70% | 70% |
+| **Fallen** | 55% | 70% | 70% | 65% |
+
+## Displayed attribute bonuses
+
+| Location | Strength damage | Agility damage | Vitality health | Grit armor |
+| --- | ---: | ---: | ---: | ---: |
+| **Asagarth** | 7% | 4% | 2,164 | 750 |
+| **Mountain** | 7% | 4% | 3,247 | 300 |
+| **Lava** | 7% | 4% | 2,706 | 300 |
+| **Blood — Sema the Blood Primarch** | 18% | 13% | 2,706 | 200 |
+| **Desert** | 4% | 4% | 4,329 | 200 |
+| **Jungle** | 5% | 1% | 3,788 | 350 |
+| **Fallen** | 6% | 5% | 4,329 | 350 |
 
 ## Full stat captures
 

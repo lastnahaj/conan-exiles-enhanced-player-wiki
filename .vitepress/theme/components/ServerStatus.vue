@@ -5,11 +5,16 @@ import { withBase } from "vitepress";
 const status = ref(null);
 const loading = ref(true);
 const copied = ref(false);
+const now = ref(Date.now());
+const stale = computed(() => {
+  const checked = Date.parse(status.value?.updatedAt ?? "");
+  return Number.isFinite(checked) && now.value - checked > 15 * 60_000;
+});
 let refreshTimer;
 
 const online = computed(() => status.value?.status === "online");
 const playerCount = computed(() => {
-  if (!online.value) return "—";
+  if (!online.value || stale.value) return "—";
   return `${status.value.players} / ${status.value.maxPlayers}`;
 });
 const updatedAt = computed(() => {
@@ -21,6 +26,7 @@ const updatedAt = computed(() => {
 });
 
 async function loadStatus() {
+  now.value = Date.now();
   try {
     const response = await fetch(`${withBase("/server-status.json")}?t=${Date.now()}`, {
       cache: "no-store",
@@ -70,7 +76,7 @@ onUnmounted(() => window.clearInterval(refreshTimer));
         :class="online ? 'server-status__badge--online' : 'server-status__badge--offline'"
       >
         <span aria-hidden="true"></span>
-        {{ loading ? "Checking" : online ? "Online" : status?.status === "offline" ? "Offline" : "Unavailable" }}
+        {{ loading ? "Checking" : stale ? "Status out of date" : online ? "Online" : status?.status === "offline" ? "Offline" : "Unavailable" }}
       </span>
     </div>
 
@@ -90,7 +96,8 @@ onUnmounted(() => window.clearInterval(refreshTimer));
       </div>
     </div>
 
-    <div v-if="online && status.playerListAvailable" class="server-status__players">
+    <p v-if="stale">The last response is more than 15 minutes old. Current availability and player counts are unknown.</p>
+    <div v-if="online && !stale && status.playerListAvailable" class="server-status__players">
       <h3>Players online</h3>
       <ul v-if="status.playerNames.length">
         <li v-for="player in status.playerNames" :key="player">{{ player }}</li>

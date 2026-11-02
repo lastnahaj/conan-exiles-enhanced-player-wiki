@@ -6,6 +6,16 @@ verification: verified
 
 # Combat & Equipment
 
+## What do you want to do?
+
+| Task | Guide |
+| --- | --- |
+| Start casting | [Magic controls and spell schools](../magic/domain-magic.md#casting-spells) |
+| Choose a weapon family | [WoV arsenals](./wov-arsenals-armor.md) |
+| Browse equipment | [Highmane weapons and armor](./highmanes/equipment.md) |
+| Develop a combat class | [Armory and Arsenal](../progression/armory-and-arsenal.md) |
+| Check combat performance | [Damage Meter](../qol/damage-meter.md) |
+
 The Enhanced stack expands combat and equipment through several major systems.
 
 ## Major systems

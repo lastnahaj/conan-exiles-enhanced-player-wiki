@@ -1,15 +1,45 @@
 ---
 title: Getting Started
-description: Confirm the server identity and required Enhanced mod stack before joining.
+description: Connect, prepare the Enhanced mod stack, and choose your first goal.
+verification: verified
 ---
 
 # Getting Started
 
-This guide is for a Conan Exiles Enhanced server with **5x rates** and **hardcore full PvP**.
+**Conan Exiles Enhanced · 5x rates · Hardcore Full PvP**
 
-## First steps
+## Connect
 
-1. Read the [server overview](./server-overview.md).
-2. Check all entries in the [required mod list](./required-mods.md) by Workshop name and ID.
-3. Use the local system guides for controls, progression, equipment, magic, followers, and crafting.
-4. If a mod or interface does not load correctly, use the local [mod troubleshooting guide](./mod-troubleshooting.md).
+Use the game's direct-connect option with **15.204.96.41:7785**. Check
+[server status](../server-status/index.md) if the connection fails.
+
+## Prepare your mods
+
+1. Check exact Workshop names and IDs in the [required mod list](./required-mods.md).
+2. Let Steam finish Workshop downloads before launching.
+3. Follow the game's server mod-matching prompts.
+4. For a mismatch, close the game, finish queued downloads, and reconnect. Follow the
+   [repair sequence](./mod-troubleshooting.md#mod-mismatch-or-version-error) if it persists.
+
+Use Enhanced versions. Similarly named Legacy items may have different behavior.
+
+## Find the controls
+
+The [player controls reference](../reference/player-controls.md) brings menu shortcuts and player
+commands together. For an absent inventory control, use
+[missing controls](./mod-troubleshooting.md#missing-inventory-side-control).
+
+## Choose your first goal
+
+| Goal | Guide | Next action |
+| --- | --- | --- |
+| Learn magic | [Domain's Magic](../magic/domain-magic.md#casting-spells) | Learn a spell, place it on the hotbar, and practice its casting loop. |
+| Unlock equipment | [WoV professions](../progression/wov-professions-hub.md) | Check the recipe's character and profession requirements in the hub. |
+| Choose a follower | [Valkyrie examples](../followers/wov-valkyrie-stats.md) | Compare attributes, then review [follower management](../followers/better-thralls.md). |
+| Organize a base | [Unlock Plus](../building/unlock-plus.md) | Configure inventory handling and explore [WoV sorting](../crafting/wov-storage-resources.md). |
+
+## Before spending rare materials
+
+Check the current in-game recipe for costs and unlock requirements. A server capture records the
+shown example; mod documentation describes published behavior; Legacy references preserve older
+systems. Historical tables are useful background, but do not establish current server values.
