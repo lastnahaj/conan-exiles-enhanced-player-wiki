@@ -2,6 +2,7 @@
 title: WoV World Areas & Meteors — Legacy Reference
 description: Local archive of the ordinary-player Portal Room, market, mine, permit, and meteor guidance.
 verification: server-verification-required
+guide: {"goal":"Consult the archived WoV World Areas & Meteors.","before":"This page preserves Legacy-era documentation. Check the current Enhanced guide before using historical routes or values.","result":"Find the historical workflow or table while keeping its edition and availability limits visible."}
 ---
 
 # WoV World Areas & Meteors — Legacy Reference

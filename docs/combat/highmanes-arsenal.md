@@ -2,17 +2,28 @@
 title: Highmane's Arsenal
 description: Player guide to documented Highmane gear, crafting, building, cosmetics, consumables, and companions.
 verification: server-verification-required
+guide: {"goal":"Find the Highmane system relevant to your build or base.","before":"Learn the relevant knowledge group and inspect the matching recipe category.","result":"Choose a focused equipment, accessory, crafting, or companion guide."}
 ---
 
 # Highmane's Arsenal
 
-**Source mod:** Highmane's Arsenal: Enhanced (`3721926604`)
 
 ![Official Workshop gallery image for Highmane's Arsenal](/media/mods/highmanes-arsenal.png)
 
 Highmane's Arsenal is a large content expansion with more than 2,000 documented items. This guide
 incorporates the player-relevant feature map while keeping the catalog filtered to content a normal
 player can actually obtain on this server.
+
+## Start with the item you need
+
+1. Choose the item category: equipment, accessory, crafting/decor, or companion.
+2. Open the matching local guide in the catalog section below.
+3. Learn the relevant Highmane knowledge group.
+4. Inspect the matching universal-bench recipe.
+5. Check the finished item's properties before treating its appearance as a sign of function.
+
+Use the equipment and accessory guides for combat decisions. Use the crafting and building guide
+for station flow and construction categories.
 
 ## Player-relevant feature map
 
@@ -53,6 +64,9 @@ An individual entry is published only after ordinary-player acquisition and beha
 Each record carries its source, category, route, station, requirements, effect, PvP notes, server
 restrictions, verification date, and image provenance. Entries without a verified ordinary-player
 acquisition path are excluded.
+
+## Mod identity
+**Source mod:** Highmane's Arsenal: Enhanced (`3721926604`)
 
 ## Source
 

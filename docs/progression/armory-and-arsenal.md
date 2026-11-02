@@ -2,13 +2,11 @@
 title: Armory and Arsenal
 description: Player guide to the documented classes, gear-building, followers, merchants, bosses, and ascension systems.
 verification: server-verification-required
+guide: {"goal":"Explore classes, gear development, and advanced progression.","before":"Open the player menu with its inventory control or Shift+V.","result":"Understand the system's scope and which displayed requirements to check before investing resources."}
 ---
 
 # Armory and Arsenal
 
-**Source mod:** [Enhanced] Armory and Arsenal v1.2.9 (`3718199031`)
-
-![Official Workshop image for Armory and Arsenal](/media/mods/armory-and-arsenal.png)
 
 Armory and Arsenal is a connected progression, gear-building, follower, merchant, and endgame
 system. Its current Enhanced Workshop documentation is summarized here so the player guide does not
@@ -18,6 +16,18 @@ depend on an external description.
 
 Open the player menu from its inventory button or press **Shift+V**. The menu includes the mod's
 in-game guide and is the best reference for the exact build installed on the server.
+
+## Pick a progression track
+
+| Goal | Inspect first | Before committing resources |
+| --- | --- | --- |
+| Develop a class | Class experience, perks, and ability bonuses in the player menu. | Read the selected class's displayed requirements. |
+| Improve equipment | Weapon, armor, gem, or accessory panels. | Check the actual recipe, effect, and enchanting cost. |
+| Explore endgame | Encounter and advanced-progression information. | Confirm access and requirements in the installed build. |
+| Change weapon scaling | The documented grindstone workflow when available. | Inspect the resulting scaling family. |
+
+Use the system descriptions below as a map of the mod. Exact values and acquisition routes need
+the corresponding current player-visible panel.
 
 ## Character and gear systems
 
@@ -52,6 +62,11 @@ and encounter access are not inferred from those catalog facts.
 
 All three features are modular. This wiki will add exact steps and values only after they are
 visible to an ordinary player on this server.
+
+## Mod identity
+
+![Official Workshop image for Armory and Arsenal](/media/mods/armory-and-arsenal.png)
+**Source mod:** [Enhanced] Armory and Arsenal v1.2.9 (`3718199031`)
 
 ## Source
 

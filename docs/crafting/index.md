@@ -2,6 +2,7 @@
 title: Crafting & Resources
 description: Entry point for verified crafting stations, recipe expansions, and resource workflows.
 verification: server-verification-required
+guide: {"goal":"Choose a crafting, material-sorting, or resource workflow.","before":"Inspect the current recipe for its knowledge, station, and material requirements.","result":"Find the relevant current guide and distinguish it from the separate Legacy crafting catalog."}
 ---
 
 # Crafting & Resources

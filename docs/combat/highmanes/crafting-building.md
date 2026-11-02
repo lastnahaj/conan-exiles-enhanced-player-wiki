@@ -3,6 +3,7 @@ title: Highmane Crafting, Building & Decor
 description:
   Local guide to Highmane benches, recipe expansions, building sets, conversions, and decorations.
 verification: server-verification-required
+guide: {"goal":"Craft Highmane items and plan a building or decoration project.","before":"Learn the knowledge for your category and inspect its bench requirement.","result":"Follow the recipe-to-bench workflow and identify the documented building and decoration groups."}
 ---
 
 # Highmane Crafting, Building & Decor
@@ -18,6 +19,18 @@ foliage, and building additions including Woodglass and Crypt-themed pieces.
 3. Gather the displayed ingredients. Most ordinary recipes use base-game resources, with cost
    scaling according to item rarity.
 4. Read the finished item or building-piece panel before committing rare materials.
+
+## Plan a project by category
+
+| Project | Start with |
+| --- | --- |
+| Weapons or armor | The relevant knowledge group and its universal-bench recipe |
+| A building extension | The displayed building-piece recipe and required materials |
+| A decoration layout | Individual decorations, customizable entries, or a pre-decorated cluster |
+| A resource conversion | A conversion recipe actually visible in the installed interface |
+
+Check the intended category before gathering materials. The source describes mostly base-game
+ingredients, but the current recipe still determines the actual requirements.
 
 ## Building and decoration coverage
 

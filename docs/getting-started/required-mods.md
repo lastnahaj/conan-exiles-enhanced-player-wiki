@@ -2,6 +2,7 @@
 title: Required Mods
 description: Canonical Steam Workshop names, IDs, roles, and local player guides for the server stack.
 verification: verified
+guide: {"goal":"Check the exact Enhanced mods required by the server.","before":"Let Steam finish pending Workshop downloads.","result":"Match canonical names and IDs and open the corresponding local instructions."}
 ---
 
 # Required Mods
@@ -9,6 +10,18 @@ verification: verified
 Use the exact Workshop name and ID below when checking your client. The **Wiki coverage** column
 opens the instructions in this wiki; you do not need to leave the site to learn what a mod does or
 how to use its documented player controls.
+
+## Check your client
+
+1. Let Steam finish all Workshop downloads.
+2. Compare exact names and IDs in the table below.
+3. Open the game's ESC menu and use [Simple Modlist](../qol/simple-modlist.md) to inspect loaded versions.
+4. If a mismatch remains, follow the [repair sequence](./mod-troubleshooting.md#mod-mismatch-or-version-error).
+
+A version string helps diagnose the running session; the Workshop ID identifies the exact mod.
+The table is an identity and coverage directory, not an independently verified load-order instruction.
+
+## Required stack
 
 | # | Required Enhanced mod | Workshop ID | Wiki coverage |
 | ---: | --- | ---: | --- |

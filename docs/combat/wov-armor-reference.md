@@ -2,6 +2,7 @@
 title: WoV Armor Stats — Legacy Reference
 description: Local archive of the complete Legacy WoV armor-stat table, clearly separated from current Enhanced values.
 verification: server-verification-required
+guide: {"goal":"Consult the archived WoV Armor Stats.","before":"This page preserves Legacy-era documentation. Check the current Enhanced guide before using historical routes or values.","result":"Find the historical workflow or table while keeping its edition and availability limits visible."}
 ---
 
 # WoV Armor Stats — Legacy Reference

@@ -2,9 +2,20 @@
 title: WoV Companions and Breeding
 description: Local Wings Of Valhalla guide to Rocknose and dragon breeding plus extended follower leveling.
 verification: server-verification-required
+guide: {"goal":"Breed WoV Rocknoses or Dragons and track follower growth.","before":"Obtain a supported egg or Pebblestone and inspect its current breeding recipe.","result":"Follow the correct breeding loop and use the station preview for current outcomes."}
 ---
 
 # WoV Companions and Breeding
+
+## Choose the breeding loop
+
+| Companion | Published Enhanced scope | Main input sequence |
+| --- | --- | --- |
+| Rocknose | 24 breedable variants | Supported egg or Pebblestone → breeding station → supported metal or stone |
+| Dragon | 14 breedable variants | Supported egg → displayed heating recipe → hatchling → breeding station → meat or fish |
+
+Use the current station preview to evaluate an outcome. The older food-probability tables are
+kept in the Legacy archive and do not establish current Enhanced odds.
 
 ## Rocknoses
 

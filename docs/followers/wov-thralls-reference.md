@@ -2,6 +2,7 @@
 title: WoV Thralls & Workers — Legacy Reference
 description: Local archive of Valkyrie camps, followers, unique workers, worker roles, and training-scroll behavior.
 verification: server-verification-required
+guide: {"goal":"Consult the archived WoV Thralls & Workers.","before":"This page preserves Legacy-era documentation. Check the current Enhanced guide before using historical routes or values.","result":"Find the historical workflow or table while keeping its edition and availability limits visible."}
 ---
 
 # WoV Thralls & Workers — Legacy Reference

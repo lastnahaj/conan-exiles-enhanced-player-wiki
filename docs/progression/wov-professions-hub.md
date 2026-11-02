@@ -2,12 +2,26 @@
 title: WoV Professions, Rewards, and Hub
 description: Local guide to Wings Of Valhalla profession growth, recipe unlocks, rewards, bounties, currency, and player settings.
 verification: server-verification-required
+guide: {"goal":"Use professions, rewards, bounties, and currency from the WoV hub.","before":"Read the character cap on the Welcome Screen, then open the hub.","result":"Find the right tab and check recipe requirements before working toward an unlock."}
 ---
 
 # WoV Professions, Rewards, and Hub
 
 Open the Wings Of Valhalla hub and choose **Profession**, **Rewards**, **Bounty**, **Currency**, or
 **Settings**. The Welcome Screen shows the current character cap before you begin using the hub.
+
+## Find the right tab
+
+| You want to… | Open |
+| --- | --- |
+| See profession progress or recipe unlocks | Profession |
+| Inspect character milestone rewards | Rewards |
+| Review a target and its progress | Bounty |
+| Inspect currency information | Currency |
+| Change personal hub presentation | Settings |
+
+For an unlock, inspect both the character-level and profession-level requirement before choosing
+the activity you will pursue.
 
 ## Profession progression
 

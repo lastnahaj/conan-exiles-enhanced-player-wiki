@@ -2,6 +2,7 @@
 title: WoV Storage, Resources, and World
 description: Local guide to Wings Of Valhalla automatic sorting, tools, resources, mines, travel areas, and torch bracelets.
 verification: server-verification-required
+guide: {"goal":"Route mixed loot into WoV sorting chests and identify resource systems.","before":"Open Decoration → Wings Of Valhalla in the construction hammer.","result":"Set up the destination categories you need and retrieve items from the correct chests."}
 ---
 
 # WoV Storage, Resources, and World
@@ -15,6 +16,12 @@ The **Dump Chest** automatically routes deposited loot into specialized WoV sort
 3. Place the Dump Chest and the specialized sorting chests you want to use.
 4. Deposit mixed loot into the Dump Chest.
 5. Retrieve the routed items from their destination chests.
+
+## Check the sorting result
+
+After depositing mixed loot, open the expected destination chest and inspect its contents.
+Place only the destination categories you intend to use. The list below is a category directory,
+not a requirement to build all twenty chests at once.
 
 ## Sorting destinations
 

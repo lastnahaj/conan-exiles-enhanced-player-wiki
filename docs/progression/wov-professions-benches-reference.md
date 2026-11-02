@@ -2,6 +2,7 @@
 title: WoV Professions & Benches — Legacy Reference
 description: Local archive of the player-facing profession and crafting-bench guide, separated from current Enhanced behavior.
 verification: server-verification-required
+guide: {"goal":"Consult the archived WoV Professions & Benches.","before":"This page preserves Legacy-era documentation. Check the current Enhanced guide before using historical routes or values.","result":"Find the historical workflow or table while keeping its edition and availability limits visible."}
 ---
 
 # WoV Professions & Benches — Legacy Reference

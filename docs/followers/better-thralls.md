@@ -2,13 +2,11 @@
 title: Better Thralls
 description: Local player guide to Better Thralls pickup, Warcry, teams, healing, hauling, home, and follower utility.
 verification: server-verification-required
+guide: {"goal":"Organize followers and use group commands.","before":"Have an owned follower available; optional commands depend on enabled features.","result":"Use Warcry, teams, and follower utility without confusing optional features with guaranteed limits."}
 ---
 
 # Better Thralls
 
-**Source mod:** Better Thralls v3.3.0 (Enhanced) (`3720904511`)
-
-![Official Workshop image for Better Thralls](/media/mods/better-thralls.png)
 
 Better Thralls expands follower management through several independent, configurable systems. This
 page incorporates the current Enhanced feature documentation; it does not assume every optional
@@ -17,6 +15,17 @@ system is enabled here.
 Open its player settings from the green control beside the character inventory. If that control is
 hidden, run `DataCmd BetterThralls` in the in-game console. The command opens ordinary player
 settings and does not require elevated permissions.
+
+## First follower session
+
+1. Ask the follower to follow using the normal white **Follow** action.
+2. Press **T** to inspect the available Warcry commands.
+3. Use **Go Away** when nearby followers obstruct a doorway or narrow route.
+4. If you use multiple followers, check the active follower limit before adding another.
+5. Create a named team only when the **Team(s)** radial entry is available.
+
+Start with basic commands before planning around hauling, healing, or home features. Those systems
+have independent availability and prerequisites.
 
 ## Warcry quick start
 
@@ -95,6 +104,11 @@ it in a wheel.
 - Additional followers receive experience through the game's normal follower experience system.
 - A Better Thralls Lamplighter has a small **BT** mark on its icon. A similar-looking thrall without
   that mark is not a Lamplighter from this mod.
+
+## Mod identity
+
+![Official Workshop image for Better Thralls](/media/mods/better-thralls.png)
+**Source mod:** Better Thralls v3.3.0 (Enhanced) (`3720904511`)
 
 ## Workshop
 

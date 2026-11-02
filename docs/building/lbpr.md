@@ -2,13 +2,11 @@
 title: Building Placement
 description: Local guide to the documented player-facing placement and preview tools in LBPR Enhanced.
 verification: server-verification-required
+guide: {"goal":"Place building pieces with clearer orientation and preview feedback.","before":"Equip the construction hammer and inspect the placement feedback.","result":"Understand the available helpers and distinguish a blocked placement from a preview issue."}
 ---
 
 # Building Placement
 
-**Source mod:** Less Building Placement Restrictions (Enhanced) - v1.0.3 (`3755091710`)
-
-![Official Workshop image for Less Building Placement Restrictions](/media/mods/lbpr.png)
 
 Less Building Placement Restrictions expands the placement options and visual helpers available to
 builders. Nearly every major capability is configurable, so this page separates documented tools
@@ -37,3 +35,8 @@ server-verified version of this guide can list which restrictions remain without
 configuration.
 
 [Current Enhanced Workshop page](https://steamcommunity.com/sharedfiles/filedetails/?id=3755091710)
+
+## Mod identity
+
+![Official Workshop image for Less Building Placement Restrictions](/media/mods/lbpr.png)
+**Source mod:** Less Building Placement Restrictions (Enhanced) - v1.0.3 (`3755091710`)

@@ -2,6 +2,7 @@
 title: Player Controls
 description: In-game keys, menus, and ordinary-player commands used by the Enhanced mod stack.
 verification: verified
+guide: {"goal":"Find a documented shortcut, menu, or player command.","before":"Check personal bindings when a default shortcut does not respond.","result":"Open the correct player interface without searching separate mod guides."}
 ---
 
 # Player Controls

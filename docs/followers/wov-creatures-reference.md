@@ -2,6 +2,7 @@
 title: WoV Creatures & Breeding — Legacy Reference
 description: Local archive of the detailed Rocknose, Dragon, pet-cage, bear, undead, and Abyssal Steed guide.
 verification: server-verification-required
+guide: {"goal":"Consult the archived WoV Creatures & Breeding.","before":"This page preserves Legacy-era documentation. Check the current Enhanced guide before using historical routes or values.","result":"Find the historical workflow or table while keeping its edition and availability limits visible."}
 ---
 
 # WoV Creatures & Breeding — Legacy Reference

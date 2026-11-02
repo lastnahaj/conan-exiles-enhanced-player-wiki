@@ -2,6 +2,7 @@
 title: Mod Troubleshooting
 description: Local fixes for mod mismatches, missing controls, version problems, and common Enhanced interface issues.
 verification: verified
+guide: {"goal":"Resolve a mod mismatch, missing control, or interface problem.","before":"Record the exact message and the loaded mod version.","result":"Choose a targeted repair sequence and collect useful details if the problem persists."}
 ---
 
 # Mod Troubleshooting

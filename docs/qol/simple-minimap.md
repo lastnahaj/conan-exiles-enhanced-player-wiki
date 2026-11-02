@@ -2,13 +2,11 @@
 title: Simple Minimap
 description: Local controls and feature guide for Simple Minimap Enhanced.
 verification: verified
+guide: {"goal":"Set up the minimap and create useful navigation markers.","before":"Hold F1 for mouse interaction with the published default binding.","result":"Position the map, adjust zoom, and create labeled markers from the full map."}
 ---
 
 # Simple Minimap
 
-**Source mod:** Simple Minimap (by Xevyr) v5.1.9 (`3719513784`)
-
-![Official Workshop image for Simple Minimap](/media/mods/simple-minimap.png)
 
 Simple Minimap adds a movable, configurable minimap with points of interest, navigation markers,
 clan tracking, corpse and home markers, and a separate custom-marker system.
@@ -20,6 +18,19 @@ clan tracking, corpse and home markers, and a separate custom-marker system.
 - Choose from five saved zoom levels and adjust the overall interface scale.
 - Use the top-right control to hide the minimap when it is not wanted.
 - Choose between a fixed-north view and compass mode, where the map rotates around the player.
+
+## Choose a navigation setup
+
+| Need | Setting or action |
+| --- | --- |
+| Keep landmarks aligned to north | Use fixed-north view. |
+| Keep the map aligned with your heading | Use compass mode. |
+| See more of the nearby area | Choose a different saved zoom level. |
+| Keep the panel clear of combat UI | Hold F1 and drag the central player icon. |
+| Mark a place for later | Shift-click the location on the full map. |
+
+For a custom marker, decide whether it belongs in local cross-server storage or the current
+game environment's database storage. Review sharing before making a marker visible to clan members.
 
 ## Information it can display
 
@@ -43,3 +54,8 @@ Marker availability does not establish that a location is safe, public, or reach
 full-PvP server.
 
 [Current Enhanced Workshop page](https://steamcommunity.com/sharedfiles/filedetails/?id=3719513784)
+
+## Mod identity
+
+![Official Workshop image for Simple Minimap](/media/mods/simple-minimap.png)
+**Source mod:** Simple Minimap (by Xevyr) v5.1.9 (`3719513784`)

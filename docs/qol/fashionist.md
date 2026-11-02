@@ -2,16 +2,25 @@
 title: Fashionist
 description: Local player guide to Fashionist armor, weapon, warpaint, saddle, follower, and attached-equipment styling.
 verification: server-verification-required
+guide: {"goal":"Style equipment and followers while understanding appearance restrictions.","before":"Open the blue inventory control or DataCmd Fashionist Config.","result":"Apply and save supported appearance changes without confusing style with combat statistics."}
 ---
 
 # Fashionist
 
-**Source mod:** Fashionist v5.0.9 (Enhanced) (`3720921242`)
-
-![Official Workshop image for Fashionist](/media/mods/fashionist.png)
 
 Fashionist separates visible style from equipped combat gear and adds appearance tools for players,
 followers, armor, weapons, warpaint, saddles, and attached equipment.
+
+## Apply a deliberate style change
+
+1. Decide whether you are styling the player, attached equipment, or a follower.
+2. Open the blue inventory control or run `DataCmd Fashionist Config`.
+3. Choose a supported appearance or display option.
+4. Apply **Save** before closing.
+5. Inspect the result and return clipping equipment to its default display if necessary.
+
+For follower sets, use the Armor Stand and Thrall Outfitters Bench workflow below. For character
+appearance, use the Fashionist Mirror section.
 
 ## Current Enhanced feature map
 
@@ -82,6 +91,11 @@ does not promise unrestricted restyling or hidden armor.
   failure. When available, Unlock Plus can expose an alternate pickup action.
 - If an option is grayed out, the server has disabled that player choice. The wiki does not assume
   it can be enabled locally.
+
+## Mod identity
+
+![Official Workshop image for Fashionist](/media/mods/fashionist.png)
+**Source mod:** Fashionist v5.0.9 (Enhanced) (`3720921242`)
 
 ## Workshop
 

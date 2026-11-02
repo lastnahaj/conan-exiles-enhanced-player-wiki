@@ -2,13 +2,11 @@
 title: Domain's Magic
 description: Complete local player guide to Domain's Magic casting, six elemental schools, spells, progression, controls, and troubleshooting.
 verification: server-verification-required
+guide: {"goal":"Learn to cast, choose a school, and understand its combat loop.","before":"Learn the relevant knowledge under Sorcery → Domain's Magic and place a spell on the hotbar.","result":"Understand all six schools, their spells, resource interactions, and player controls."}
 ---
 
 # Domain's Magic
 
-**Source mod:** Domain's Magic Enhanced (`3724192567`)
-
-![Official Workshop image for Domain's Magic Enhanced](/media/mods/domains-magic.png)
 
 Domain's Magic is a hotbar-based spell system built around Ember, Arctic, Umbra, Radiant,
 Voltaic, and Sanguine magic. Every spell is a usable item with a long in-game description. The
@@ -28,6 +26,20 @@ spells are learned from the **Sorcery → Domain's Magic** section of the Knowle
 Casting has a wind-up, slows movement, and can be interrupted. Weapons can remain equipped: they
 hide during the cast and return afterward. A spell cannot begin during a weapon swing, but it can
 begin as soon as the attack animation finishes. Magic damage scales from **Authority** by default.
+
+## Choose a school
+
+| School | Main loop | What to pay attention to |
+| --- | --- | --- |
+| Ember | Apply fire stacks, then detonate. | Nearby marked targets allow secondary explosions to overlap. |
+| Arctic | Build frost and set up a follow-up hit. | Choose between slowing, trapping, and the Detonate debuff. |
+| Umbra | Generate Soul Shards, then spend them. | Void Bolt and the ultimate compete for the same shard reserve. |
+| Radiant | Debuff enemies and support allies. | Radiant Burst heals allies, not the caster. |
+| Voltaic | Build the self-buff and prepare an instant cast. | The instant spell can come from another school. |
+| Sanguine | Sacrifice health, enter Frenzy, and heal through variant hits. | Spending health creates immediate risk; Sanguine Rain still has a cast time. |
+
+The school sections below list every spell and explain the resource or timing interaction.
+Published numbers are mod defaults; check the spell item's current description for its effective values.
 
 ## Ember — fire and explosions
 
@@ -148,6 +160,11 @@ changes only the caster's visual aura.
   spell itself finishes.
 - If the character becomes stuck in an incorrect animation state, relogging or removing the
   bracelet can clear the temporary state.
+
+## Mod identity
+
+![Official Workshop image for Domain's Magic Enhanced](/media/mods/domains-magic.png)
+**Source mod:** Domain's Magic Enhanced (`3724192567`)
 
 ## Workshop
 

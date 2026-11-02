@@ -2,11 +2,21 @@
 title: WoV Arsenals and Armor
 description: Local catalog of current Wings Of Valhalla weapon arsenals, crafting properties, dual wielding, and armor families.
 verification: server-verification-required
+guide: {"goal":"Choose among WoV weapon arsenals and armor families.","before":"Inspect the current knowledge and crafting panels for available recipes.","result":"Understand weapon families, dual wielding, and the differences between finished crafting rolls."}
 ---
 
 # WoV Arsenals and Armor
 
 ![Official Enhanced Workshop weapon image for Wings Of Valhalla](/media/mods/wov-weapons.png)
+
+## Evaluate a crafting result
+
+1. Find the weapon or armor recipe in the current crafting interface.
+2. Inspect its station, knowledge, and material requirements.
+3. After crafting, read the finished item's affixes and quality.
+4. Compare the finished pieces before selecting equipment.
+
+A family name identifies a group; it does not make two randomized crafts identical.
 
 ## Fifteen weapon arsenals
 

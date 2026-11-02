@@ -2,6 +2,7 @@
 title: WoV Crafting Catalog — Legacy Reference
 description: Local archive of WoV alchemy, enslaving, plants, foods, storage, bracelets, displays, wings, and rings.
 verification: server-verification-required
+guide: {"goal":"Consult the archived WoV Crafting Catalog.","before":"This page preserves Legacy-era documentation. Check the current Enhanced guide before using historical routes or values.","result":"Find the historical workflow or table while keeping its edition and availability limits visible."}
 ---
 
 # WoV Crafting Catalog — Legacy Reference

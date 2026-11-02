@@ -6,9 +6,6 @@ verification: server-verification-required
 
 # Player-Facing Server Systems
 
-**Source mod:** [Enhanced] Pippi - User & Server Management - v4.0.6 (`3725018456`)
-
-![Official Workshop image for Pippi Enhanced](/media/mods/pippi.png)
 
 The required stack includes Pippi, a framework that can present server information and interactions
 directly to ordinary players. This page covers only that public surface. Management panels,
@@ -29,6 +26,11 @@ development systems, hidden conditions, and internal logic are intentionally exc
 
 Only options actually shown in game are active here. The wiki does not invent command names,
 destinations, kit contents, timers, ranks, rewards, rules, or access requirements.
+
+## Mod identity
+
+![Official Workshop image for Pippi Enhanced](/media/mods/pippi.png)
+**Source mod:** [Enhanced] Pippi - User & Server Management - v4.0.6 (`3725018456`)
 
 ## Workshop
 

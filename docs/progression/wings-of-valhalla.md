@@ -2,14 +2,11 @@
 title: Wings Of Valhalla
 description: Local player hub for Wings Of Valhalla progression, professions, equipment, companions, storage, resources, and world systems.
 verification: server-verification-required
+guide: {"goal":"Choose a WoV progression, equipment, companion, or resource path.","before":"Use the current hub and recipe panels for the installed build.","result":"Navigate the connected WoV systems and keep current guidance separate from archived values."}
 ---
 
 # Wings Of Valhalla
 
-**Source mods:** Wings Of Valhalla (Beta) (`3719965485`) and Wings Of Valhalla Equipment (Beta)
-(`3721036709`)
-
-![Official Workshop image for Wings Of Valhalla](/media/mods/wings-of-valhalla.png)
 
 Wings Of Valhalla is a multi-system overhaul for character progression, professions, rewards,
 bounties, equipment, companions, storage, resources, and custom world areas. Its equipment module
@@ -79,6 +76,12 @@ and unavailable acquisition routes are not treated as current Enhanced facts.
 ## Development updates
 
 See the dated [development roadmap](../reference/wov-roadmap.md) for planned features.
+
+## Mod identity
+
+![Official Workshop image for Wings Of Valhalla](/media/mods/wings-of-valhalla.png)
+**Source mods:** Wings Of Valhalla (Beta) (`3719965485`) and Wings Of Valhalla Equipment (Beta)
+(`3721036709`)
 
 ## Workshop
 

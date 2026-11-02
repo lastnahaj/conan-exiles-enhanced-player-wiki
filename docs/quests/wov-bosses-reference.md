@@ -2,6 +2,7 @@
 title: WoV Bosses & Bounties — Legacy Reference
 description: Local archive of the player-facing WoV boss, harvesting, summoning-pool, trophy, and old bounty workflow.
 verification: server-verification-required
+guide: {"goal":"Consult the archived WoV Bosses & Bounties.","before":"This page preserves Legacy-era documentation. Check the current Enhanced guide before using historical routes or values.","result":"Find the historical workflow or table while keeping its edition and availability limits visible."}
 ---
 
 # WoV Bosses & Bounties — Legacy Reference

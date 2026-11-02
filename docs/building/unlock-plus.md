@@ -2,17 +2,25 @@
 title: Unlock Plus
 description: Local guide to Unlock Plus Enhanced storage, crafting, construction, and inventory workflows.
 verification: server-verification-required
+guide: {"goal":"Move materials, organize storage, and supply crafting recipes.","before":"Open a supported container or station; set keep/restock amounts before depositing supplies.","result":"Use the correct transfer action without emptying supplies you meant to keep."}
 ---
 
 # Unlock Plus
 
-**Source mod:** Unlock Plus v2.0.6 (Enhanced) (`3720948133`)
-
-![Official Workshop image for Unlock Plus](/media/mods/unlock-plus.png)
 
 Unlock Plus adds storage, material-pulling, distribution, restocking, and construction controls.
 The Enhanced version does not yet guarantee every feature known from the older edition, so this
 guide uses the current Enhanced page as its baseline.
+
+## Choose the right transfer
+
+- **One open container:** use Move to open storage.
+- **One crafting recipe:** use Pull for its ingredients.
+- **Mixed carried loot:** use the available deposit/distribution workflow.
+- **Supplies that must stay with you:** configure Keep and Restock first.
+
+These actions serve different purposes. Choose the destination and retained amounts before
+using a broad deposit action.
 
 ## Resource-management workflows
 
@@ -64,6 +72,11 @@ Enhanced edition. Do not rely on those older Legacy behaviors.
   currently open.
 - A private chest has no access path for other clan members. Use shared storage for anything the
   clan must reach.
+
+## Mod identity
+
+![Official Workshop image for Unlock Plus](/media/mods/unlock-plus.png)
+**Source mod:** Unlock Plus v2.0.6 (Enhanced) (`3720948133`)
 
 ## Workshop
 

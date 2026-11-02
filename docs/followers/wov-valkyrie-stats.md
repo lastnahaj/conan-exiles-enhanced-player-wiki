@@ -2,6 +2,7 @@
 title: WoV Valkyrie Stats by Location
 description: Level 0 Valkyrie attributes, growth chances, bonuses, and health from owner-supplied server captures.
 verification: verified
+guide: {"goal":"Compare the supplied level-zero Valkyrie examples by origin.","before":"Compare followers at the same level; separate attribute bonuses from total health.","result":"Read starting attributes, growth chances, and bonuses without assuming every spawn is identical."}
 ---
 
 # WoV Valkyrie Stats by Location
@@ -10,6 +11,15 @@ These **level 0 examples** record the values visible in the supplied server capt
 They do not establish fixed attributes or growth chances for every spawn from a location. Growth chance is the
 chance for an attribute to increase when the follower levels; it is not a guaranteed final build.
 Select any image to open its full-resolution crop.
+
+## Read the comparison in three passes
+
+1. Compare starting attributes and total health at the captured level.
+2. Compare growth chances separately; a higher chance is not a guaranteed final attribute value.
+3. Read attribute bonuses alongside the totals rather than treating a bonus as the total itself.
+
+The Blood entry is **Sema the Blood Primarch**. Its name and role differ from the Chosen captures,
+so do not interpret the row as a controlled test of location alone.
 
 ## Starting attributes and health
 

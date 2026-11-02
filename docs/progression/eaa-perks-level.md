@@ -2,17 +2,24 @@
 title: EAA — Enhanced Perks & Level
 description: Complete local reference for EAA levels, attributes, knowledge points, perks, and experience.
 verification: server-verification-required
+guide: {"goal":"Understand EAA's level and attribute progression.","before":"Check the live Welcome Screen and Attributes panel because WoV also supplies progression.","result":"Distinguish the standalone EAA curve from the combined values shown on this server."}
 ---
 
 # EAA — Enhanced Perks & Level
 
-**Source mod:** [Enhanced] EAA - Enhanced Perks & Level (`3720326124`)
-
-![Official Workshop image for EAA - Enhanced Perks & Level](/media/mods/eaa-perks-level.png)
 
 EAA extends the base progression model without changing the original perks. Wings Of Valhalla also
 supplies a level system, so the Welcome Screen and Attributes panel show which combined values are
 actually active. The complete standalone EAA progression documented by the mod is below.
+
+## Read your progression correctly
+
+1. Check the Welcome Screen for the character cap currently shown.
+2. Open Attributes and inspect the points and milestones available to your character.
+3. Use the table below to understand standalone EAA behavior.
+4. Keep WoV's separate progression system in mind when the live display differs.
+
+The standalone cap of 300 is not a second confirmation of the server's active combined cap.
 
 ## Standalone progression table
 
@@ -39,6 +46,11 @@ actually active. The complete standalone EAA progression documented by the mod i
 
 EAA's experience curve, attribute awards, and knowledge-point values are fixed by the mod.
 Experience gained in play advances the character through that fixed curve.
+
+## Mod identity
+
+![Official Workshop image for EAA - Enhanced Perks & Level](/media/mods/eaa-perks-level.png)
+**Source mod:** [Enhanced] EAA - Enhanced Perks & Level (`3720326124`)
 
 ## Workshop
 

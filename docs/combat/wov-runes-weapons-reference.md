@@ -2,6 +2,7 @@
 title: WoV Runes, Tools & Weapons — Legacy Reference
 description: Local archive of the WoV rune workflow, tool tiers, arsenal effects, reforging, and Elder gear ranges.
 verification: server-verification-required
+guide: {"goal":"Consult the archived WoV Runes, Tools & Weapons.","before":"This page preserves Legacy-era documentation. Check the current Enhanced guide before using historical routes or values.","result":"Find the historical workflow or table while keeping its edition and availability limits visible."}
 ---
 
 # WoV Runes, Tools & Weapons — Legacy Reference

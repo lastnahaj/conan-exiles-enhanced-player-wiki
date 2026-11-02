@@ -2,16 +2,27 @@
 title: The Damage Meter
 description: Combat tracking, encounter history, and interface controls for The Damage Meter.
 verification: verified
+guide: {"goal":"Read combat performance and inspect encounter history.","before":"Hold F1 to interact with the meter using its default controls.","result":"Choose the right view and distinguish current encounter results from totals."}
 ---
 
 # The Damage Meter
 
-**Source mod:** The Damage Meter (by Xevyr) - v5.0.9 (`3719585133`)
-
-![Official Workshop image for The Damage Meter](/media/mods/damage-meter.png)
 
 The Damage Meter provides real-time combat tracking for the player, followers, and nearby tracked
 players.
+
+## Choose the right comparison
+
+| Question | View or record |
+| --- | --- |
+| What happened in this fight? | Current encounter |
+| How much damage has been dealt across tracked activity? | Total Done |
+| How much damage has been received? | Total Received |
+| Which damage types contributed? | Hover the tracked row for its breakdown |
+| What happened at a specific moment? | Combat log, with timestamps enabled if useful |
+
+Keep the encounter segment consistent when comparing results. A current fight and a total since
+reset describe different time spans.
 
 ## Tracked information
 
@@ -44,3 +55,8 @@ The meter is a local combat-analysis tool. Its client-side history helps compare
 types, and follower contribution without defining server combat rules or changing damage.
 
 [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3719585133)
+
+## Mod identity
+
+![Official Workshop image for The Damage Meter](/media/mods/damage-meter.png)
+**Source mod:** The Damage Meter (by Xevyr) - v5.0.9 (`3719585133`)
