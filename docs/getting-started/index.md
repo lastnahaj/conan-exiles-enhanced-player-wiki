@@ -10,7 +10,7 @@ verification: verified
 
 ## Connect
 
-Use the game's direct-connect option with **15.204.96.41:7785**. Check
+Use the game's direct-connect option with **192.34.101.207:7785**. Check
 [server status](../server-status/index.md) if the connection fails.
 
 ## Prepare your mods

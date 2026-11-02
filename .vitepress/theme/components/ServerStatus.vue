@@ -36,7 +36,7 @@ async function loadStatus() {
   } catch {
     status.value = {
       status: "unavailable",
-      connect: "15.204.96.41:7785",
+      connect: "192.34.101.207:7785",
     };
   } finally {
     loading.value = false;
@@ -87,7 +87,7 @@ onUnmounted(() => window.clearInterval(refreshTimer));
       </div>
       <div class="server-status__metric server-status__metric--address">
         <span>Connect</span>
-        <strong>{{ status?.connect || "15.204.96.41:7785" }}</strong>
+        <strong>{{ status?.connect || "192.34.101.207:7785" }}</strong>
         <button type="button" @click="copyAddress">{{ copied ? "Copied" : "Copy" }}</button>
       </div>
       <div class="server-status__metric">

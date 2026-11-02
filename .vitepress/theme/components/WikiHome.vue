@@ -35,7 +35,7 @@ const shortcuts = [
         <p class="wiki-home__eyebrow">THE SERVER</p>
         <h2>Enter the Exiled Lands</h2>
         <p>Connect through the in-game server browser.</p>
-        <code>15.204.96.41:7785</code>
+        <code>192.34.101.207:7785</code>
         <a :href="withBase('/server-status/')">Check status and players <span aria-hidden="true">→</span></a>
         <div class="wiki-home__connection-note">Enhanced edition · Required mod stack</div>
       </aside>
