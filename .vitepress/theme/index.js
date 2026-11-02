@@ -1,6 +1,7 @@
 import DefaultTheme from "vitepress/theme";
 import WikiHome from "./components/WikiHome.vue";
 import GuideTools from "./components/GuideTools.vue";
+import ImageViewer from "./components/ImageViewer.vue";
 import SavedGuides from "./components/SavedGuides.vue";
 import { h } from "vue";
 import GuideEvidence from "./components/GuideEvidence.vue";
@@ -11,7 +12,10 @@ import ValkyrieStatsGallery from "./components/ValkyrieStatsGallery.vue";
 
 export default {
   extends: DefaultTheme,
-  Layout: () => h(DefaultTheme.Layout, null, { "doc-before": () => [h(GuideTools), h(GuideEvidence)] }),
+  Layout: () => h(DefaultTheme.Layout, null, {
+    "doc-before": () => [h(GuideTools), h(GuideEvidence)],
+    "layout-bottom": () => h(ImageViewer),
+  }),
   enhanceApp({ app }) {
     app.component("WikiHome", WikiHome);
     app.component("SavedGuides", SavedGuides);

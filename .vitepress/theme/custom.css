@@ -266,3 +266,74 @@ html:not(.dark) {
 .saved-guides > p:last-child { font-size: 11px; color: var(--vp-c-text-3); margin-top: 12px; }
 @media (max-width: 760px) { .wiki-home__hero { grid-template-columns: 1fr; padding: 32px 24px; } .wiki-home__connection { max-width: none; } .guide-tools__buttons { margin-left: 0; } }
 @media print { .VPSidebar, .VPNav, .VPDocAside, .guide-tools, .reading-progress, .VPDocFooter { display: none !important; } .VPContent { padding: 0 !important; } }
+
+/* Consistent reading surfaces and interaction states. */
+.VPDoc { padding-top: 36px !important; }
+.VPDoc .main { padding-bottom: 24px; }
+.VPNavBar .container { min-height: 64px; }
+.VPSidebar .group { padding-top: 14px !important; padding-bottom: 12px !important; }
+.VPSidebarItem.level-0 > .item { min-height: 32px; }
+.VPSidebarItem.level-0 > .item > .text { line-height: 1.5; }
+.VPSidebarItem.level-1 .text { line-height: 1.65; padding-block: 3px; }
+.VPDocAsideOutline { border-left: 1px solid var(--vp-c-divider); padding-left: 16px; }
+.VPDocAsideOutline .outline-title { font-size: 10px; text-transform: uppercase; letter-spacing: .12em; color: var(--vp-c-text-3); }
+.VPDocAsideOutline .outline-link { line-height: 1.5; padding-block: 6px; font-size: 12px; }
+.vp-doc > div > h1 + p { font-size: 17px; line-height: 1.85; color: var(--vp-c-text-2); }
+.vp-doc p { margin-block: 18px; }
+.vp-doc li + li { margin-top: 7px; }
+.vp-doc strong { font-weight: 650; }
+.vp-doc :not(pre) > code { border: 1px solid var(--vp-c-divider); border-radius: 3px; padding: 2px 5px; font-size: .85em; }
+.vp-doc blockquote { border-left: 2px solid var(--vp-c-brand-1); padding: 2px 20px; margin-block: 26px; background: var(--vp-c-brand-soft); }
+.vp-doc table { margin-block: 24px 30px; scrollbar-width: thin; scrollbar-color: var(--vp-c-brand-1) transparent; }
+.vp-doc table:focus-visible { outline: 2px solid var(--vp-c-brand-1); outline-offset: 4px; }
+.vp-doc th { letter-spacing: .025em; font-weight: 650; }
+.vp-doc td { vertical-align: top; }
+.vp-doc tbody tr:hover { background: var(--vp-c-brand-soft); }
+.vp-doc .custom-block { margin-block: 24px; }
+.vp-doc p > img[src*="/media/mods/"] { max-height: 230px; max-width: min(100%, 400px); margin-block: 28px 32px; }
+.vp-doc img { cursor: zoom-in; }
+.guide-evidence { display: flex; align-items: baseline; flex-wrap: wrap; gap: 4px; margin-bottom: 30px !important; }
+.guide-evidence details { margin-left: auto; }
+.guide-evidence summary { cursor: pointer; color: var(--vp-c-text-3); text-underline-offset: 3px; }
+.guide-evidence details[open] { flex-basis: 100%; margin: 8px 0 0; }
+.guide-evidence details p { margin: 8px 0 0; max-width: 62ch; }
+.guide-tools { font-size: 11px; margin-bottom: 14px; }
+.guide-tools button { min-height: 32px; cursor: pointer; }
+.guide-tools button:focus-visible, .image-viewer button:focus-visible { outline: 2px solid var(--vp-c-brand-1); outline-offset: 3px; }
+.server-status { border-radius: 4px !important; background: var(--vp-c-bg-soft) !important; padding: 24px !important; }
+.server-status__metric { border-radius: 3px !important; }
+.server-status__metric strong { font-variant-numeric: tabular-nums; }
+.valkyrie-stat-card { border-radius: 4px !important; }
+.valkyrie-stat-card a:focus-visible { outline: 2px solid var(--vp-c-brand-1); outline-offset: -3px; }
+.valkyrie-stat-card figcaption { font-size: 13px; font-weight: 500 !important; }
+.VPDocFooter .pager-link { padding: 20px; min-height: 96px; }
+.VPDocFooter .pager-link .desc { font-size: 10px; text-transform: uppercase; letter-spacing: .08em; color: var(--vp-c-text-3); }
+.VPDocFooter .pager-link .title { font-size: 15px; margin-top: 6px; }
+.wiki-home__card { box-shadow: 0 8px 24px rgba(0,0,0,.08); }
+.wiki-home__card-image { height: 170px; }
+.wiki-home__card h3 { line-height: 1.25; }
+.wiki-home__card:hover { transform: translateY(-2px); }
+.wiki-home__card { transition: transform .18s ease, border-color .18s ease; }
+.wiki-home__quick a { min-height: 30px; display: inline-flex; align-items: center; }
+.wiki-home__feature { margin-top: 48px; }
+.image-viewer { width: min(1100px, 94vw); max-width: 94vw; max-height: 94vh; padding: 0; border: 1px solid var(--vp-c-divider); border-radius: 6px; background: var(--vp-c-bg); color: var(--vp-c-text-1); }
+.image-viewer::backdrop { background: rgba(0,0,0,.85); }
+.image-viewer__content { display: flex; flex-direction: column; padding: 16px; gap: 14px; }
+.image-viewer header { display: flex; justify-content: space-between; align-items: center; gap: 20px; font-size: 12px; color: var(--vp-c-text-2); }
+.image-viewer header span { max-width: 75%; }
+.image-viewer button { padding: 8px 12px; border: 1px solid var(--vp-c-divider); border-radius: 3px; cursor: pointer; flex-shrink: 0; }
+.image-viewer img { max-height: 75vh; width: 100%; object-fit: contain; }
+.image-viewer a { align-self: end; font-size: 12px; color: var(--vp-c-brand-1); }
+@media (max-width: 640px) {
+  .VPDoc { padding-top: 24px !important; }
+  .guide-tools > span:not(.guide-tools__divider) { max-width: 180px; }
+  .guide-tools__buttons { width: 100%; margin-top: 4px; }
+  .guide-evidence details { margin-left: 0; flex-basis: 100%; margin-top: 6px; }
+  .vp-doc h1 { font-size: 34px; }
+  .vp-doc h2 { font-size: 26px; }
+  .vp-doc table { font-size: 13px; }
+  .vp-doc td, .vp-doc th { padding: 10px 12px; }
+  .server-status { padding: 16px !important; }
+  .wiki-home__card-image { height: 190px; }
+}
+@media (prefers-reduced-motion: reduce) { .wiki-home__card { transition: none; } .wiki-home__card:hover { transform: none; } }

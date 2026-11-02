@@ -4,7 +4,7 @@ import { resolve } from "node:path";
 const repositoryName = process.env.GITHUB_REPOSITORY?.split("/")[1];
 const isProjectPages = process.env.GITHUB_ACTIONS === "true" && repositoryName;
 
-export default defineConfig({
+const config = defineConfig({
   srcDir: "docs",
   outDir: ".vitepress/dist",
   cacheDir: ".vitepress/cache",
@@ -199,3 +199,26 @@ export default defineConfig({
     },
   },
 });
+
+// Keep historical material discoverable without mixing it into current gameplay navigation.
+const archive = [];
+for (const group of config.themeConfig.sidebar) {
+  if (group.text !== "Getting Started") group.collapsed = true;
+  group.items = group.items.filter(item => {
+    if (item.link?.endsWith("-reference")) {
+      archive.push(item);
+      return false;
+    }
+    return true;
+  });
+}
+config.themeConfig.sidebar.push({
+  text: "Legacy Archive",
+  collapsed: true,
+  items: archive,
+});
+config.themeConfig.sidebar.find(group => group.text === "Reference").items.push({
+  text: "Development Roadmap",
+  link: "/reference/wov-roadmap",
+});
+export default config;

@@ -19,7 +19,10 @@ const label = computed(() => {
   <aside v-if="record" class="guide-evidence">
     <strong>{{ label }}</strong>
     <span> · Checked {{ record.verified_at }}</span>
-    <p v-if="record.status === 'server-verification-required'">Published mod behavior; server availability and tuning may differ.</p>
+    <details v-if="record.status === 'server-verification-required'">
+      <summary>About these values</summary>
+      <p>Published mod behavior; server availability and tuning may differ. Legacy references describe historical systems.</p>
+    </details>
   </aside>
 </template>
 
