@@ -9,7 +9,7 @@
   },
   "scripts": {
     "dev": "vitepress dev .",
-    "build": "node scripts/verify-wiki.mjs && vitepress build .",
+    "build": "node scripts/verify-wiki.mjs && vitepress build . && node scripts/verify-rendered.mjs",
     "preview": "vitepress preview .",
     "catalog:exiles-extreme": "node scripts/import-exiles-extreme.mjs",
     "status:update": "node scripts/query-server-status.mjs",

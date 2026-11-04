@@ -6,24 +6,35 @@ verification: server-verification-required
 
 # Creatures & Bosses
 
-# Creatures & Bosses
+Use the companion guides for breeding and follower choices; use the encounter guides for boss and hunt systems.
 
-The required mod stack adds several distinct creature systems. Use this index to stay inside the
-wiki and jump to the complete local guide for each one.
+## Companions and followers
 
-| System | Locally documented content |
+| Task | Guide |
 | --- | --- |
-| [WoV companions and breeding](../followers/wov-companions.md) | 24 breedable Rocknoses, 14 breedable Dragons, the Enhanced breeding loops, and follower progression to level 100. |
-| [WoV detailed creature reference](../followers/wov-creatures-reference.md) | Legacy Rocknose and Dragon food tables, probabilities, and other companion routes, clearly separated from Enhanced. |
-| [WoV thralls and workers](../followers/wov-thralls-reference.md) | Legacy camp structure, follower roles, named specialists, worker families, and training scrolls. |
-| [Armory and Arsenal](../progression/armory-and-arsenal.md) | 40 craftable pets, roughly 60 or more custom bosses across 11 tiers, and 38 named followers to hunt and collect. |
-| [Highmane pets and mounts](../combat/highmanes/companions.md) | The mod's pet, rideable-mount, saddle, and companion categories. |
-| [Better Thralls](../followers/better-thralls.md) | Follower pickup, teams, Warcry, healing, hauling, home, and compatible follower groups. |
-| [Extended Thrall Stats](../followers/extended-thrall-stats.md) | Detailed follower combat and growth fields. |
+| Breed a Rocknose or Dragon | [WoV breeding loops](../followers/wov-companions.md) |
+| Compare captured Valkyrie stats | [Valkyrie examples](../followers/wov-valkyrie-stats.md) |
+| Inspect follower multipliers | [Extended Thrall Stats](../followers/extended-thrall-stats.md) |
+| Manage a follower group | [Better Thralls](../followers/better-thralls.md) |
+| Check pets, mounts, and saddle compatibility | [Highmane companions](../combat/highmanes/companions.md) |
 
-## Discovery boundary
+## Encounters and hunts
 
-Catalog counts and system behavior are documented here, but the wiki does not invent spawn points,
-encounter access, boss drops, breeding probabilities, or acquisition routes that the current
-player interface does not show. This keeps exploration intact without reducing the page to an
-external-source link.
+[Armory and Arsenal](../progression/armory-and-arsenal.md#endgame-and-world-content) documents boss tiers and named-follower hunts. Use the installed player interface and encounter information for current access and requirements.
+
+[WoV bounty tracking](../progression/wov-professions-hub.md#bounties) tracks eligible targets through the hub. Follow its displayed objective and progress.
+
+## Check a candidate before investing
+
+1. Identify whether you are evaluating a pet, mount, combat follower, or worker.
+2. Inspect the visible acquisition or breeding recipe.
+3. Read the current stat or compatibility panel.
+4. Use the relevant guide above before committing rare materials or equipment.
+
+## Legacy encounter references
+
+- [WoV creatures and breeding](../followers/wov-creatures-reference.md): historical food tables and probabilities.
+- [WoV thralls and workers](../followers/wov-thralls-reference.md): historical camp roles and specialists.
+- [WoV bosses and bounties](../quests/wov-bosses-reference.md): historical encounters, summoning, and bounty workflows.
+
+These archived tables do not establish current Enhanced spawns, drops, or breeding odds.

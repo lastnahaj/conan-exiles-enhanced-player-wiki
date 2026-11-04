@@ -10,7 +10,7 @@ The external pages below are an audit trail, not part of the player reading path
 instructions, catalogs, controls, workflows, and troubleshooting have been incorporated into local
 guides. These links remain only for identity, author credit, provenance, and source audits.
 
-Every source below was rechecked on **August 24, 2026**. An author page can establish what a mod
+The Workshop and author-documentation audit below dates to **August 24, 2026**. An author page can establish what a mod
 documents; it does not establish which configurable features or values are active on this server.
 The exact Enhanced Workshop page is the canonical source for a mod's public name and ID.
 
@@ -53,15 +53,19 @@ The exact Enhanced Workshop page is the canonical source for a mod's public name
 | [Better Thralls Q&A](https://testerle.net/better-thralls-qa/)                                                                                   | Current-compatible follower troubleshooting is incorporated into the [local Better Thralls guide](../followers/better-thralls.md). |
 | [Fashionist Q&A](https://testerle.net/fashionist-qa/) and [configuration guide](https://testerle.net/fashionist-configuration/)                 | Current-compatible player controls and troubleshooting are incorporated into the [local Fashionist guide](../qol/fashionist.md). |
 
-## Deliberate exclusions
+## Publisher imagery and server captures
+
+- [Official Conan Exiles Enhanced artwork](https://www.conanexiles.com/enhanced/): general landscapes and gameplay illustrations, checked November 2, 2026. This artwork does not establish server-specific behavior.
+- [Valkyrie stat captures](../followers/wov-valkyrie-stats.md): owner-supplied level-zero examples received August 25, 2026. Each crop retains its source provenance.
+
+## Reading boundaries
 
 - Legacy Workshop pages and screenshots do not establish Enhanced behavior on their own.
 - General Workshop collections, third-party guides, comments, and community posts are not used as
   factual sources.
 - Only confirmed player-visible features belong in this wiki.
-- Locally stored images come only from the exact Enhanced Workshop pages or approved author
-  documentation. Legacy-era references are explicitly captioned and used only for features also
-  confirmed by a current Enhanced source.
+- Locally stored images come from exact Enhanced Workshop pages, approved author documentation,
+  official publisher media, or owner-supplied server captures. Legacy-era references remain captioned.
 
 The machine-readable audit, including source role and edition scope, is maintained in
 `data/sources.json` and checked during every production build.
